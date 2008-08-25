@@ -1,13 +1,19 @@
 Rpodcast
 ========
 
-Introduction goes here.
+RPodcast is a ruby library that fetches and parses podcast rss feeds.  It aims to support many different podcast specs, including the iTunes podcast spec.
 
 
 Example
 =======
 
-Example goes here.
+>> feed = RPodcast::Feed.new("http://www.1up.com/flat/Podcasts/vodcasts.xml")
+=> The 1UP Show - http://www.1up.com/flat/Podcasts/vodcasts.xml (20 episodes)
+>> feed.title
+=> "The 1UP Show"
+>> feed.image
+=> "http://www.1up.com/flat/Podcasts/1upvideo300x300.jpg"
+>> feed.episodes.first.enclosure
+=> #<RPodcast::Enclosure:0x29038e4 @size=nil, @type="video/quicktime", @url="http://www.podtrac.com/pts/redirect.mp3/download.gamevideos.com/Podcasts/082208.m4v">
 
-
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 Michael Nutt <michael@nuttnet.net>, released under the MIT license
