@@ -1,11 +1,12 @@
 module RPodcast
   class Episode
-    attr_accessor :enclosure
+    attr_accessor :enclosure, :guid, :title, :summary, :published_at, :size
     
-    def self.parse_episodes(doc)
+    def self.parse_episodes(content)
+      @doc = REXML::Document.new(content)
       episode_docs = []
       
-      doc.elements.each('rss/channel/item') do |e|
+      @doc.elements.each('rss/channel/item') do |e|
         episode_docs << self.new(e)
       end
 

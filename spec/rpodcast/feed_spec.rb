@@ -1,13 +1,10 @@
- require File.dirname(__FILE__) + '/../spec_helper'
+require File.dirname(__FILE__) + '/../spec_helper'
 
 describe RPodcast::Feed, "instantiating a new feed" do
 
   before do
-    @podcast = RPodcast::Feed.new(File.join(ROOT, 'spec', 'data', 'example.xml'))
-  end
-
-  it 'should set the feed url' do
-    @podcast.url.should == "./spec/rpodcast/../../spec/data/example.xml"
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'example.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
   end
 
   it 'should extract the title' do

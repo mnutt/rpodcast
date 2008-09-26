@@ -5,7 +5,7 @@ module RPodcast
     def initialize(element)
       @url = element['url']
       @type = element['type']
-      @size = element['size']
+      @size = (element['size'] or element['length']).to_i
     end
   end
 end
