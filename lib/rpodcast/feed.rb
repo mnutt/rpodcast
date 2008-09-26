@@ -18,7 +18,7 @@ module RPodcast
       @doc = parse_feed
 
       unless @content.nil?
-        @episodes = RPodcast::Episode.parse_episodes(@content)
+        @episodes = RPodcast::Episode.parse(@content)
       end
     end
 
