@@ -15,6 +15,8 @@ module RPodcast
       @attributes = {}
       @episodes = []
 
+      raise PodcastError, "This is not an RSS feed. Try again." unless @content =~ /^[\s]*<\?xml/
+
       @doc = parse_feed
 
       unless @content.nil?

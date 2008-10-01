@@ -1,8 +1,8 @@
 module RPodcast
   class Episode
-    EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure]
+    EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :duration]
 
-    attr_accessor :attributes
+    attr_accessor :attributes, :enclosure
     
     def self.parse(content)
       @doc = REXML::Document.new(content)
@@ -13,6 +13,8 @@ module RPodcast
       end
 
       episode_docs
+    rescue
+      raise PodcastError, "There was a problem parsing the feed."
     end
 
     def initialize(doc)
@@ -22,7 +24,22 @@ module RPodcast
       @attributes[:summary] = doc.elements['description'].text rescue nil
       @attributes[:summary] ||= doc.elements['itunes:summary'].text rescue nil
       @attributes[:published_at] = Time.parse(doc.elements['pubDate'].text) rescue nil
-      @attributes[:enclosure] = RPodcast::Enclosure.new(doc.elements['enclosure'].attributes)
+
+      begin
+        # Time may be under an hour
+        time = doc.elements['itunes:duration'].text
+        time = "00:#{time}" if time.size < 6
+        time_multiplier = [24 * 60, 60, 1]
+        @attributes[:duration] = time.split(":").map { |t| 
+          seconds = t.to_i * time_multiplier[0]
+          time_multiplier.shift
+          seconds
+        }.sum 
+      rescue 
+        @attributes[:duration] = 0
+      end
+
+      @enclosure = RPodcast::Enclosure.new(doc.elements['enclosure'].attributes)
     end
 
     protected
