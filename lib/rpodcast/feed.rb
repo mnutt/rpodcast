@@ -6,6 +6,9 @@ module RPodcast
   class PodcastError < StandardError; end
   class InvalidXMLError < PodcastError; end
   class NoEnclosureError < PodcastError; end
+  # other exceptions that might be helpful, but not explicitly used here
+  class InvalidAddressError < PodcastError; end
+  class BannedFeedError < PodcastError; end
 
   class Feed
     FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories]
