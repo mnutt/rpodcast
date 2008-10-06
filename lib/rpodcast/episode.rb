@@ -5,6 +5,8 @@ module RPodcast
     attr_accessor :attributes, :enclosure
     
     def self.parse(content)
+      RPodcast::Feed.validate_feed(content)
+
       @doc = REXML::Document.new(content)
       episode_docs = []
       
@@ -13,8 +15,6 @@ module RPodcast
       end
 
       episode_docs
-    rescue
-      raise PodcastError, "There was a problem parsing the feed."
     end
 
     def initialize(doc)

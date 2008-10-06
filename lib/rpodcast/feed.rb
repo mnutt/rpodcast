@@ -15,12 +15,17 @@ module RPodcast
     
     attr_accessor :feed, :episodes, :attributes
 
+    def self.validate_feed(content)
+      raise InvalidXMLError unless content =~ /^[\s]*<\?xml/
+      raise NoEnclosureError unless content =~ /\<enclosure/
+    end
+
     def initialize(content, options={})
       @content = content
       @attributes = {}
       @episodes = []
 
-      raise InvalidXMLError unless @content =~ /^[\s]*<\?xml/
+      Feed.validate_feed(@content)
 
       @doc = parse_feed
 
@@ -31,7 +36,6 @@ module RPodcast
 
     def parse_feed
       doc = REXML::Document.new(@content)
-      raise NoEnclosureError unless REXML::XPath.first(doc, "//enclosure")
 
       FEED_ATTRIBUTES.each do |attribute|
         @attributes[attribute] = self.send("parse_#{attribute.to_s}", doc) rescue nil
