@@ -15,7 +15,7 @@ module RPodcast
       @attributes = {}
       @episodes = []
 
-      raise PodcastError, "This is not an RSS feed. Try again." unless @content =~ /^[\s]*<\?xml/
+      raise PodcastError, "That's not an RSS feed." unless @content =~ /^[\s]*<\?xml/
 
       @doc = parse_feed
 
@@ -26,7 +26,7 @@ module RPodcast
 
     def parse_feed
       doc = REXML::Document.new(@content)
-      raise PodcastError, "This is not a podcast feed." unless REXML::XPath.first(doc, "//enclosure")
+      raise PodcastError, "That's a text RSS feed, not an audio or video podcast." unless REXML::XPath.first(doc, "//enclosure")
 
       FEED_ATTRIBUTES.each do |attribute|
         @attributes[attribute] = self.send("parse_#{attribute.to_s}", doc) rescue nil
