@@ -4,6 +4,8 @@ require 'rexml/document'
 
 module RPodcast
   class PodcastError < StandardError; end
+  class InvalidXMLError < PodcastError; end
+  class NoEnclosureError < PodcastError; end
 
   class Feed
     FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories]
@@ -15,7 +17,7 @@ module RPodcast
       @attributes = {}
       @episodes = []
 
-      raise PodcastError, "That's not an RSS feed." unless @content =~ /^[\s]*<\?xml/
+      raise InvalidXMLError unless @content =~ /^[\s]*<\?xml/
 
       @doc = parse_feed
 
@@ -26,7 +28,7 @@ module RPodcast
 
     def parse_feed
       doc = REXML::Document.new(@content)
-      raise PodcastError, "That's a text RSS feed, not an audio or video podcast." unless REXML::XPath.first(doc, "//enclosure")
+      raise NoEnclosureError unless REXML::XPath.first(doc, "//enclosure")
 
       FEED_ATTRIBUTES.each do |attribute|
         @attributes[attribute] = self.send("parse_#{attribute.to_s}", doc) rescue nil
