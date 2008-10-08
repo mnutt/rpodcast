@@ -1,6 +1,6 @@
 require 'open-uri'
 require 'timeout'
-require 'rexml/document'
+require 'hpricot'
 
 module RPodcast
   class PodcastError < StandardError; end
@@ -35,7 +35,7 @@ module RPodcast
     end
 
     def parse_feed
-      doc = REXML::Document.new(@content)
+      doc = Hpricot.XML(@content)
 
       FEED_ATTRIBUTES.each do |attribute|
         @attributes[attribute] = self.send("parse_#{attribute.to_s}", doc) rescue nil
@@ -45,55 +45,55 @@ module RPodcast
     end
 
     def parse_title(doc)
-      get_text_from_element(doc, 'rss/channel/title')
+      (doc/'rss'/'channel'%'title').inner_html
     end
 
     def parse_link(doc)
-      get_text_from_element(doc, 'rss/channel/link')
+      (doc/'rss'/'channel'%'link').inner_html
     end
 
     def parse_copyright(doc)
-      get_text_from_element(doc, 'rss/channel/copyright')
+      (doc/'rss'/'channel'%'copyright').inner_html
     end
 
     def parse_image(doc)
-      doc.elements.each('rss/channel/itunes:image') do |e|
-        return e.attributes['href'] if e.attributes['href']
+      (doc/'rss'/'channel'/'itunes:image').each do |e|
+        return e['href'] if e['href']
       end
-      get_text_from_element(doc, 'rss/channel/image/url')
+      (doc/'rss'/'channel'/'image'%'url').inner_html
     end
 
     def parse_keywords(doc)
-      doc.elements.each('rss/channel/itunes:keywords') do |e|
-        return e.text.split(', ')
+      (doc/'rss'/'channel'/'itunes:keywords').each do |e|
+        return e.inner_html.split(', ')
       end
     end
 
     def parse_categories(doc)
       categories = []
-      doc.elements.each('rss/channel/itunes:category') do |e|
-        categories << e.attributes['text']
+      (doc/'rss'/'channel'/'itunes:category').each do |e|
+        categories << e['text']
       end
-      doc.elements.each('rss/channel/itunes:category/itunes:category') do |e|
-        categories << e.attributes['text']
+      (doc/'rss'/'channel'/'itunes:category'/'itunes:category').each do |e|
+        categories << e['text']
       end
       categories.flatten.uniq
     end
 
     def parse_summary(doc)
-      get_text_from_element(doc, 'rss/channel/itunes:summary')
+      (doc/'rss'/'channel'%'itunes:summary').inner_html
     end
 
     def parse_language(doc)
-      get_text_from_element(doc, 'rss/channel/language')
+      (doc/'rss'/'channel'%'language').inner_html
     end
 
     def parse_owner_email(doc)
-      get_text_from_element(doc, 'rss/channel/itunes:owner/itunes:email')
+      (doc/'rss'/'channel'/'itunes:owner'%'itunes:email').inner_html
     end
 
     def parse_owner_name(doc)
-      get_text_from_element(doc, 'rss/channel/itunes:owner/itunes:name')
+      (doc/'rss'/'channel'/'itunes:owner'%'itunes:name').inner_html
     end
 
     protected
@@ -103,12 +103,6 @@ module RPodcast
           @attributes[method.to_sym]
         else
           super
-        end
-      end
-      
-      def get_text_from_element(doc, node)
-        doc.elements.each(node) do |e|
-          return e.text
         end
       end
   end
