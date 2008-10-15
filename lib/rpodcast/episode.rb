@@ -24,7 +24,7 @@ module RPodcast
         }.sum 
       rescue 
         begin
-          @attributes[:duration] = el.at('media:content').attributes('duration').to_i
+          @attributes[:duration] = (el % 'media:content')[:duration].to_i
         rescue
           @attributes[:duration] = 0
         end
