@@ -7,29 +7,19 @@ module RPodcast
       "video/msvideo"   => :avi,
       "video/x-msvideo" => :avi,
       "video/divx"      => :divx,
-      "video/mp4"       => :quicktime,
-      "video/mpeg"      => :quicktime,
-      "video/quicktime" => :quicktime,
-      "video/x-m4v"     => :quicktime,
-      "video/x-mpeg"    => :quicktime,
+      "video/mp4"       => :m4v,
+      "video/mpeg"      => :mpg,
+      "video/quicktime" => :mov,
+      "video/x-m4v"     => :m4v,
+      "video/x-mpeg"    => :mpg,
       "video/x-ms-wmv"  => :wmv,
-    }.freeze
-    @@file_extensions = {
-      "flv" => :flash,
-      "mp3" => :mp3,
-      "m4v" => :quicktime,
-      "mov" => :quicktime,
-      "mp4" => :quicktime,
-      "mpg" => :quicktime,
-      "wma" => :wma,
-      "wmv" => :wmv,
     }.freeze
 
     def initialize(element)
       @url    = element['url'] rescue nil
       @type   = element['type'] rescue nil
       @size   = (element['size'] or element['length']).to_i rescue nil
-      @format = @@content_types[self.type] || @@file_extensions[self.extension] || :unknown
+      @format = self.extension || @@content_types[self.type] || :unknown
     end
 
     def extension
