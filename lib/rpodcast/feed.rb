@@ -11,7 +11,7 @@ module RPodcast
   class BannedFeedError < PodcastError; end
 
   class Feed
-    FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories, :episodes, :bitrate]
+    FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories, :episodes, :bitrate, :format]
     
     attr_accessor :feed, :attributes
 
@@ -37,6 +37,7 @@ module RPodcast
       end
 
       @attributes[:bitrate] = self.episodes.map {|e| e.bitrate }.sum / self.episodes.size
+      @attributes[:format]  = self.episodes.first.enclosure.format rescue :unknown
     end
 
     def parse_title(h)
