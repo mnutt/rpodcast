@@ -11,9 +11,9 @@ module RPodcast
   class BannedFeedError < PodcastError; end
 
   class Feed
-    FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories]
+    FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories, :episodes]
     
-    attr_accessor :feed, :episodes, :attributes
+    attr_accessor :feed, :attributes
 
     def self.validate_feed(content)
       raise InvalidXMLError unless content =~ /^[\s]*<\?xml/
@@ -23,87 +23,72 @@ module RPodcast
     def initialize(content, options={})
       @content = content
       @attributes = {}
-      @episodes = []
 
       Feed.validate_feed(@content)
 
-      @doc = parse_feed
-
-      unless @content.nil?
-        @episodes = RPodcast::Episode.parse(@content)
-      end
+      self.parse_feed
     end
 
     def parse_feed
-      doc = Hpricot.XML(@content)
+      h = Hpricot.XML(@content)
 
       FEED_ATTRIBUTES.each do |attribute|
-        @attributes[attribute] = self.send("parse_#{attribute.to_s}", doc) rescue nil
-      end
-
-      doc
-    end
-
-    def parse_title(doc)
-      (doc/'rss'/'channel'%'title').inner_html
-    end
-
-    def parse_link(doc)
-      (doc/'rss'/'channel'%'link').inner_html
-    end
-
-    def parse_copyright(doc)
-      (doc/'rss'/'channel'%'copyright').inner_html
-    end
-
-    def parse_image(doc)
-      (doc/'rss'/'channel'/'itunes:image').each do |e|
-        return e['href'] if e['href']
-      end
-      (doc/'rss'/'channel'/'image'%'url').inner_html
-    end
-
-    def parse_keywords(doc)
-      (doc/'rss'/'channel'/'itunes:keywords').each do |e|
-        return e.inner_html.split(', ')
+        @attributes[attribute] = self.send("parse_#{attribute}", h) rescue nil
       end
     end
 
-    def parse_categories(doc)
-      categories = []
-      (doc/'rss'/'channel'/'itunes:category').each do |e|
-        categories << e['text']
-      end
-      (doc/'rss'/'channel'/'itunes:category'/'itunes:category').each do |e|
-        categories << e['text']
-      end
-      categories.flatten.uniq
+    def parse_title(h)
+      (h % 'title').inner_html
     end
 
-    def parse_summary(doc)
-      (doc/'rss'/'channel'%'itunes:summary').inner_html
+    def parse_link(h)
+      (h % 'link').inner_html
     end
 
-    def parse_language(doc)
-      (doc/'rss'/'channel'%'language').inner_html
+    def parse_copyright(h)
+      (h % 'copyright').inner_html
     end
 
-    def parse_owner_email(doc)
-      (doc/'rss'/'channel'/'itunes:owner'%'itunes:email').inner_html
+    def parse_image(h)
+      (h % 'itunes:image')['href'] || (h % 'image' % 'url').inner_html
     end
 
-    def parse_owner_name(doc)
-      (doc/'rss'/'channel'/'itunes:owner'%'itunes:name').inner_html
+    def parse_keywords(h)
+      (h % 'itunes:keywords').inner_html.split(', ')
+    end
+
+    def parse_categories(h)
+      (h / 'itunes:category').map {|e| e[:text] }.uniq
+    end
+
+    def parse_summary(h)
+      (h % 'itunes:summary').inner_html
+    end
+
+    def parse_language(h)
+      (h % 'language').inner_html
+    end
+
+    def parse_owner_email(h)
+      (h % 'itunes:email').inner_html
+    end
+
+    def parse_owner_name(h)
+      (h % 'itunes:name').inner_html
+    end
+
+    def parse_episodes(h)
+      (h / 'item').map {|e| Episode.new(e) }
     end
 
     protected
 
-      def method_missing(method, *args)
-        if FEED_ATTRIBUTES.include?(method.to_sym)
-          @attributes[method.to_sym]
-        else
-          super
-        end
+    def method_missing(method, *args)
+      if FEED_ATTRIBUTES.include?(method.to_sym)
+        @attributes[method.to_sym]
+      else
+        super
       end
+    end
   end
 end

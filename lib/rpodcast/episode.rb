@@ -4,19 +4,6 @@ module RPodcast
 
     attr_accessor :attributes, :enclosure
     
-    def self.parse(content)
-      RPodcast::Feed.validate_feed(content)
-
-      @doc = Hpricot.XML(content)
-      episode_docs = []
-      
-      (@doc/'rss'/'channel'/'item').each do |e|
-        episode_docs << self.new(e)
-      end
-
-      episode_docs
-    end
-
     def initialize(el)
       @attributes = Hash.new
       @attributes[:guid] = el.at('guid').inner_html rescue nil
@@ -36,20 +23,26 @@ module RPodcast
           seconds
         }.sum 
       rescue 
-        @attributes[:duration] = 0
+        begin
+          @attributes[:duration] = el.at('media:content').attributes('duration').to_i
+        rescue
+          @attributes[:duration] = 0
+        end
       end
 
       @enclosure = RPodcast::Enclosure.new(el.at('enclosure'))
+
+      @attributes[:bitrate] = (@enclosure.size / 1024.0) / @attributes[:duration]
     end
 
     protected
 
-      def method_missing(method, *args)
-        if EPISODE_ATTRIBUTES.include?(method.to_sym)
-          @attributes[method.to_sym]
-        else
-          super
-        end
+    def method_missing(method, *args)
+      if EPISODE_ATTRIBUTES.include?(method.to_sym)
+        @attributes[method.to_sym]
+      else
+        super
       end
+    end
   end
 end
