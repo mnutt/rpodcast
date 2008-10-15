@@ -1,6 +1,6 @@
 module RPodcast
   class Episode
-    EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :duration]
+    EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :duration, :bitrate]
 
     attr_accessor :attributes, :enclosure
     
