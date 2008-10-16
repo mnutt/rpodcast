@@ -33,6 +33,7 @@ module RPodcast
       @enclosure = RPodcast::Enclosure.new(el.at('enclosure'))
 
       @attributes[:bitrate] = (@enclosure.size / 1024.0) / @attributes[:duration]
+      @attributes[:bitrate] = 0 unless @attributes[:bitrate].finite?
     end
 
     protected
