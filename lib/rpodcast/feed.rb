@@ -36,7 +36,7 @@ module RPodcast
         @attributes[attribute] = self.send("parse_#{attribute}", h) rescue nil
       end
 
-      @attributes[:bitrate] = self.episodes.map {|e| e.bitrate }.sum / self.episodes.size
+      @attributes[:bitrate] = self.episodes.map {|e| e.bitrate }.inject(0){|m,n| m + n} / self.episodes.size
       @attributes[:format]  = self.episodes.first.enclosure.format rescue :unknown
     end
 
