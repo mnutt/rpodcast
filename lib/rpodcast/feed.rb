@@ -11,7 +11,7 @@ module RPodcast
   class BannedFeedError < PodcastError; end
 
   class Feed
-    FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories, :episodes, :bitrate, :format]
+    FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, :owner_name, :keywords, :categories, :episodes, :bitrate, :format, :audio?, :video?, :explicit?, :hd?]
     
     attr_accessor :feed, :attributes
 
@@ -36,12 +36,19 @@ module RPodcast
         @attributes[attribute] = self.send("parse_#{attribute}", h) rescue nil
       end
 
-			@attributes[:bitrate] = self.episodes.first.bitrate rescue 0
+      @attributes[:bitrate] = self.episodes.first.bitrate rescue 0
       @attributes[:format]  = self.episodes.first.enclosure.format rescue :unknown
+      @attributes[:audio?]  = !!(self.episodes.first.type =~ /^audio/) rescue false
+      @attributes[:video?]  = !self.audio?
+      @attributes[:hd?]     = self.video? ? self.bitrate > 1000 : self.bitrate > 180
     end
 
     def parse_title(h)
       (h % 'title').inner_html
+    end
+
+    def parse_explicit?(h)
+      !!((h % 'itunes:explicit').inner_html =~ /yes/)
     end
 
     def parse_link(h)
