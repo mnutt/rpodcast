@@ -38,7 +38,7 @@ module RPodcast
 
       @attributes[:bitrate]  = self.episodes.first.bitrate rescue 0
       @attributes[:format]   = self.episodes.first.enclosure.format rescue :unknown
-      @attributes[:audio?]   = !!(self.episodes.first.type =~ /^audio/) rescue false
+      @attributes[:audio?]   = !!(self.episodes.first.content_type =~ /^audio/) rescue false
       @attributes[:video?]   = !self.audio?
       @attributes[:hd?]      = self.video? ? self.bitrate > 1000 : self.bitrate > 180
       @attributes[:torrent?] = self.episodes.first.enclosure.format.to_s == "torrent"

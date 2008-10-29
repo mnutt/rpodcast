@@ -1,6 +1,6 @@
 module RPodcast
   class Enclosure
-    attr_accessor :url, :type, :size, :format
+    attr_accessor :url, :content_type, :size, :format
 
     @@content_types = {
       "video/avi"       => :avi,
@@ -16,10 +16,10 @@ module RPodcast
     }.freeze
 
     def initialize(element)
-      @url    = element['url'] rescue nil
-      @type   = element['type'] rescue nil
-      @size   = (element['size'] or element['length']).to_i rescue nil
-      @format = self.extension || @@content_types[self.type] || :unknown
+      @url            = element['url'] rescue nil
+      @content_type   = element['type'] rescue nil
+      @size           = (element['size'] or element['length']).to_i rescue nil
+      @format         = self.extension || @@content_types[self.content_type] || :unknown
     end
 
     def extension
