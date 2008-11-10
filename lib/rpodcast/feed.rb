@@ -38,7 +38,7 @@ module RPodcast
 
       @attributes[:bitrate]  = self.episodes.first.bitrate rescue 0
       @attributes[:format]   = self.episodes.first.enclosure.format rescue :unknown
-      @attributes[:audio?]   = !!(self.episodes.first.type =~ /^audio/) rescue false
+      @attributes[:audio?]   = !!(self.episodes.first.class =~ /^audio/) rescue false
       @attributes[:video?]   = !self.audio?
       @attributes[:hd?]      = self.video? ? self.bitrate > 1000 : self.bitrate > 180
       @attributes[:torrent?] = self.episodes.first.enclosure.format.to_s == "torrent"
@@ -65,7 +65,11 @@ module RPodcast
     end
 
     def parse_image(h)
-      (h % 'itunes:image')['href'] || (h % 'image' % 'url').inner_html
+      image = (h % 'itunes:image')['href']
+      return image unless image.blank?
+      
+      image = (h % 'image' % 'url').inner_html
+      return image unless image.blank?
     end
 
     def parse_keywords(h)
