@@ -91,3 +91,39 @@ describe RPodcast::Feed, "diggnation" do
     @podcast.language.should == "en-us"
   end
 end
+
+describe RPodcast::Feed, "powdertravel" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'powderpodcast.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "-Ski & Snowboard Travel Show- (video) powdertravel.com"
+  end
+
+  it 'should extract the site link' do
+    @podcast.link.should == "http://www.powdertravel.com"
+  end
+
+  it 'should extract the logo link' do
+    @podcast.image.should == "http://www.powdertravel.com/itunes300_powder.png"
+  end
+ 
+  it 'should extract the description' do
+    @podcast.summary.should =~ /^Skiing/
+  end
+
+  it 'should extract the owner email' do
+    @podcast.owner_email.should == "paul@powdertravel.com"
+  end
+
+  it 'should extract the owner name' do
+    @podcast.owner_name.should == "powdertravel.com"
+  end
+
+  it 'should extract the language' do
+    @podcast.language.should == "EN"
+  end
+end

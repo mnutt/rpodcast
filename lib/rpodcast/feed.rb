@@ -33,6 +33,7 @@ module RPodcast
       h = Hpricot.XML(@content)
 
       FEED_ATTRIBUTES.each do |attribute|
+        next unless self.respond_to?("parse_#{attribute}")
         @attributes[attribute] = self.send("parse_#{attribute}", h) rescue nil
       end
 
@@ -65,7 +66,7 @@ module RPodcast
     end
 
     def parse_image(h)
-      image = (h % 'itunes:image')['href']
+      image = (h % 'itunes:image')['href'] rescue nil
       return image unless image.nil? or image == ""
       
       image = (h % 'image' % 'url').inner_html

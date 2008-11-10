@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+    <channel> 
+        <title>-Ski &amp; Snowboard Travel Show- (video) powdertravel.com</title> 
+        <itunes:author>powdertravel.com</itunes:author> 
+        <link>http://www.powdertravel.com</link>
+        <description>Skiing &amp; Snowboarding Travel Show featuring reviews of the top Ski &amp; Snowboard resorts from around the World. Plus bonus competition footage including the Quiksilver Slopestyle Pro and the Freestyle Skiing World Cup. With more than 40 episodes filmed we take you to all the best powder, terrain, halfpipes and parks on offer accross the USA, Europe, Japan and more to come. produced by powdertravel.com Visit www.powdertravel.com for hundreds of reviews, videos and ski and snowboard news.</description> 
+        <itunes:subtitle>Ski &amp; Snowboard Travel Show - powdertravel.com</itunes:subtitle> 
+        <itunes:summary>Skiing &amp; Snowboarding Travel Show featuring reviews of skiing &amp; Snowboard resorts from around the World. With 20 episodes filmed we take you to all the best powder, terrain, halfpipes and parks on offer accross the USA, Europe, Japan and more to come. produced by powdertravel.com</itunes:summary> 
+        <language>EN</language> 
+        <copyright>&#xA9; 2006 powdertravel.com</copyright> 
+        <itunes:owner> 
+            <itunes:name>powdertravel.com</itunes:name> 
+            <itunes:email>paul@powdertravel.com</itunes:email> 
+        </itunes:owner>
+		<image>
+<url>http://www.powdertravel.com/itunes300_powder.png</url>
+<title>Powdertravel.com</title>
+<link>http://www.powdertravel.com</link>
+<width>144</width>
+<height>144</height>
+</image>          
+        <category>Sports &amp; Recreation</category> 
+        <itunes:category text="Sports &amp; Recreation"></itunes:category> 
+     <item> 
+          <title>Davos Review - episode Forty Five Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Davos resort review movie</description> 
+          <itunes:subtitle>Davos Review / Ski &amp; Snowboard Travel Show episode Forty Five</itunes:subtitle>
+          <itunes:summary> - Ski &amp; Snowboard video review of Davos Switzerland and the Klosters area.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep45_davos_review.m4v" length="5008" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep45_davos_review.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:08</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Mt Rose Movie - episode Forty Four Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Mt Rose Movie</description> 
+          <itunes:subtitle>Mt Rose Movie / Ski &amp; Snowboard Travel Show episode Forty Four</itunes:subtitle>
+          <itunes:summary>Mt Rose Nevada is the closest Ski and Snowboard resort to Reno and the highest of the Lake Tahoe region</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep44_mt_rose_movie.m4v" length="3059" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep44_mt_rose_movie.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:59</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Zermatt Movie - episode Forty Three Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Zermatt Ski and Snowboard Movie</description> 
+          <itunes:subtitle>Zermatt Movie / Ski &amp; Snowboard Travel Show episode Forty Three</itunes:subtitle>
+          <itunes:summary>Zermatt is one of the Worlds must visit resorts as much for its unique town and amazing views of the Matterhorn and surrounding peaks.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep43_zermatt_movie.m4v" length="4043" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep43_zermatt_movie.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:43</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Flims Laax Review  - episode Forty Two Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Flims Laax Review</description> 
+          <itunes:subtitle>Flims Laax Review / Ski &amp; Snowboard Travel Show episode Forty Two</itunes:subtitle>
+          <itunes:summary>Flims Laax is well known amongst the worlds best freestyle skiers and snowboarders due its strong history of building great freestyle terrain parks and half pipes. However the area is also a vast domain of wide open terrain for those who are not drawn by the freestyle scence</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep42_Flims_Laax_Review.m4v" length="4038" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep42_Flims_Laax_Review.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:38</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Flims Laax Movie  - episode Forty One Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Flims Laax Movie</description> 
+          <itunes:subtitle>Flims Laax Movie / Ski &amp; Snowboard Travel Show episode Forty One</itunes:subtitle>
+          <itunes:summary>Flims Laax Movie - well known amongst the worlds best freestyle skiers and snowboarders due its strong history of building great freestyle terrain parks and half pipes. However the area is also a vast domain of wide open terrain for those who are not drawn by the freestyle scene</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep41_Flims_Laax_Movie.m4v" length="5033" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep41_Flims_Laax_Movie.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:33</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Vail Terrain Park - episode Forty Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Vail Terrain Park Movie</description> 
+          <itunes:subtitle>Vail Terrain Park Movie / Ski &amp; Snowboard Travel Show episode Forty</itunes:subtitle>
+          <itunes:summary>Vail Terrain Park - Home to some of the worlds best freestyle skiers and snowboarders including Shaun White, checkout what all the fuss is about.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep40_Vail_Terrain_park.m4v" length="3026" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep40_Vail_Terrain_park.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:26</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>St Moritz Movie - episode Thirty Nine Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>St Moritz Movie</description> 
+          <itunes:subtitle>St Moritz Movie / Ski &amp; Snowboard Travel Show episode Thirty Nine</itunes:subtitle>
+          <itunes:summary>Often touted as an exclusive resort for the rich and famous, St moritz is suprisingly affordable on world standards and offers stunning views and amazing, varried terrain.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep39_st_moritz_movie.m4v" length="5055" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep39_st_moritz_movie.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:55</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Winter Park Movie - episode Thirty Eight Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Winter Park Movie</description> 
+          <itunes:subtitle>Winter Park Movie / Ski &amp; Snowboard Travel Show episode Thirty Eight</itunes:subtitle>
+          <itunes:summary>Famous for the bumps of the Mary Jane area, Winter Park also offers great bowl skiing, fast cruising runs an plenty of varried terrain for begginers and intermeadiates plus a strong freestyle element.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep38_winter_park_movie.m4v" length="6045" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep38_winter_park_movie.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:06:45</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Winter Park Review - episode Thirty Seven Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Winter Park Movie</description> 
+          <itunes:subtitle>Winter Park Review / Ski &amp; Snowboard Travel Show episode Thirty Seven</itunes:subtitle>
+          <itunes:summary>Winter Park Guided Review - Famous for the bumps of the Mary Jane area, Winter Park also offers great bowl skiing, fast cruising runs an plenty of varried terrain for begginers and intermeadiates plus a strong freestyle element.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep37_winter_park_review.m4v" length="3051" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep37_winter_park_review.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:51</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Les Arc Movie - episode Thirty Six Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Les Arc Movie</description> 
+          <itunes:subtitle>Les Arc Movie / Ski &amp; Snowboard Travel Show episode Thirty Six</itunes:subtitle>
+          <itunes:summary>Les Arc is the home of some of the Steepest inbounds ski and snowboard terrain in the world. Also home to the Flying Killometer where skiers and snowboards strap on the speed suits and point themselves straight down in an attempt to break world speed records</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep36_Les_Arc-Movie.m4v" length="4024" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep36_Les_Arc-Movie.m4v</guid> 
+          <pubDate>Wed, 2 Jul 2008 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:24</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Valdisere Terrain Park Movie - episode Thirty Five Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Valdisere Terrain Park Movie</description> 
+          <itunes:subtitle>Valdisere France Terrain Park Movie / Ski &amp; Snowboard Travel Show episode Thirty Five</itunes:subtitle>
+          <itunes:summary>Val d'Isere France Terrain Park - For those who like to test themselves the monster hits at this terrain Park are something special. Beautifully crafted with perfect landing zones ensures smooth and giant tricks can be styled from kickers ranging from gentle beginner to extremely huge.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep35_Valdisere_PP.m4v" length="3029" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep35_Valdisere_PP.m4v</guid> 
+          <pubDate>Wed, 27 Jun 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:29</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Copper Mountain Colorado Movie - episode Thirty Four Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Copper Mountain Movie</description> 
+          <itunes:subtitle>Copper Mountain Colorado Movie / Ski &amp; Snowboard Travel Show episode Thirty Four</itunes:subtitle>
+          <itunes:summary>Copper Mountain Colorado Movie / A great family resort both on and off the mountain. With naturally divided terrain which separates beginners, intermeadiates and avanced into their own areas. Add to this great back bowls and strong freestyle scene makeing it one of Colorados must visit ski &amp; snowboard resorts</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep34_copper_mountain.m4v" length="5057" type="video/x-m4v" />
+          <guid>http://www.powdertravel.com/ep34_copper_mountain.m4v</guid> 
+          <pubDate>Mon, 18 Jun 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:57</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Vail Colorado Movie - episode Thirty Three Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Vail Colorado Movie</description> 
+          <itunes:subtitle>Vail Colorado Movie / Ski &amp; Snowboard Travel Show episode Thirty Three</itunes:subtitle>
+          <itunes:summary>Vail Colorado Movie / Colorado's and posibly North Americas most famost resort, Vail lives up to its hype with a great snow record, fantastic town, great freestyle facilities, huge back bowls and a front side that would be the envy of most resort worldwide.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep33_vail_movie.m4v" length="4051" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep33_vail_movie.m4v</guid> 
+          <pubDate>Wed, 30 May 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:51</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Hakuba 47 &amp; Goryu Toomi Movie - episode Thirty Two Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Hakuba 47 &amp; Goryu Toomi Movie</description> 
+          <itunes:subtitle>Hakuba 47 &amp; Goryu Toomi Movie / Ski &amp; Snowboard Travel Show episode Thirty Two</itunes:subtitle>
+          <itunes:summary>Hakuba 47 &amp; Goryu Toomi Movie / These lift linked Japanese resorts are located in the Hakuba Valley in the Nagano region. Home to the areas steepest mogul terrain and best halfpipe and terrain park, Hakuba 47 &amp; Goryu Toomi are the most popular resorts in the valley for freestlyers.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep32_47_goryu_movie.m4v" length="4020" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep32_47_goryu_movie.m4v</guid> 
+          <pubDate>Wed, 25 Apr 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:20</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Steamboat Terrain Park - episode Thirty One Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Steamboat Terrain Park</description> 
+          <itunes:subtitle>Steamboat Colorado Terrain Park / Ski &amp; Snowboard Travel Show episode Thirty One</itunes:subtitle>
+          <itunes:summary>Steamboat Terrain Park / With a proud history of freestyle excellence, Steamboart resort prepares one of the USA's top terrain parks. Mavericks has long been amongst the top halfpipes on the planet and for good reason, draws some of the worlds top skiers and snowboarders on a regular basis</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep31_steamboat_pp.m4v" length="4016" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep31_steamboat_pp.m4v</guid> 
+          <pubDate>Wed, 18 Apr 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:16</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Steamboat Resort Movie - episode Thirty Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Steamboat Resort Movie</description> 
+          <itunes:subtitle>Steamboat Colorado Resort Movie / Ski &amp; Snowboard Travel Show episode Thirty</itunes:subtitle>
+          <itunes:summary>Steamboat Resort Movie / Steamboat is a magnificent ski and snowboard resort with a reputation for great powder snow and some of the best tree sections on the planet. With its strong history as a cowboy town combined with a world class resort, Steamboat is one of Colorado's and the World's must visit destinations</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep30_steamboat_movie.m4v" length="5026" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep30_steamboat_movie.m4v</guid> 
+          <pubDate>Wed, 11 Apr 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:26</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Alpine Meadows Resort Movie - episode Twenty Nine Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Alpine Meadows Resort Movie</description> 
+          <itunes:subtitle>Alpine Meadows Lake Tahoe Resort Movie / Ski &amp; Snowboard Travel Show episode Twenty Nine</itunes:subtitle>
+          <itunes:summary>Alpine Meadows Resort Movie / Lake Tahoes most relaxed and friendly resort also has some of the areas most exciting terrain for advanced skiers and snowboarders. Wide open powder bowls, cliff drops, chutes, cornices, fast pistes and a well maintained terrain park</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep_29_alpine_Meadows_movie.m4v" length="4009" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep_29_alpine_Meadows_movie.m4v</guid> 
+          <pubDate>Wed, 04 Apr 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:09</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Davos Switzerland Terrain Park - episode Twenty Eight Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Davos Switzerland Terrain Park</description> 
+          <itunes:subtitle>Davos Switzerland Terrain Park Video / Ski &amp; Snowboard Travel Show episode Twenty Eight</itunes:subtitle>
+          <itunes:summary>Davos Switzerland Terrain Park / The Halfpipes at Jackobshorn and Bolgen in Davos are home to big international competitions throughout the year. Come and see the locals in action in on of Europes most beautiful Ski and Snowboard destinations.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep28_Davos_PP.m4v" length="3014" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep28_Davos_PP.m4v</guid> 
+          <pubDate>Wed, 21 Mar 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:14</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Les Arcs France Review - episode Twenty Seven Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Les Arcs France Review Video</description> 
+          <itunes:subtitle>Les Arcs France Review Video / Ski &amp; Snowboard Travel Show episode Twenty Seven</itunes:subtitle>
+          <itunes:summary>Les Arcs France Resort Review / One of Europes biggest ski and snowboard resorts, Les Arcs France offers up some of the most extreme inbounds terrain on the Planet, Plus plenty of variety for all levels of skiing and snowboarding.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep27_les_arc_review.m4v" length="5005" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep27_les_arc_review.m4v</guid> 
+          <pubDate>Mon, 12 Mar 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:05</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Hakuba 47 Terrain Park - episode Twenty Six Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Hakuba 47 Japan Terrain Park Video</description> 
+          <itunes:subtitle>Hakuba 47 Terrain Park Video / Ski &amp; Snowboard Travel Show episode Twenty Six</itunes:subtitle>
+          <itunes:summary>Hakuba 47 Terrain Park / This week we take a look at one of Japans top ski and snowboard terrain parks. Located in the mid section at the top of the gondola it is the Hakuba Valleys hot spot for freestyle riding with plenty of gaps, rails, kickers a halfpipe, boarder cross and designated mogul course</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep26_hakuba47_terrain_park.m4v" length="4001" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep26_hakuba47_terrain_park.m4v</guid> 
+          <pubDate>Wed, 28 Feb 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:01</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	 <item> 
+          <title>Kitzbuhel Austria Movie - episode Twenty Five Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Kitzbuhel Austria Movie ski &amp; snowboard movie</description> 
+          <itunes:subtitle>Kitzbuhel Austria Movie / Ski &amp; Snowboard Travel Show episode Twenty Five</itunes:subtitle>
+          <itunes:summary>Kitzbuhel Austria Movie / We head back to Kitzbuhel to checkout more of the town, terrain and plenty of off piste powder skiing and snowboarding action in some of kitzbuhels wide open powder bowls.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep25_kitzbuhel_ski_snowboard_movie.m4v" length="7034" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep25_kitzbuhel_ski_snowboard_movie.m4v</guid> 
+          <pubDate>Wed, 21 Feb 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:07:34</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	<item> 
+          <title>Squaw Valley Movie - episode Twenty Four Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Squaw Valley USA ski &amp; snowboard movie</description> 
+          <itunes:subtitle>Squaw Valley USA Movie / Ski &amp; Snowboard Travel Show episode Twenty Four</itunes:subtitle>
+          <itunes:summary>Squaw Valley California Movie / We revist Squaw Valley Lake Tahoe and check out more of the resorts vast and impressive terrain and then head over to the terrain park for a big freestyle session with the locals.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep24_squaw_video.m4v" length="5027" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep24_squaw_video.m4v</guid> 
+          <pubDate>Wed, 14 Feb 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:27</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	<item> 
+          <title>Chamonix France Movie - episode Twenty Three Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Chamonix ski &amp; snowboard movie</description> 
+          <itunes:subtitle>Chamonix France Movie / Ski &amp; Snowboard Travel Show episode Twenty Three</itunes:subtitle>
+          <itunes:summary>Chamonix France Movie / We revist the mountain sports capital of the World, Chamonix is a must visit for any serious mountain lover. Giant Mountains, extreme terrain and an amazing town below. Here you will find terrain unlike any other in the World, The Aiguille Du Midi, Valle Blanche and Argentiere are just some of the highlights of this Stunning resort.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep23_Chamonix_ski_snowboard_movie.m4v" length="7050" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep23_Chamonix_ski_snowboard_movie.m4v</guid> 
+          <pubDate>Wed, 07 Feb 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:07:50</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+	<item> 
+          <title>Jackson Hole Movie - episode Twenty Two Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Jackson Hole ski &amp; snowboard movie</description> 
+          <itunes:subtitle>Jackson Hole Movie / Ski &amp; Snowboard Travel Show episode Twenty Two</itunes:subtitle>
+          <itunes:summary>Jackson Hole Movie / check out all the action from Wyomings most famous ski and snowboard resort. Jackson Hole with its Aerial Tram is home to the longest continuous vertical rise in the USA opening up vast terrain full of cliff drops, technical steeps and plenty of fresh powder snow</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep22_jackson_hole_ski_snowboard_movie.m4v" length="4009" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep22_jackson_hole_ski_snowboard_movie.m4v</guid> 
+          <pubDate>Wed, 31 Jan 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:09</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Vail Colorado Resort Review - episode Twenty One Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Vail Colorado Resort Review ski &amp; snowboard review of Vail Colorado</description> 
+          <itunes:subtitle>Vail Colorado Resort Review / Ski &amp; Snowboard Travel Show episode Twenty One</itunes:subtitle>
+          <itunes:summary>Vail Colorado Resort Review / Vail is often voted the number one ski and snowboard resort in the USA. Vail has a huge amount of terrain for all abilities, from the legendary back bowls, covering more than 6 miles across, to the front side’s long cruisers and steep bumps. Plus one of the best half pipe and terrain parks anywhere.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep21_vail_ski_snowboard_review.m4v" length="4058" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep21_vail_ski_snowboard_review.m4v</guid> 
+          <pubDate>Wed, 24 Jan 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:58</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Flims Laax Terrain Park - episode Twenty Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Flims Laax Switzerland Terrain Park ski &amp; snowboard action in one of Europes best terrain parks and home to the Burton European snowboard open</description> 
+          <itunes:subtitle>Flims Laax Terrain Park / Ski &amp; Snowboard Travel Show episode twenty</itunes:subtitle>
+          <itunes:summary>Flims Laax Terrain Park / The Flims Laax area is one of Europes best kept secrets and the freestyle ski and snowboard scene is huge here with one of the best terrain parks in Switzerland and all of Europe.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep_20_laax_flims_terrain_park.m4v" length="4053" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep_20_laax_flims_terrain_park.m4v</guid> 
+          <pubDate>Wed, 17 Jan 2007 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:53</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Val d'Isere France Movie - episode Nineteen Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Val d'Isere France Movie </description> 
+          <itunes:subtitle>Val d'Isere France Movie / Ski &amp; Snowboard Travel Show episode Nineteen</itunes:subtitle>
+          <itunes:summary>Val d'Isere France Movie /  Val d'Isere offers extensive terrain, suitable for all levels. Experts can stay on the steeper pistes, such as the Olympic Downhill run, "The Face", or venture off piste into powder fields and challenging chutes.  Intermediates will love the groomed trails winding through open fields enabling you to just 'pop off' the trails into the powder</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep19_valdisere_france.m4v" length="5016" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep19_valdisere_france.m4v</guid> 
+          <pubDate>Wed, 27 Dec 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:16</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Aspen Snowmass Resort Review - episode Eighteen Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Aspen Snowmass Resort Review ski &amp; snowboard review of Aspen Snowmass</description> 
+          <itunes:subtitle>Aspen Snowmass Resort Review / Ski &amp; Snowboard Travel Show episode Eighteen</itunes:subtitle>
+          <itunes:summary>Aspen Snowmass Resort Review / The Aspen Snowmass Valley spreads accross 12 miles and holds the four resorts of Aspen Mountain, Aspen Highlands, Buttermilk and Snowmass. Aspen Mountain has great steep bumps leading to long cruisers.Snowmass boasts Long wide open cruising runs great on powder days, extensive terrain parks. Buttermilk with mainly intermediate cruising terrain, has the draw card of the 2 mile long terrain park, one of the world’s best and home to the ESPN Winter X games. Aspen Highlands has challenging steeps, complimented with cruising runs for all abilities with the steep Highland Bowl the highlight.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep18_Aspen_Snowmass.m4v" length="6017" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep18_Aspen_Snowmass.m4v</guid> 
+          <pubDate>Mon, 18 Dec 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:06:17</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Aspen Snowmass Terrain Park - episode Seventeen Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Aspen Snowmass Terrain Park ski &amp; snowboard action from some of the best terrain parks on the planet</description> 
+          <itunes:subtitle>Aspen Snowmass Terrain Park / Ski &amp; Snowboard Travel Show episode Seventeen</itunes:subtitle>
+          <itunes:summary>Aspen Snowmass Terrain Park / The Aspen Snowmass area is home to some of the worlds best terrain parks and half pipes. Buttermilk is home to the winter x games and possibly the best terain park on the planet. Catch the action from all the parks as local riders go big.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep17_Aspen_Snowmass_Half_pipe.m4v" length="3053" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep17_Aspen_Snowmass_Half_pipe.m4v</guid> 
+          <pubDate>Wed, 06 Dec 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:53</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Davos Switzerland Movie - episode Sixteen Ski &amp; Snowboard Travel Show Powdertravel.com</title>
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Davos Switzerland Movie ski &amp; snowboard action from the beautiful Swiss resort of Davos by powdertravel.com</description> 
+          <itunes:subtitle>Davos Switzerland Movie / Ski &amp; Snowboard Travel Show episode Sixteen</itunes:subtitle>
+          <itunes:summary>Davos offers fantastic skiing and snowboarding, wide open cruising trails, steep drops, powder fields &amp; is party resort well know for its vast sundecks on the upper Jackobshorn slopes providing revellers with hot tubs, themed bars complete with faux palm trees sun beds and parasailing.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep16_Davos_ski_snowboard_video.m4v" length="6005" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep16_Davos_ski_snowboard_video.m4v</guid> 
+          <pubDate>Wed, 29 Nov 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:06:05</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Happo One Japan Movie - episode Fifteen Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Happo One Japan Movie ski &amp; snowboard action from the Hakuba Valley by powdertravel.com</description> 
+          <itunes:subtitle>Happo One Japan Movie / Ski &amp; Snowboard Travel Show episode Fifteen</itunes:subtitle>
+          <itunes:summary>Happo One is the number one resort in Nagano's Hakuba Valley. Deep powder, uncrowded slopes and long runs are some of the features of this exciting ski and snowboard destination.</itunes:summary>
+          <enclosure url="http://www.powdertravel.com/ep15_happo_one_japan_ski_snowboard.m4v" length="4024" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep15_happo_one_japan_ski_snowboard.m4v</guid> 
+          <pubDate>Wed, 22 Nov 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:24</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Freestyle Skiing World Cup - Steamboat USA - episode Fourteen Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Freestyle World Cup Skiing action from Steamboat Colorado USA by powdertravel.com</description> 
+          <itunes:subtitle>Freestyle Skiing World Cup / Ski &amp; Snowboard Travel Show episode Fourteen</itunes:subtitle> 
+          <itunes:summary>Freestyle World Cup Skiing action from Steamboat Colorado USA. Watch the pros go fast and big in the Mogul and Aerials competitions as they fight it out for World Cup points. Insane speed and massive air.</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep14_steamboat_ski_world_cup.m4v" length="4044" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep14_steamboat_ski_world_cup.m4v</guid> 
+          <pubDate>Wed, 15 Nov 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:44</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Quiksilver Slopestyle Pro Free ride session - Les Arcs France - episode Thirteen Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Quiksilver Slopestyle Pro Free ride session - Les Arcs France by powdertravel.com</description> 
+          <itunes:subtitle>Quiksilver Slopestyle Pro Free ride session / Ski &amp; Snowboard Travel Show episode Thirteen</itunes:subtitle> 
+          <itunes:summary>Quiksilver Slopestyle Pro is one of the most impressive competitions on the planet with huge hits, rails and a perfect pipe each year attracting the worlds best. Journey to Les Arcs France for a look at some amazing snowboarding and skiing in the free ride session</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep13_quiksilver_slopestyle_pro.m4v" length="5008" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep13_quiksilver_slopestyle_pro.m4v</guid> 
+          <pubDate>Wed, 08 Nov 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>yes</itunes:explicit> 
+          <itunes:duration>00:05:08</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Zermatt Switzerland Resort Review Resort Review - episode Twelve Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Zermatt Switzerland Resort Review - Skiing &amp; Snowboarding review of Zermatt Switzerland by powdertravel.com</description> 
+          <itunes:subtitle>Zermatt Switzerland Resort Review / Ski &amp; Snowboard Travel Show episode Twelve</itunes:subtitle> 
+          <itunes:summary>World famous for the towering Matterhorn at 14,691 feet, visable from all angles, Zermatt is a vacation to remember. From the rustic beautiful pedestrian village to the awesome views and challenging pistes.</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep12_zermatt_ski_snowboard.m4v" length="6055" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep12_zermatt_ski_snowboard.m4v</guid> 
+          <pubDate>Wed, 01 Nov 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:06:55</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Copper Mountain USA Resort Review - episode eleven Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Copper Mountain USA Resort Review - Skiing &amp; Snowboarding review of Copper Mountain USA by powdertravel.com</description> 
+          <itunes:subtitle>Copper Mountain USA Resort Review / Ski &amp; Snowboard Travel Show episode eleven</itunes:subtitle> 
+          <itunes:summary>Copper Mountain USA Ski &amp; Snowboard resort review /Copper Mountain is naturally divided to suit all ski and snowboard abilities. The areas of Union Peak and Tucker Mountain give access to the spectacular double black back bowls. Advanced visitors will enjoy the runs through Union Bowl and Upper Enchanted Forest. Freestylers are not forgotten with some of the best halfpipe and terrain park facilities in the USA</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep11_copper_mtn_ski_snowboard.m4v" length="4009" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep11_copper_mtn_ski_snowboard.m4v</guid> 
+          <pubDate>Wed, 25 Oct 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:09</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Mt Rose USA Resort Review - episode ten Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Mt Rose Nevada USA Resort Review - Skiing &amp; Snowboarding review of Mt Rose USA by powdertravel.com</description> 
+          <itunes:subtitle>Mt Rose USA Resort Review / Ski &amp; Snowboard Travel Show episode ten</itunes:subtitle> 
+          <itunes:summary>Mt Rose USA Ski &amp; Snowboard resort review / Averaging over 400 inches of snow per season Mt Rose is the closest Lake Tahoe ski and snowboard resort to the gaming city Reno Nevada with 60 plus trails providing great terrain for all levels.</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep10_mt_rose_ski_snowboard.m4v" length="3055" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep10_mt_rose_ski_snowboard.m4v</guid> 
+          <pubDate>Wed, 18 Oct 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:55</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Val d'Isere France Resort Review - episode nine Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Val d'Isere France Resort Review - Skiing &amp; Snowboarding review of Val d'Isere France by powdertravel.com</description> 
+          <itunes:subtitle>Val d'Isere France Resort Review / Ski &amp; Snowboard Travel Show episode nine</itunes:subtitle> 
+          <itunes:summary>Val d'Isere France Ski &amp; Snowboard resort review / Val d'Isere France is affectionately referred to as the 'Kingdom of Skiing and Snowboarding'. The resort is one half of the ski area 'Espace Killy' sharing its lift space with neighboring Tignes and covering 300km of terrain. The extensive Val d'Isere terrain is highlighted by endless open powder fields, steep chutes, moguls, fast pistes plus an impressive terrain park.</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep9_valdisere_ski_snowboard.m4v" length="4028" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep9_valdisere_ski_snowboard.m4v</guid> 
+          <pubDate>Wed, 11 Oct 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:28</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Steamboat USA Resort Review - episode eight Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Steamboat USA Resort Review - Skiing &amp; Snowboarding review of Steamboat USA by powdertravel.com</description> 
+          <itunes:subtitle>Steamboat USA Resort Review / Ski &amp; Snowboard Travel Show episode eight</itunes:subtitle> 
+          <itunes:summary>Steamboat Ski &amp; Snowboard resort review / Steamboat boasts some of the best ski &amp; snowboard terrain in Colorado. Steamboat offers long trials, steeps, bumps and is most famous for some of the world’s best champagne powder snow. When the powder is falling Steamboat is a ski &amp; snowboard paradise, with tree sections amongst the best in the world.</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep8_steamboat_ski_snowboard.m4v" length="4005" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep8_steamboat_ski_snowboard.m4v</guid> 
+          <pubDate>Wed, 04 Oct 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:04:05</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Kitzbuhel Austria Resort Review - episode seven Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Kitzbuhel Austria Resort Review - Skiing &amp; Snowboarding review of Kitzbuhel Austria by powdertravel.com</description> 
+          <itunes:subtitle>Kitzbuhel Austria Resort Review / Ski &amp; Snowboard Travel Show episode seven</itunes:subtitle> 
+          <itunes:summary>Kitzbuhel Ski &amp; Snowboard resort review / Kitzbuhel is a fantastic ski and snowboard resort supported by a beautiful town of traditional Austrian buildings lining cobblestone streets. Famous for the annual Hahnenkamm downhill ski race, this diverse resort has plenty to offer. Many of the surrounding peaks give access to virtually 360 degree ski and snowboard terrain consisting of huge powder fields, leading into exciting tree lined groomers.</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep7_kitzbuhel.m4v" length="5003" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep7_kitzbuhel.m4v</guid> 
+          <pubDate>Wed, 27 Sep 2006 12:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:03</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Alpine Meadows Resort Review - episode Six Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Alpine Meadows Resort Review - Skiing &amp; Snowboarding review of Alpine Meadows Lake Tahoe USA by powdertravel.com</description> 
+          <itunes:subtitle>Alpine Meadows Resort Review / Ski &amp; Snowboard Travel Show episode six</itunes:subtitle> 
+          <itunes:summary>Alpine Meadows Ski &amp; Snowboard resort review / Located in the Tahoe National Forest with stunning views of Lake Tahoe, Alpine Meadows is naturally divided into advanced, intermediate and beginner terrain. The advanced Sherwood Bowl area offers the feeling of out of bounds skiing and boarding whilst still being within the resort boundary and is some of the best open powder terrain in the whole Lake Tahoe region. / For more resort videos and reviews subscribe to this podcast or go to powdertravel.com</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep6_alpine_meadows.m4v" length="3039" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep6_alpine_meadows.m4v</guid> 
+          <pubDate>Wed, 20 Sep 2006 19:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:03:39</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Chamonix France Resort Review - episode Five Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Chamonix France Resort Review - Skiing &amp; Snowboarding review of Chamonix France by powdertravel.com</description> 
+          <itunes:subtitle>Chamonix France Resort Review / Ski &amp; Snowboard Travel Show episode five</itunes:subtitle> 
+          <itunes:summary>Chamonix France Ski &amp; Snowboard resort review / Chamonix known as the Worlds mountain sports capital is famous for its extreme terrain, amazing scenery and picturesque village. For more resort videos and reviews subscribe to this podcast or go to powdertravel.com</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep5_chamonix_france.m4v" length="6044" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep5_chamonix_france.m4v</guid> 
+          <pubDate>Wed, 13 Sep 2006 19:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:06:44</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Jackson Hole USA Resort Review - episode Four Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Jackson Hole USA Resort Review - Skiing &amp; Snowboarding review of Jackson Hole USA by powdertravel.com</description> 
+          <itunes:subtitle>Jackson Hole USA Resort Review / Ski &amp; Snowboard Travel Show episode four</itunes:subtitle> 
+          <itunes:summary>Jackson Hole USA Ski &amp; Snowboard resort review / Famous for its cowboy town and open boundary policy Jackson Hole offers some of North Americas most extreme inbounds terrain including the famous Corbets Couloir. For more resort videos and reviews subscribe to this podcast or go to powdertravel.com</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep4_jackson_hole.m4v" length="5028" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep4_jackson_hole.m4v</guid> 
+          <pubDate>Tue, 5 Sep 2006 19:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:28</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>St Moritz Switzerland Resort Review - episode three Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>St Moritz Switzerland Resort Review - Skiing &amp; Snowboarding review of ST Moritz Switzerland by powdertravel.com</description> 
+          <itunes:subtitle>St Moritz Switzerland Resort Review / Ski &amp; Snowboard Travel Show episode three</itunes:subtitle> 
+          <itunes:summary>St Moritz Ski &amp; Snowboard resort review / One of Europes top winter resorts is well known as a destination for the rich and famous Yet it also provides plenty for travelers on a budget and hosts some of the worlds most accessible and exciting off piste skiing and snowboarding such as the chutes of Corviglia. For more resort videos and reviews subscribe to this podcast or go to powdertravel.com</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep3_st_moritz.m4v" length="6032" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep3_st_moritz.m4v</guid> 
+          <pubDate>Tue, 29 Aug 2006 19:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:06:32</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Hakuba Valley Japan Resort Review - episode two Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Hakuba Valley Japan Resort Review - Skiing &amp; Snowboarding review of the Hakuba Valley resorts of Happo one, Hakuba 47 &amp; Goryu Toomi by powdertravel.com</description> 
+          <itunes:subtitle>Hakuba Valley Japan Resort Review / Ski &amp; Snowboard Travel Show episode two</itunes:subtitle> 
+          <itunes:summary>Hakuba Valley Ski &amp; Snowboard resort review highlighting Japans famous fresh deep powder snow Plus big air in the Hakuba 47 pipe and park. For more resort videos and reviews subscribe to this podcast or go to powdertravel.com</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep2_hakuba_japan.m4v" length="5026" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep2_hakuba_japan.m4v</guid> 
+          <pubDate>Tue, 22 Aug 2006 19:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:05:26</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, halfpipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, freeski,</itunes:keywords>  
+        </item>
+		<item> 
+          <title>Squaw Valley Lake Tahoe Resort Review- episode one Ski &amp; Snowboard Travel Show Powdertravel.com</title> 
+          <itunes:author>powdertravel.com</itunes:author> 
+          <description>Squaw Valley Ski &amp; Snowboard Resort Review - Skiing &amp; Snowboarding Travel Show featuring resort guides and reviews from around the world by powdertravel.com</description> 
+          <itunes:subtitle>Squaw Valley Resort Review / Ski &amp; Snowboard Travel Show episode one</itunes:subtitle> 
+          <itunes:summary>Squaw Valley Ski &amp; Snowboard resort review Lake Tahoe California USA hosted by Caroline Aughterson Plus A look ahead at the skiing &amp; snowboard action coming up in the next 20 episodes of the powdertravel.com Ski and Snowboard Travel Show</itunes:summary> 
+          <enclosure url="http://www.powdertravel.com/ep1_squaw_valley.m4v" length="7043" type="video/x-m4v" /> 
+          <guid>http://www.powdertravel.com/ep1_squaw_valley.m4v</guid> 
+          <pubDate>Wed, 16 Aug 2006 19:00:00 GMT</pubDate>
+          <itunes:explicit>no</itunes:explicit> 
+          <itunes:duration>00:07:43</itunes:duration> 
+          <itunes:keywords>skiing, snowboarding, Travel, ski, snowboard, half, pipe, extreeme, snow, powder, powdertravel, powder travel, powdertravel.com, halfpipe, freeski</itunes:keywords>  
+        </item>                 
+    </channel> 
+</rss>
