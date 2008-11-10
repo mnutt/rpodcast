@@ -49,7 +49,7 @@ module RPodcast
     end
 
     def parse_title(h)
-      (h % 'title').inner_html
+      (h % 'title').inner_text
     end
 
     def parse_explicit?(h)
@@ -61,19 +61,19 @@ module RPodcast
     end
 
     def parse_copyright(h)
-      (h % 'copyright').inner_html
+      (h % 'copyright').inner_text
     end
 
     def parse_image(h)
       image = (h % 'itunes:image')['href']
-      return image unless image.blank?
+      return image unless image.nil? or image == ""
       
       image = (h % 'image' % 'url').inner_html
-      return image unless image.blank?
+      return image unless image.nil? or image == ""
     end
 
     def parse_keywords(h)
-      (h % 'itunes:keywords').inner_html.split(', ')
+      (h % 'itunes:keywords').inner_text.split(', ')
     end
 
     def parse_categories(h)
@@ -85,15 +85,15 @@ module RPodcast
     end
 
     def parse_language(h)
-      (h % 'language').inner_html
+      (h % 'language').inner_text
     end
 
     def parse_owner_email(h)
-      (h % 'itunes:email').inner_html
+      (h % 'itunes:email').inner_text
     end
 
     def parse_owner_name(h)
-      (h % 'itunes:name').inner_html
+      (h % 'itunes:name').inner_text
     end
 
     def parse_episodes(h)
