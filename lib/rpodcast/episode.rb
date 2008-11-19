@@ -14,14 +14,14 @@ module RPodcast
 
       begin
         # Time may be under an hour
-        time = el['itunes:duration'].inner_html
+        time = el.at('itunes:duration').inner_html
         time = "00:#{time}" if time.size < 6
         time_multiplier = [24 * 60, 60, 1]
         @attributes[:duration] = time.split(":").map { |t| 
           seconds = t.to_i * time_multiplier[0]
           time_multiplier.shift
           seconds
-        }.sum 
+        }.inject(0) {|m,n| m+n}
       rescue 
         begin
           @attributes[:duration] = (el % 'media:content')[:duration].to_i

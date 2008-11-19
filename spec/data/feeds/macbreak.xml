@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>MacBreak (HD video)</title>
+		<link>http://pixelcorps.tv/macbreak</link>
+		<description>Insanely great Mac TV. Feed your Mac and your mind with the best.</description>
+		<language>en</language>
+		<copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-ShareAlike - http://creativecommons.org/</copyright>
+		<managingEditor>support@pixelcorps.com (Pixel Corps)</managingEditor>
+		<generator>Pixel Corps Feed Generator</generator>
+		<webMaster>support@pixelcorps.com (Pixel Corps Support)</webMaster>
+		<lastBuildDate>Tue, 22 Jan 2008 20:06:00 GMT</lastBuildDate>
+		<ttl>180</ttl>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <atom:link href="http://feeds.pixelcorps.com/feeds/macbreak1080.xml" rel="self" type="application/rss+xml" />		
+		<itunes:subtitle>The first hi-def IPTV show all about the Mac</itunes:subtitle>
+		<itunes:summary>The only Macintosh show you'll ever need. Mac experts Leo Laporte, Kendra Arimoto, Emery Wells, Merlin Mann and Alex Lindsay talk about everything Mac, including hardware, software, pro apps, and tips. Every show includes interviews with the most interesting people in the Mac universe. Shot in 1080p high definition because your Mac deserves the very best.</itunes:summary>
+		<itunes:category text="Technology" />
+		<itunes:keywords>macintosh,osx,leo laporte,amber macarthur,twit</itunes:keywords>
+		<itunes:author>Leo Laporte, Kendra Arimoto, Emery Wells, Merlin Mann and Alex Lindsay</itunes:author>
+		<itunes:owner>
+			<itunes:email>info@macbreak.com</itunes:email>
+			<itunes:name>The MacBreak Team</itunes:name>
+		</itunes:owner>
+		<itunes:image href="http://libsyn.com/podcasts/macbreak/images/mb_fulllogo.jpg" />
+		<image>
+			<url>http://libsyn.com/podcasts/macbreak/images/mb_fulllogo.jpg</url>
+			<title>MacBreak (HD video)</title>
+			<link>http://pixelcorps.tv/macbreak</link>
+		</image>
+		<itunes:explicit>Clean</itunes:explicit>
+<item>
+	<title>MacBreak 166: MacBreak: Tubemogul	</title>
+	<link>http://pixelcorps.tv/macbreak166</link>
+	<description>Alex explains the advantages of using Tubemogul to upload and track your online media.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 18 Sep 2008 00:58:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-166-macbreak:-tubemogul	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak_166_540p_h264.mov" length="32932450" type="video/quicktime"/>
+	<itunes:duration>2:40</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex explains the advantages of using Tubemogul to upload and track your online media.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 165: MacBreak: Blu-ray Encoding in Compressor</title>
+	<link>http://pixelcorps.tv/macbreak165</link>
+	<description>Brian Gary talks with Alex about Blu-ray encoding in Compressor.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 14 Aug 2008 02:07:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-165-macbreak:-blu-ray-encoding-in-compressor</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-165-540p-h264.mov" length="46549164" type="video/quicktime"/>
+	<itunes:duration>08:08</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Brian Gary talks with Alex about Blu-ray encoding in Compressor.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 164: macbreak: True 3D in Motion</title>
+	<link>http://pixelcorps.tv/macbreak164</link>
+	<description>Alex brings in Mark Spencer to demonstrate how you can make a true 3D object in Motion.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 07 Aug 2008 05:50:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-164-macbreak:-true-3d-in-motion</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-164-540p-h264a.mov" length="34468471" type="video/quicktime"/>
+	<itunes:duration>07:58</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex brings in Mark Spencer to demonstrate how you can make a true 3D object in Motion.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 163: MacBreak Dev: Moving An Image With Motion	</title>
+	<link>http://pixelcorps.tv/macbreak163</link>
+	<description>Keith Lang shows us how to move an image with motion in Quartz Composer.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 31 Jul 2008 17:50:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-163-macbreak-dev:-moving-an-image-with-motion	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-163-540p-h264.mov" length="44022097" type="video/quicktime"/>
+	<itunes:duration>06:08</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Keith Lang shows us how to move an image with motion in Quartz Composer.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 162: MacBreak Dev: Affecting Time With Sound	</title>
+	<link>http://pixelcorps.tv/macbreak162</link>
+	<description>Keith Lang shows us how to control time with sound in Quartz Composer.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 23 Jul 2008 18:28:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-162-macbreak-dev:-affecting-time-with-sound	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-162-540p-h264a.mov" length="31611652" type="video/quicktime"/>
+	<itunes:duration>04:35</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Keith Lang shows us how to control time with sound in Quartz Composer.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 161: Macbreak: Wiimote Adaptation</title>
+	<link>http://pixelcorps.tv/macbreak161</link>
+	<description>Keith Lang stops in to show us how to adapt a Wiimote for a 3D experience.</description>
+	<category>podcasts</category>
+	<pubDate>Sat, 19 Jul 2008 01:31:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-161-macbreak:-wiimote-adaptation</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-161-540p-h264a.mov" length="61331849" type="video/quicktime"/>
+	<itunes:duration>10:10</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Keith Lang stops in to show us how to adapt a Wiimote for a 3D experience.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 160: MacBreak: Foldit	</title>
+	<link>http://pixelcorps.tv/macbreak160</link>
+	<description>iJustine and Dr. Kiki fold proteins and aim for the nobel prize with Foldit.</description>
+	<category>podcasts</category>
+	<pubDate>Fri, 11 Jul 2008 22:08:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-160-macbreak:-foldit	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-160-540p-h264.mov" length="86635404" type="video/quicktime"/>
+	<itunes:duration>11:53</itunes:duration>
+	<itunes:author>Justine Ezarik</itunes:author>
+	<itunes:subtitle>iJustine and Dr. Kiki fold proteins and aim for the nobel prize with Foldit.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 159: MacBreak: Flip Video	</title>
+	<link>http://pixelcorps.tv/macbreak159</link>
+	<description>Lisa and iJustine break down the features of the new Flip Mino.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 02 Jul 2008 22:08:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-159-macbreak:-flip-video	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-159-540p-h264.mov" length="29098781" type="video/quicktime"/>
+	<itunes:duration>04:13</itunes:duration>
+	<itunes:author>Lisa Bettany</itunes:author>
+	<itunes:subtitle>Lisa and iJustine break down the features of the new Flip Mino.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 158: MacBreak WWDC: Savant	</title>
+	<link>http://pixelcorps.tv/macbreak158</link>
+	<description>Alex shows us what Savant is doing to automate our home entertainment systems.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 26 Jun 2008 17:37:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-158-macbreak-wwdc:-savant	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-158-540p-h264.mov" length="45535783" type="video/quicktime"/>
+	<itunes:duration>03:32</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex shows us what Savant is doing to automate our home entertainment systems.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 157: MacBreack Studio: The Replicator </title>
+	<link>http://pixelcorps.tv/macbreak157</link>
+	<description>Alex brings in Mark Spencer to show how to use the Replicator effectively.</description>
+	<category>podcasts</category>
+	<pubDate>Sat, 21 Jun 2008 18:31:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-157-macbreack-studio:-the-replicator-</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-157-540p-h264a.mov" length="41150752" type="video/quicktime"/>
+	<itunes:duration>09:01	</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex brings in Mark Spencer to show how to use the Replicator effectively.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 156: MacBreak Studio: Compressor Markers	</title>
+	<link>http://pixelcorps.tv/macbreak156</link>
+	<description>Alex invites Brian Gary in to talk about how Compressor's chapter markers can be used to streamline collaborative workflow.</description>
+	<category>podcasts</category>
+	<pubDate>Fri, 13 Jun 2008 20:21:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-156-macbreak-studio:-compressor-markers	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-156-540p-h264.mov" length="42618007" type="video/quicktime"/>
+	<itunes:duration>07:21</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex invites Brian Gary in to talk about how Compressor's chapter markers can be used to streamline collaborative workflow.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 155: MacBreak Studio: Ripple and Roll	</title>
+	<link>http://pixelcorps.tv/macbreak155</link>
+	<description>Alex brings back Steve Martin to show us how one tool in Final Cut can speed up your workflow.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 05 Jun 2008 01:44:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-155-macbreak-studio:-ripple-and-roll	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-155-540p-h264a.mov" length="51155858" type="video/quicktime"/>
+	<itunes:duration>10:13</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex brings back Steve Martin to show us how one tool in Final Cut can speed up your workflow.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 154: MacBreak Studio: The Job Chain	</title>
+	<link>http://pixelcorps.tv/macbreak154</link>
+	<description>Alex brings back Brian Gary to show us how we can save time by linking jobs in Compressor.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 29 May 2008 01:38:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-154-macbreak-studio:-the-job-chain	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-154-540p-h264.mov" length="53799780" type="video/quicktime"/>
+	<itunes:duration>09:58</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex brings back Brian Gary to show us how we can save time by linking jobs in Compressor.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 153: MacBreak Studio: Compressor Overview</title>
+	<link>http://pixelcorps.tv/macbreak153</link>
+	<description>Alex brings in Brian Gary to give an overview of how you can use Compressor throughout the post-production process.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 21 May 2008 21:40:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-153-macbreak-studio:-compressor-overview</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-153-540p-h264.mov" length="60626675" type="video/quicktime"/>
+	<itunes:duration>09:26</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex brings in Brian Gary to give an overview of how you can use Compressor throughout the post-production process.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 152: NAB: Elcipse</title>
+	<link>http://pixelcorps.tv/macbreak152</link>
+	<description>Alex drops by JLCooper Electronics to check out the Eclipse interface for Color.</description>
+	<category>podcasts</category>
+	<pubDate>Sat, 03 May 2008 01:25:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-152-nab:-elcipse</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-152-540p-h264.mov" length="44424530" type="video/quicktime"/>
+	<itunes:duration>02:51</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex drops by JLCooper Electronics to check out the Eclipse interface for Color.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 151: NAB: Tidbits Part 2</title>
+	<link>http://pixelcorps.tv/macbreak151</link>
+	<description>Alex checks out a vocal booth, a helicopter, and a couple of Kiki's.</description>
+	<category>podcasts</category>
+	<pubDate>Sat, 03 May 2008 01:20:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-151-nab:-tidbits-part-2</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-151-540p-h264.mov" length="96324617" type="video/quicktime"/>
+	<itunes:duration>05:00</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex checks out a vocal booth, a helicopter, and a couple of Kiki's.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 150: NAB: Gefen	</title>
+	<link>http://pixelcorps.tv/macbreak150</link>
+	<description>Alex shows how Gefen hardware can hold your production together.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 30 Apr 2008 23:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-150-nab:-gefen	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-150-540p-h264.mov" length="40982765" type="video/quicktime"/>
+	<itunes:duration>02:44</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex shows how Gefen hardware can hold your production together.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 149: NAB: EX3</title>
+	<link>http://pixelcorps.tv/macbreak149</link>
+	<description>Alex and Brent weigh out the pros and cons of Sony's EX3.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 30 Apr 2008 23:20:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-149-nab:-ex3</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-149-540p-h264.mov" length="81906800" type="video/quicktime"/>
+	<itunes:duration>03:11</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex and Brent weigh out the pros and cons of Sony's EX3.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 148: NAB: Thermo</title>
+	<link>http://pixelcorps.tv/macbreak148</link>
+	<description>In this episode, Alex and Brent Bye are hot for Adobe's "Thermo."</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 30 Apr 2008 20:00:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-148-nab:-thermo</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-148-540p-h264.mov" length="61272198" type="video/quicktime"/>
+	<itunes:duration>03:34</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>In this episode, Alex and Brent Bye are hot for Adobe's "Thermo."</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 147: NAB: Mogul</title>
+	<link>http://pixelcorps.tv/macbreak147</link>
+	<description>Alex stops by Imagineer Systems to check out their new product Mogul.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 30 Apr 2008 18:06:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-147-nab:-mogul</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-147-540p-h264.mov" length="28216939" type="video/quicktime"/>
+	<itunes:duration>02:34</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex stops by Imagineer Systems to check out their new product Mogul.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 146: NAB: Blackmagic	</title>
+	<link>http://pixelcorps.tv/macbreak146</link>
+	<description>Alex checks out the cool toys at the Blackmagic booth.</description>
+	<category>podcasts</category>
+	<pubDate>Tue, 29 Apr 2008 21:53:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-146-nab:-blackmagic	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-146-540p-h264.mov" length="55234752" type="video/quicktime"/>
+	<itunes:duration>03:34</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex checks out the cool toys at the Blackmagic booth.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 145: NAB: RSR	</title>
+	<link>http://pixelcorps.tv/macbreak145</link>
+	<description>Alex drops by the RSR booth to check out CineSync and CineSpace.</description>
+	<category>podcasts</category>
+	<pubDate>Tue, 29 Apr 2008 21:30:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-145-nab:-rsr	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-145-540p-h264.mov" length="43389220" type="video/quicktime"/>
+	<itunes:duration>03:11</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex drops by the RSR booth to check out CineSync and CineSpace.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 144: NAB 2008: ScopeBox and 3D-Nixus	</title>
+	<link>http://pixelcorps.tv/macbreak144</link>
+	<description>Alex drops by Divergent Media and Nixus.</description>
+	<category>podcasts</category>
+	<pubDate>Fri, 25 Apr 2008 18:49:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-144-nab-2008:-scopebox-and-3d-nixus	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-144-540p-h264.mov" length="66594672" type="video/quicktime"/>
+	<itunes:duration>03:17</itunes:duration>
+	<itunes:author>Host</itunes:author>
+	<itunes:subtitle>Alex drops by Divergent Media and Nixus.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 143: NAB 2008: Flow	</title>
+	<link>http://pixelcorps.tv/macbreak143</link>
+	<description>Alex stops by Gridiron Software to check out how they are revolutionizing file management with "Flow."</description>
+	<category>podcasts</category>
+	<pubDate>Fri, 25 Apr 2008 18:30:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-143-nab-2008:-flow	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-143-540p-h264.mov" length="48201462" type="video/quicktime"/>
+	<itunes:duration>02:48</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex stops by Gridiron Software to check out how they are revolutionizing file management with "Flow."</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 142: NAB 2008: Tidbits Part 1	</title>
+	<link>http://pixelcorps.tv/macbreak142</link>
+	<description>Alex checks out Koala Windsocks, Military Spec laptops, 18K lights, the RED Booth, Teleprompters, and Maxon.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 23 Apr 2008 19:06:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-142-nab-2008:-tidbits-part-1	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-142-540p-h264.mov" length="105460469" type="video/quicktime"/>
+	<itunes:duration>05:25</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex checks out Koala Windsocks, Military Spec laptops, 18K lights, the RED Booth, Teleprompters, and Maxon.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 141: NAB 2008: JK Audio	</title>
+	<link>http://pixelcorps.tv/macbreak141</link>
+	<description>Alex drops by the JK Audio booth to see how they're improving phone recording interfaces.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 23 Apr 2008 18:05:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-141-nab-2008:-jk-audio	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-141-540p-h264.mov" length="54511723" type="video/quicktime"/>
+	<itunes:duration>03:05</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex drops by the JK Audio booth to see how they're improving phone recording interfaces.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 140: NAB 2008: Plug-in Pavilion	</title>
+	<link>http://pixelcorps.tv/macbreak140</link>
+	<description>Alex checks out what's going on at NAB's Plug-in Pavilion this year.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 23 Apr 2008 00:30:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-140-nab-2008:-plug-in-pavilion	</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak-140-540p-h264.mov" length="126262931" type="video/quicktime"/>
+	<itunes:duration>06:42</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex checks out what's going on at NAB's Plug-in Pavilion this year.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 139: NAB: Matrox MX02</title>
+	<link>http://pixelcorps.tv/macbreak139</link>
+	<description>Alex shows how the guys at Matrox are advancing mobile capturing with the MX02. </description>
+	<category>podcasts</category>
+	<pubDate>Sun, 20 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-139-macbreak-nab:-matrox-mx02</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-139-540p-h264.mov" length="62649492" type="video/quicktime"/>
+	<itunes:duration>03:26</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex shows how the guys at Matrox are advancing mobile capturing with the MX02. </itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 138: NAB: Lite Panels</title>
+	<link>http://pixelcorps.tv/macbreak138</link>
+	<description>Alex stops by the Lite Panel booth. </description>
+	<category>podcasts</category>
+	<pubDate>Sun, 20 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-138-macbreak-nab:-lite-panels</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-138-540p-h264.mov" length="83059265" type="video/quicktime"/>
+	<itunes:duration>03:05</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex stops by the Lite Panel booth.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 137: NAB: Location Sound Corp</title>
+	<link>http://pixelcorps.tv/macbreak137</link>
+	<description>Alex chats with the guys at Location Sound Corp about what you need in the field when it comes to sound.  </description>
+	<category>podcasts</category>
+	<pubDate>Fri, 18 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk-137-macbreak-nab:-location-sound-corp</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-137-540p-h264a.mov" length="164358726" type="video/quicktime"/>
+	<itunes:duration>07:07</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex chats with the guys at Location Sound Corp about what you need in the field when it comes to sound.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 136: NAB: Barber Boom</title>
+	<link>http://pixelcorps.tv/macbreak136</link>
+	<description>Alex checks out Barber Tech's Barber Boom.  </description>
+	<category>podcasts</category>
+	<pubDate>Fri, 18 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-136-macbreak-nab:-barber-booma</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-136-540p-h264a.mov" length="41791786" type="video/quicktime"/>
+	<itunes:duration>02:31</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex checks out Barber Tech's Barber Boom.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 135: NAB: Neutrik</title>
+	<link>http://pixelcorps.tv/macbreak135</link>
+	<description>Alex checks out Neutrik's brand new connector.  </description>
+	<category>podcasts</category>
+	<pubDate>Thu, 17 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-135-macbreak-nab:-neutrik</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-135-540p-h264a.mov" length="61067668" type="video/quicktime"/>
+	<itunes:duration>02:35</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex checks out Neutrik's brand new connector.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 134: NAB: Lensbabies: Video</title>
+	<link>http://pixelcorps.tv/macbreak134</link>
+	<description>Alex checks out Lensbabies for Video.  </description>
+	<category>podcasts</category>
+	<pubDate>Wed, 16 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-134-macbreak-nab:-countryman</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-134-540p-h264.mov" length="39124506" type="video/quicktime"/>
+	<itunes:duration>01:50</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex checks out Lensbabies for Video.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 133: NAB: Countryman</title>
+	<link>http://pixelcorps.tv/macbreak133</link>
+	<description>Does Countryman like Diet Coke?  Alex Lindsay finds out. </description>
+	<category>podcasts</category>
+	<pubDate>Wed, 16 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-133-macbreak-nab:-countryman</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-133-540p-h264.mov" length="74667089" type="video/quicktime"/>
+	<itunes:duration>02:38</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Does Countryman like Diet Coke?  Alex Lindsay finds out. </itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 132: Macbreak Studio: The "F" Key</title>
+	<link>http://pixelcorps.tv/macbreak132</link>
+	<description>Alex invites Mark Spencer to show how the "F" key can simplify both keyframing as well as general workflow in Motion. </description>
+	<category>podcasts</category>
+	<pubDate>Wed, 02 Apr 2008 18:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-132-macbreak-studio:-the-"f"-key</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-132-540p-h264.mov" length="67211954" type="video/quicktime"/>
+	<itunes:duration>09:21</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex invites Mark Spencer to show how the "F" key can simplify both keyframing as well as general workflow in Motion. </itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 131: Macbreak Studio: Color</title>
+	<link>http://pixelcorps.tv/macbreak131</link>
+	<description>Alex invites Steve Martin to show the basics of color correction using Apple's Color.</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 26 Mar 2008 23:42:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-131-macbreak-studio:-color</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-131-540p-h264.mov" length="86491353" type="video/quicktime"/>
+	<itunes:duration>12:50</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex invites Steve Martin to show the basics of color correction using Apple's Color.</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 130: MARATHON</title>
+	<link>http://pixelcorps.tv/macbreak130</link>
+	<description>Alex gives an overview of how to set up "Marathon."</description>
+	<category>podcasts</category>
+	<pubDate>Wed, 19 Mar 2008 23:49:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-130-marathon</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-130-540p-h264.mov" length="22586721" type="video/quicktime"/>
+	<itunes:duration>06:42</itunes:duration>
+	<itunes:author>Alex Lindsay</itunes:author>
+	<itunes:subtitle>Alex gives an overview of how to set up "Marathon."</itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 129: Macworld 2008: AcoustiLock</title>
+	<link>http://pixelcorps.tv/macbreak129</link>
+	<description>Dr. Kiki Sanford takes a look at what Noren Products has been putting into its AcoustiLock noise reduction cabinets.  </description>
+	<category>podcasts</category>
+	<pubDate>Thu, 21 Feb 2008 23:49:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-129-macworld-2008:-acoustilock</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-129-540p-h264b.mov" length="120714647" type="video/quicktime"/>
+	<itunes:duration>04:25</itunes:duration>
+	<itunes:author>Dr. Kiki Sanford</itunes:author>
+	<itunes:subtitle>Dr. Kiki Sanford takes a look at what Noren Products has been putting into its AcoustiLock noise reduction cabinets.  </itunes:subtitle>
+</item>
+<item>
+	<title>MacBreak 128: Macworld 2008: CrystalMaker</title>
+	<link>http://pixelcorps.tv/macbreak128</link>
+	<description>Dr. Kiki Sanford checks out CrystalMaker's newest molecular visualization software.</description>
+	<category>podcasts</category>
+	<pubDate>Thu, 14 Feb 2008 23:59:00 GMT</pubDate>
+	<guid isPermaLink="false">mbk1080-128-macworld-2008:-crystalmaker</guid>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-128-540p-h264a.mov" length="141533724" type="video/quicktime"/>
+	<itunes:duration>04:51</itunes:duration>
+	<itunes:author>Dr. Kiki Sanford</itunes:author>
+	<itunes:subtitle>Dr. Kiki Sanford checks out CrystalMaker's newest molecular visualization software.</itunes:subtitle>
+</item>
+		<item>
+			<title>MacBreak 127: Macworld 2008: Ultimate Ears</title>
+			<link>http://pixelcorps.tv/macbreak127</link>
+			<description>Dr. Kiki Sanford is all ears for new products from Ultimate Ears.</description>
+			<category>podcasts</category>
+			<pubDate>Sat, 09 Feb 2008 01:30:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk-127-macworld-2008:-ultimate-ears</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-127-540p-h264b.mov" length="173149259" type="video/quicktime"/>
+			<itunes:duration>04:50</itunes:duration>
+			<itunes:author>Dr. Kiki Sanford</itunes:author>
+			<itunes:subtitle>Dr. Kiki Sanford is all ears for new products from Ultimate Ears.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 126: Macworld 2008: Verte Chair</title>
+			<link>http://pixelcorps.tv/macbreak126</link>
+			<description>Dr. Kiki Sanford takes Anthro Technology's "Verte Chair" for a spin.</description>
+			<category>podcasts</category>
+			<pubDate>Sat, 26 Jan 2008 02:22:00 GMT</pubDate>
+			<guid isPermaLink="false">appletv-126-macworld-2008:-verte-chair</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-126-540p-h264a.mov" length="178203480" type="video/quicktime"/>
+			<itunes:duration>04:52</itunes:duration>
+			<itunes:author>Dr. Kiki Sanford</itunes:author>
+			<itunes:subtitle>Dr. Kiki Sanford takes Anthro Technology's "Verte Chair" for a spin.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 125: Macworld 2008: Lensbabies</title>
+			<link>http://pixelcorps.tv/macbreak125</link>
+			<description>Dr. Kiki Sanford learns about Selective Focus SLR camera lenses from Lensbabies </description>
+			<category>podcasts</category>
+			<pubDate>Wed, 23 Jan 2008 20:46:00 GMT</pubDate>
+			<guid isPermaLink="false">appletv-125-macworld-2008:-lensbabies</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-125-540p-h264a.mov" length="185127996" type="video/quicktime"/>
+			<itunes:duration>06:08</itunes:duration>
+			<itunes:author>Dr. Kiki Sanford</itunes:author>
+			<itunes:subtitle>Dr. Kiki Sanford learns about Selective Focus SLR camera lenses from Lensbabies </itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 124: Macworld 2008: National Instruments</title>
+			<link>http://pixelcorps.tv/macbreak124</link>
+			<description>Dr. Kiki Sanford checks out data acquisition software and interfaces.  </description>
+			<category>podcasts</category>
+			<pubDate>Tue, 22 Jan 2008 20:06:00 GMT</pubDate>
+			<guid isPermaLink="false">appletv-124-macworld-2008:-national-instruments</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-124-540p-h264a.mov" length="80975104" type="video/quicktime"/>
+			<itunes:duration>03:05</itunes:duration>
+			<itunes:author>Dr. Kiki Sanford</itunes:author>
+			<itunes:subtitle>Dr. Kiki Sanford checks out data acquisition software and interfaces.  </itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 123: Macworld 2008: Jersey Boy</title>
+			<link>http://pixelcorps.tv/macbreak123</link>
+			<description>Merlin Mann chats with some guy from Jersey about punching Steve Jobs.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 23:27:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-123-macworld-2008:-panic-software</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-123-540p-h264a.mov" length="156718678" type="video/quicktime"/>
+			<itunes:duration>05:24</itunes:duration>
+			<itunes:author>Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin Mann chats with some guy from Jersey about punching Steve Jobs.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 122: Macworld 2008: 1Password</title>
+			<link>http://pixelcorps.tv/macbreak122</link>
+			<description>Merlin Mann chats with Agile Web Solutions about 1Password.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 23:27:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-122-macworld-2008:-1password</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-122-540p-h264a.mov" length="193074083" type="video/quicktime"/>
+			<itunes:duration>07:35</itunes:duration>
+			<itunes:author>Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin Mann chats with Agile Web Solutions about 1Password.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 121: Macworld 2008: Panic Software</title>
+			<link>http://pixelcorps.tv/macbreak121</link>
+			<description>Merlin Mann chats with the guys from Panic Software.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 23:08:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-121-macworld-2008:-panic-software</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-121-540p-h264a.mov" length="247979589" type="video/quicktime"/>
+			<itunes:duration>07:25</itunes:duration>
+			<itunes:author>Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin Mann chats with the guys from Panic Software.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 120: Macworld 2008: Rain Design - iGo</title>
+			<link>http://pixelcorps.tv/macbreak120</link>
+			<description>Cali Lewis checks out the iGo Mac stands from Rain Design.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 23:08:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-120-macworld-2008:-belkin---rain-design</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-120-540p-h264a.mov" length="110845876" type="video/quicktime"/>
+			<itunes:duration>03:45</itunes:duration>
+			<itunes:author>Cali Lewis</itunes:author>
+			<itunes:subtitle>Cali Lewis checks out the iGo Mac stands from Rain Design.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 119: Macworld 2008: Belkin - Flywire and Podcast Studio</title>
+			<link>http://pixelcorps.tv/macbreak119</link>
+			<description>Cali Lewis checks out the new FlyWire and Podcast Studio products from Belkin.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 21:32:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-119-macworld-2008:-belkin---flywire-and-podcast-studio</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-119-540p-h264a.mov" length="111558319" type="video/quicktime"/>
+			<itunes:duration>04:28</itunes:duration>
+			<itunes:author>Cali Lewis</itunes:author>
+			<itunes:subtitle>Cali Lewis checks out the new FlyWire and Podcast Studio products from Belkin.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 118: Macworld 2008: BlueMic</title>
+			<link>http://pixelcorps.tv/macbreak118</link>
+			<description>Cali Lewis investigates the Snowball by Bluemic.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 21:06:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-118-macworld-2008:-bluemic</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-118-540p-h264a.mov" length="76708214" type="video/quicktime"/>
+			<itunes:duration>02:48</itunes:duration>
+			<itunes:author>Cali Lewis</itunes:author>
+			<itunes:subtitle>Cali Lewis investigates the Snowball by Bluemic.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 117: Macworld 2008: Software Bisque</title>
+			<link>http://pixelcorps.tv/macbreak117</link>
+			<description>Dr. Kiki Sanford gets the scoop on Mac Astronomy Software at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 06:20:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-117-macworld-2008:-software-bisque</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-117-540p-h264a.mov" length="187282145" type="video/quicktime"/>
+			<itunes:duration>06:34</itunes:duration>
+			<itunes:author>Dr. Kiki Sanford</itunes:author>
+			<itunes:subtitle>Dr. Kiki Sanford gets the scoop on Mac Astronomy Software at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 116: Macworld 2008: Solio</title>
+			<link>http://pixelcorps.tv/macbreak116</link>
+			<description>Dr. Kiki Sanford learns about SOLIO Universal Portable Solar Chargers </description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 05:04:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-116-macworld-2008:-solio</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-116-540p-h264a.mov" length="198725865" type="video/quicktime"/>
+			<itunes:duration>05:10</itunes:duration>
+			<itunes:author>Dr. Kiki Sanford</itunes:author>
+			<itunes:subtitle>Dr. Kiki Sanford learns about SOLIO Universal Portable Solar Chargers </itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 115: Macworld 2008: MacHeist</title>
+			<link>http://pixelcorps.tv/macbreak115</link>
+			<description>Kendra Arimoto gets details on the MacHeist Bundle at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 04:38:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-115-macworld-2008:-macheist</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-115-540p-h264a.mov" length="93743611" type="video/quicktime"/>
+			<itunes:duration>03:28</itunes:duration>
+			<itunes:author>Kendra Arimoto</itunes:author>
+			<itunes:subtitle>Kendra Arimoto gets details on the MacHeist Bundle at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 114: Macworld 2008: YouTube</title>
+			<link>http://pixelcorps.tv/macbreak114</link>
+			<description>Kendra Arimoto learns about the new YouTube features, Warp and Streams.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 01:23:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-114-macworld-2008:-youtube</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-114-540p-h264a.mov" length="107366333" type="video/quicktime"/>
+			<itunes:duration>03:19</itunes:duration>
+			<itunes:author>Kendra Arimoto</itunes:author>
+			<itunes:subtitle>Kendra Arimoto learns about the new YouTube features, Warp and Streams.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 113: Macworld 2008: Google iPhone Apps</title>
+			<link>http://pixelcorps.tv/macbreak113</link>
+			<description>Kendra Arimoto discovers new and upgraded iPhone web applications from Google</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 01:14:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-113-macworld-2008:-google-iphone-apps</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-113-540p-h264a.mov" length="84812556" type="video/quicktime"/>
+			<itunes:duration>02:45</itunes:duration>
+			<itunes:author>Kendra Arimoto</itunes:author>
+			<itunes:subtitle>Kendra Arimoto discovers new and upgraded iPhone web applications from Google</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 112: Macworld 2008: Modbook</title>
+			<link>http://pixelcorps.tv/macbreak112</link>
+			<description>Kendra Arimoto learns about the latest Modbook </description>
+			<category>podcasts</category>
+			<pubDate>Fri, 18 Jan 2008 00:56:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-112-macworld-2008:-modbook</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-112-540p-h264a.mov" length="55582456" type="video/quicktime"/>
+			<itunes:duration>02:22</itunes:duration>
+			<itunes:author>Kendra Arimoto</itunes:author>
+			<itunes:subtitle>Kendra Arimoto learns about the latest Modbook </itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 111: Macworld 2008: Drobo</title>
+			<link>http://pixelcorps.tv/macbreak111</link>
+			<description>Cali Lewis investigates the Drobo intelligent media storage.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 17 Jan 2008 07:45:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-111-macworld-2008:-drobo</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-111-540p-h264a.mov" length="155875880" type="video/quicktime"/>
+			<itunes:duration>05:31</itunes:duration>
+			<itunes:author>Cali Lewis</itunes:author>
+			<itunes:subtitle>Cali Lewis investigates the Drobo intelligent media storage.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 110: Macworld 2008: Eye-Fi</title>
+			<link>http://pixelcorps.tv/macbreak110</link>
+			<description>Cali Lewis checks out the Eye-Fi auto-uploading SD card.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 17 Jan 2008 05:43:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-110-macworld-2008:-eye-fi</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-110-540p-h264a.mov" length="79280173" type="video/quicktime"/>
+			<itunes:duration>03:27</itunes:duration>
+			<itunes:author>Cali Lewis</itunes:author>
+			<itunes:subtitle>Cali Lewis checks out the Eye-Fi auto-uploading SD card.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 109: Macworld 2008: Griffin Technology</title>
+			<link>http://pixelcorps.tv/macbreak109</link>
+			<description>Cali Lewis checks out Griffin Technology's new Power Dock and Evolve Speakers at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 17 Jan 2008 05:42:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-109-macworld-2008:-griffin-technology</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-109-540p-h264a.mov" length="98283032" type="video/quicktime"/>
+			<itunes:duration>04:51</itunes:duration>
+			<itunes:author>Cali Lewis</itunes:author>
+			<itunes:subtitle>Cali Lewis checks out Griffin Technology's new Power Dock and Evolve Speakers at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 108: Macworld 2008: The FastMac iV</title>
+			<link>http://pixelcorps.tv/macbreak108</link>
+			<description>Cali Lewis checks out the FastMac iV iPhone External Battery Case at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 17 Jan 2008 05:29:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-108-macworld-2008:-the-fastmac-iv</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-108-540p-h264a.mov" length="100825272" type="video/quicktime"/>
+			<itunes:duration>03:16</itunes:duration>
+			<itunes:author>Cali Lewis</itunes:author>
+			<itunes:subtitle>Cali Lewis checks out the FastMac iV iPhone External Battery Case at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 107: Macworld 2008: John Lennon Bus Part 2</title>
+			<link>http://pixelcorps.tv/macbreak107</link>
+			<description>Justine Ezarik learns more about the sound system on the John Lennon Bus in the second part of our two part series.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 17 Jan 2008 04:13:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-107-macworld-2008:-john-lennon-bus-part-2</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-107-540p-h264a.mov" length="55209655" type="video/quicktime"/>
+			<itunes:duration>03:19</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik learns more about the sound system on the John Lennon Bus in the second part of our two part series.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 106: Macworld 2008: John Lennon Bus Part 1</title>
+			<link>http://pixelcorps.tv/macbreak106</link>
+			<description>Justine Ezarik explores the John Lennon Bus in the first part of a two-part series.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 17 Jan 2008 04:09:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-106-macworld-2008:-john-lennon-bus-part-1</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-106-540p-h264a.mov" length="61017225" type="video/quicktime"/>
+			<itunes:duration>03:45</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik explores the John Lennon Bus in the first part of a two-part series.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 105: Macworld 2008: Gelaskins</title>
+			<link>http://pixelcorps.tv/macbreak105</link>
+			<description>Justine Ezarik explores the Gelaskins booth at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 16 Jan 2008 20:38:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-105-macworld-2008:-gelaskins</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-105-540p-h264a.mov" length="190613243" type="video/quicktime"/>
+			<itunes:duration>04:43</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik explores the Gelaskins booth at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 104: Macworld 2008: iZap Car</title>
+			<link>http://pixelcorps.tv/macbreak104</link>
+			<description>Justine Ezarik explores the iZap Car booth at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 16 Jan 2008 20:37:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-104-macworld-2008:-izap-car</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-104-540p-h264a.mov" length="115496157" type="video/quicktime"/>
+			<itunes:duration>03:04</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik explores the iZap Car booth at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 103: Macworld 2008: Joby Products</title>
+			<link>http://pixelcorps.tv/macbreak103</link>
+			<description>Justine Ezarik explores the Joby Products booth at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 16 Jan 2008 20:37:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-103-macworld-2008:-joby-products</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-103-540p-h264a.mov" length="139020129" type="video/quicktime"/>
+			<itunes:duration>04:37</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik explores the Joby Products booth at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 102: Macworld 2008: Urban Junket</title>
+			<link>http://pixelcorps.tv/macbreak102</link>
+			<description>Justine Ezarik explores the Urban Junket booth at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 16 Jan 2008 20:37:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-102-macworld-2008:-urban-junket</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-102-540p-h264a.mov" length="130303569" type="video/quicktime"/>
+			<itunes:duration>03:21</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik explores the Urban Junket booth at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 101: Macworld 2008: MetroNap.com</title>
+			<link>http://pixelcorps.tv/macbreak101</link>
+			<description>Justine Ezarik explores the MetroNap.com booth at Macworld.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 16 Jan 2008 20:37:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-101-macworld-2008:-metronap.com</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-101-540p-h264a.mov" length="56728962" type="video/quicktime"/>
+			<itunes:duration>03:17</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik explores the MetroNap.com booth at Macworld.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 100: Macworld 2008: Skullcandy</title>
+			<link>http://pixelcorps.tv/macbreak100</link>
+			<description>Justine Ezarik checks out the new cool products at the Skullcandy booth.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 16 Jan 2008 20:35:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-100-macworld-2008:-skullcandy</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-100-540p-h264a.mov" length="144823715" type="video/quicktime"/>
+			<itunes:duration>03:28</itunes:duration>
+			<itunes:author>Justine Ezarik</itunes:author>
+			<itunes:subtitle>Justine Ezarik checks out the new cool products at the Skullcandy booth.</itunes:subtitle>
+		</item>
+		<item>
+        	<title>MacBreak 99: Studio: Mixed-Format Editing in Final Cut Pro</title>
+        	<link>http://pixelcorps.tv/macbreak99</link>
+        	<description>Steve Martin explains how mixed format editing works within Final Cut Pro 6. </description>
+        	<category>podcasts</category>
+        	<pubDate>Thu, 03 Jan 2008 00:15:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-99-studio:-mixed-format-editing-in-final-cut-pro</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-099-1080p-h264.mov" length="53649453" type="video/quicktime"/>
+        	<itunes:duration>06:09</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Steve Martin explains how mixed format editing works within Final Cut Pro 6. </itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 98: Studio: Timecode Overlay in Compressor</title>
+        	<link>http://pixelcorps.tv/macbreak98</link>
+        	<description>Brian Gary shows us how to burn timecode into footage using Compressor.</description>
+        	<category>podcasts</category>
+        	<pubDate>Sat, 29 Dec 2007 06:24:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-98-studio:-timecode-overlay-in-compressor</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-098-1080p-h264.mov" length="65725379" type="video/quicktime"/>
+        	<itunes:duration>08:21</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Brian Gary shows us how to burn timecode into footage using Compressor.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 97: Video Compressors</title>
+        	<link>http://pixelcorps.tv/macbreak97</link>
+        	<description>Alex and Leo discuss video compression software for your Mac.</description>
+        	<category>podcasts</category>
+        	<pubDate>Thu, 20 Dec 2007 07:13:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-97-video-compressors</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-097-1080p-h264.mov" length="170172174" type="video/quicktime"/>
+        	<itunes:duration>17:05</itunes:duration>
+        	<itunes:author>Leo Laporte and Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Alex and Leo discuss video compression software for your Mac.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 96: Text Editors</title>
+        	<link>http://pixelcorps.tv/macbreak96</link>
+        	<description>Leo Laporte and Alex Lindsay explore the features of some top developer-ready text editors. </description>
+        	<category>podcasts</category>
+        	<pubDate>Wed, 12 Dec 2007 03:30:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-96-text-editors</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-096-1080p-h264.mov" length="136517081" type="video/quicktime"/>
+        	<itunes:duration>17:17</itunes:duration>
+        	<itunes:author>Leo Laporte and Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Leo Laporte and Alex Lindsay explore the features of some top developer-ready text editors. </itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 95: Image Editor Roundup</title>
+        	<link>http://pixelcorps.tv/macbreak95</link>
+        	<description>Leo Laporte and Alex Lindsay explore the features of image editors for your Mac. </description>
+        	<category>podcasts</category>
+        	<pubDate>Wed, 05 Dec 2007 01:01:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-95-image-editor-roundup</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-095-1080p-h264a.mov" length="140319294" type="video/quicktime"/>
+        	<itunes:duration>14:41</itunes:duration>
+        	<itunes:author>Leo Laporte and Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Leo Laporte and Alex Lindsay explore the features of image editors. </itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 94: Studio: 3D in Motion</title>
+        	<link>http://pixelcorps.tv/macbreak94</link>
+        	<description>Mark Spencer shows us how to manipulate objects in 3D space within Motion.</description>
+        	<category>podcasts</category>
+        	<pubDate>Tue, 27 Nov 2007 21:59:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-94-studio:-3d-in-motion</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-094-1080p-h264.mov" length="64926009" type="video/quicktime"/>
+        	<itunes:duration>07:23</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Mark Spencer shows us how to manipulate objects in 3D space within Motion.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 93: Studio: Quick DVD Menu </title>
+        	<link>http://pixelcorps.tv/macbreak93</link>
+        	<description>Steve Martin shows us how to make a simple menu from an existing video stream.</description>
+        	<category>podcasts</category>
+        	<pubDate>Tue, 20 Nov 2007 23:31:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-93-studio:-quick-dvd-menu-</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-093-1080p-h264.mov" length="72739462" type="video/quicktime"/>
+        	<itunes:duration>09:10</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Steve Martin shows us how to make a simple menu from an existing video stream.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 92: Studio: Droplets and Compression Templates in Compressor</title>
+        	<link>http://pixelcorps.tv/macbreak92</link>
+        	<description>Brian Gary returns to show us how to setup templates for recurring compression tasks. </description>
+        	<category>podcasts</category>
+        	<pubDate>Wed, 14 Nov 2007 00:31:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-92-studio:-droplets-and-compression-templates-in-compressor</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-092-1080p-h264.mov" length="67667963" type="video/quicktime"/>
+        	<itunes:duration>07:26</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Brian Gary returns to show us how to setup templates for recurring compression tasks. </itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 91: Studio: Multicam Editing Essentials</title>
+        	<link>http://pixelcorps.tv/macbreak91</link>
+        	<description>Steve Martin shows us how to sync and edit footage from multi-camera in Final Cut Pro.</description>
+        	<category>podcasts</category>
+        	<pubDate>Wed, 07 Nov 2007 02:29:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-91-studio:-multicam-editing-essentials</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-091-1080p-h264.mov" length="145087960" type="video/quicktime"/>
+        	<itunes:duration>14:53</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Steve Martin shows us how to sync and edit footage from multi-camera in Final Cut Pro.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 90: Studio: Motion Custom Template Thumbnails</title>
+        	<link>http://pixelcorps.tv/macbreak90</link>
+        	<description>Mark Spencer shows us how to create thumbnail graphics for custom templates in Motion.</description>
+        	<category>podcasts</category>
+        	<pubDate>Wed, 31 Oct 2007 00:07:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-90-studio:-motion-custom-template-thumbnails</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-090-1080p-h264.mov" length="58992126" type="video/quicktime"/>
+        	<itunes:duration>06:17</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Mark Spencer shows us how to create thumbnail graphics for custom templates in Motion.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 89: Studio: Troubleshooting Compressor </title>
+        	<link>http://pixelcorps.tv/macbreak89</link>
+        	<description>Brian Gary shows us how to troubleshoot in Compressor.</description>
+        	<category>podcasts</category>
+        	<pubDate>Wed, 24 Oct 2007 00:00:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-89-studio:-troubleshooting-compressor-</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-089-1080p-h264.mov" length="149053781" type="video/quicktime"/>
+        	<itunes:duration>16:09</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Brian Gary shows us how to troubleshoot in Compressor.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 88: Studio: Mixing 2D and 3D Assets in Motion</title>
+        	<link>http://pixelcorps.tv/macbreak88</link>
+        	<description>Mark Spencer explains how to mix 2D and 3D images in Motion.</description>
+        	<category>podcasts</category>
+        	<pubDate>Thu, 18 Oct 2007 16:53:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-88-studio:-mixing-2d-and-3d-assets-in-motion</guid>
+        	<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-088-1080p-h264.mov" length="58788748" type="video/quicktime"/>
+        	<itunes:duration>06:35</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Mark Spencer explains how to mix 2D and 3D images in Motion.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 87: Studio: Audio Keyframes</title>
+        	<link>http://pixelcorps.tv/macbreak87</link>
+        	<description>Mark Spencer shows us how to use audio to drive animation in Motion.</description>
+        	<category>podcasts</category>
+        	<pubDate>Mon, 27 Aug 2007 18:19:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-87-studio:-audio-keyframes</guid>
+        	<enclosure url="http://pixelcorps.cachefly.net/macbreak-087-1080p-h264.mov" length="54690013" type="video/quicktime"/>
+        	<itunes:duration>07:23</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Mark Spencer shows us how to use audio to drive animation in Motion.</itunes:subtitle>
+        </item>
+        <item>
+        	<title>MacBreak 86: Studio: 2D Tracking in Motion</title>
+        	<link>http://pixelcorps.tv/macbreak86</link>
+        	<description>Mark Spencer shows us how to use the new tracking features in Motion 3.</description>
+        	<category>podcasts</category>
+        	<pubDate>Tue, 14 Aug 2007 18:26:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-86-studio:-2d-tracking-in-motion</guid>
+        	<enclosure url="http://pixelcorps.cachefly.net/macbreak-086-1080p-h264.mov" length="61912212" type="video/quicktime"/>
+        	<itunes:duration>07:05</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Mark Spencer shows us how to use the new tracking features in Motion 3.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 85: Studio: Master Templates</title>
+        	<link>http://pixelcorps.tv/macbreak85</link>
+        	<description>Mark Spencer returns to show us more of what's new in Motion 3, this time discussing how to create editor-friendly motion graphics templates for use in Final Cut Pro.</description>
+        	<category>podcasts</category>
+        	<pubDate>Tue, 07 Aug 2007 23:48:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-85-studio:-master-templates</guid>
+        	<enclosure url="http://pixelcorps.cachefly.net/macbreak-085-1080p-h264.mov" length="69138747" type="video/quicktime"/>
+        	<itunes:duration>07:53</itunes:duration>
+        	<itunes:author>Alex Lindsay</itunes:author>
+        	<itunes:subtitle>Mark Spencer returns to show us more of what's new in Motion 3, this time discussing how to create editor-friendly motion graphics templates for use in Final Cut Pro.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 84: Minute: Saft</title>
+        	<link>http://pixelcorps.tv/macbreak84</link>
+        	<description>Merlin shows us how to bookmark sets of tabs in Safari with Saft.</description>
+        	<category>podcasts</category>
+        	<pubDate>Tue, 31 Jul 2007 23:24:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-84-minute:-saft</guid>
+        	<enclosure url="http://pixelcorps.cachefly.net/macbreak-084-1080p-h264.mov" length="12048253" type="video/quicktime"/>
+        	<itunes:duration>01:24</itunes:duration>
+        	<itunes:author>Merlin Mann</itunes:author>
+        	<itunes:subtitle>Merlin shows us how to bookmark sets of tabs in Safari with Saft.</itunes:subtitle>
+        </item>		
+        <item>
+        	<title>MacBreak 83: Minute: Quick Dock Configuration </title>
+        	<link>http://pixelcorps.tv/macbreak83</link>
+        	<description>Kenji shows us some handy shortcuts for accessing dock parameters.</description>
+        	<category>podcasts</category>
+        	<pubDate>Wed, 25 Jul 2007 01:00:00 GMT</pubDate>
+        	<guid isPermaLink="false">mbk1080-83-minute:-quick-dock-configuration-</guid>
+        	<enclosure url="http://pixelcorps.cachefly.net/macbreak-083-1080p-h264.mov" length="11096459" type="video/quicktime"/>
+        	<itunes:duration>01:08</itunes:duration>
+        	<itunes:author>Kenji Kato</itunes:author>
+        	<itunes:subtitle>Kenji shows us some handy shortcuts for accessing dock parameters.</itunes:subtitle>
+        </item>		
+		<item>
+			<title>MacBreak 82: Minute: Lite Switch</title>
+			<link>http://pixelcorps.tv/macbreak82</link>
+			<description>Merlin shows us Lite Switch, which adds a bunch o' nifty to the application switcher.</description>
+			<category>podcasts</category>
+			<pubDate>Fri, 13 Jul 2007 22:40:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-82-minute:-lite-switch</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-082-1080p-h264.mov" length="11988512" type="video/quicktime"/>
+			<itunes:duration>01:36</itunes:duration>
+			<itunes:author>Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin shows us Lite Switch, which adds a bunch o' nifty to the application switcher.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 80: Minute: Mac OS X Software</title>
+			<link>http://pixelcorps.tv/macbreak80</link>
+			<description>Kenji shows us an often-overlooked software link in the Apple menu.</description>
+			<category>podcasts</category>
+			<pubDate>Tue, 26 Jun 2007 17:51:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-80-minute:-mac-os-x-software</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-080-1080p-h264.mov" length="10538028" type="video/quicktime"/>
+			<itunes:duration>00:55</itunes:duration>
+			<itunes:author>Kenji Kato</itunes:author>
+			<itunes:subtitle>Kenji shows us an often-overlooked software link in the Apple menu.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 79: Minute: Sogudi</title>
+			<link>http://pixelcorps.tv/macbreak79</link>
+			<description>Merlin shows us Sogudi, a browser navigation accelerator for Safari. </description>
+			<category>podcasts</category>
+			<pubDate>Tue, 19 Jun 2007 21:54:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-79-minute:-sogudi</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-079-1080p-h264.mov" length="19449672" type="video/quicktime"/>
+			<itunes:duration>01:58</itunes:duration>
+			<itunes:author>Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin shows us Sogudi, a browser navigation accelerator for Safari. </itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 78: Minute: Safari Address Bar Shortcut</title>
+			<link>http://pixelcorps.tv/macbreak78</link>
+			<description>Kenji shows us a handy address bar shortcut in Safari</description>
+			<category>podcasts</category>
+			<pubDate>Tue, 12 Jun 2007 20:19:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-78-minute:-safari-address-bar-shortcut</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-078-1080p-h264.mov" length="8816383" type="video/quicktime"/>
+			<itunes:duration>00:50</itunes:duration>
+			<itunes:author>Kenji Kato</itunes:author>
+			<itunes:subtitle>Kenji shows us a handy address bar shortcut in Safari</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 77: Minute: Safari Keyboard Shortcuts</title>
+			<link>http://pixelcorps.tv/macbreak77</link>
+			<description>Merlin's back with some keystroke-fu for accessing your bookmarks in Safari.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 06 Jun 2007 21:26:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-77-minute:-safari-keyboard-shortcuts</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-077-1080p-h264.mov" length="11556653" type="video/quicktime"/>
+			<itunes:duration>01:18</itunes:duration>
+			<itunes:author>Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin's back with some keystroke-fu for accessing your bookmarks in Safari.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 76: Studio: Motion 3 Paint</title>
+			<link>http://pixelcorps.tv/macbreak76</link>
+			<description>Mark Spencer returns to show us the new paint features in Motion 3.</description>
+			<category>podcasts</category>
+			<pubDate>Tue, 29 May 2007 22:35:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-76-studio:-motion-3-paint</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-076-1080p-h264.mov" length="71086646" type="video/quicktime"/>
+			<itunes:duration>06:56</itunes:duration>
+			<itunes:author>Kenji Kato</itunes:author>
+			<itunes:subtitle>Mark Spencer returns to show us the new paint features in Motion 3.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 75: Studio: Motion 3 Time Remapping</title>
+			<link>http://pixelcorps.tv/macbreak75</link>
+			<description>Mark Spencer returns to show us the new time remapping features in Motion 3.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 24 May 2007 01:13:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-75-studio:-motion-3-time-remapping</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-075-1080p-h264.mov" length="97815166" type="video/quicktime"/>
+			<itunes:duration>07:03</itunes:duration>
+			<itunes:author>Kenji Kato</itunes:author>
+			<itunes:subtitle>Mark Spencer returns to show us the new time remapping features in Motion 3.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 74: Studio: Motion 3 in 3D</title>
+			<link>http://pixelcorps.tv/macbreak74</link>
+			<description>Mark Spencer takes us on a tour of the 3D capabilities in Apple's new version of Motion.</description>
+			<category>podcasts</category>
+			<pubDate>Thu, 17 May 2007 04:51:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-74-motion-3-in-3d</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-074-1080p-h264.mov" length="168728155" type="video/quicktime"/>
+			<itunes:duration>12:07</itunes:duration>
+			<itunes:author>Alex Lindsay</itunes:author>
+			<itunes:subtitle>Mark Spencer takes us on a tour of the 3D capabilities in Apple's new version of Motion.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 73: Minute: Current Finder Path Shortcut</title>
+			<link>http://pixelcorps.tv/macbreak73</link>
+			<description>Kenji shows us a shortcut for determining the current path in the Finder.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 09 May 2007 18:27:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-73-minute:-current-finder-path-shortcut</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-073-1080p-h264.mov" length="10021545" type="video/quicktime"/>
+			<itunes:duration>00:59</itunes:duration>
+			<itunes:author>Kenji Kato</itunes:author>
+			<itunes:subtitle>Kenji shows us a shortcut for determining the current path in the Finder.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 72: Minute: Keyboard form navigation</title>
+			<link>http://pixelcorps.tv/macbreak72</link>
+			<description>Merlin gives your spacebar a power-up, showing you how to use your keyboard to more quickly navigate web forms.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 02 May 2007 17:56:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-72-minute:-keyboard-form-navigation</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-072-1080p-h264.mov" length="10182590" type="video/quicktime"/>
+			<itunes:duration>01:29</itunes:duration>
+			<itunes:author>Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin gives your spacebar a power-up, showing you how to use your keyboard to more quickly navigate web forms.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 71: NAB 2007: Sony</title>
+			<link>http://pixelcorps.tv/macbreak71</link>
+			<description>Alex and Craig discuss Sony's announcement of the XDCAM EX camcorder at NAB.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 25 Apr 2007 19:07:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-71-nab-2007:-sony</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-071-1080p-h264.mov" length="367608401" type="video/quicktime"/>
+			<itunes:duration>04:43</itunes:duration>
+			<itunes:author>Alex Lindsay</itunes:author>
+			<itunes:subtitle>Alex and Craig discuss Sony's announcement of the XDCAM EX camcorder at NAB.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 70: NAB 2007: Cinital</title>
+			<link>http://pixelcorps.tv/macbreak70</link>
+			<description>Alex and Craig Syverson check out the Cinital virtual set system at NAB.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 25 Apr 2007 19:05:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-70-nab-2007:-cinital</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-070-1080p-h264.mov" length="266356329" type="video/quicktime"/>
+			<itunes:duration>03:38</itunes:duration>
+			<itunes:author>Alex Lindsay</itunes:author>
+			<itunes:subtitle>Alex and Craig Syverson check out the Cinital virtual set system at NAB.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 69: NAB 2007: RED</title>
+			<link>http://pixelcorps.tv/macbreak69</link>
+			<description>Alex and Craig visit the RED booth at NAB.</description>
+			<category>podcasts</category>
+			<pubDate>Wed, 25 Apr 2007 19:05:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-69-nab-2007:-red</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-069-1080p-h264.mov" length="594631478" type="video/quicktime"/>
+			<itunes:duration>08:33</itunes:duration>
+			<itunes:author>Alex Lindsay</itunes:author>
+			<itunes:subtitle>Alex and Craig visit the RED booth at NAB.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 68: NAB 2007: Adobe</title>
+			<link>http://pixelcorps.tv/macbreak68</link>
+			<description>Alex and Craig discuss Adobe's new releases with Brian Maffitt from Total Training. </description>
+			<category>podcasts</category>
+			<pubDate>Tue, 24 Apr 2007 22:12:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-68-nab-2007:-adobe</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-068-1080p-h264.mov" length="585664782" type="video/quicktime"/>
+			<itunes:duration>07:42</itunes:duration>
+			<itunes:author>Alex Lindsay</itunes:author>
+			<itunes:subtitle>Alex and Craig discuss Adobe's new releases with Brian Maffitt from Total Training. </itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 67: NAB 2007: AJA Io HD</title>
+			<link>http://pixelcorps.tv/macbreak67</link>
+			<description>Alex and Craig chat with Jerry Hofmann about the new AJA Io HD.</description>
+			<category>podcasts</category>
+			<pubDate>Tue, 24 Apr 2007 17:07:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-67-nab-2007:-aja-io-hd</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-067-1080p-h264.mov" length="347651769" type="video/quicktime"/>
+			<itunes:duration>05:21</itunes:duration>
+			<itunes:author>Alex Lindsay</itunes:author>
+			<itunes:subtitle>Alex and Craig chat with Jerry Hofmann about the new AJA Io HD.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 66: NAB 2007: Final Cut Studio 2</title>
+			<link>http://pixelcorps.tv/macbreak66</link>
+			<description>Alex and Craig Syverson discuss Apple's release of Final Cut Studio 2 at NAB.</description>
+			<category>podcasts</category>
+			<pubDate>Sat, 21 Apr 2007 15:42:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-66a-nab-2007-final-cut-studio-2</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-066a-1080p-h264.mov" length="490354349" type="video/quicktime"/>
+			<itunes:duration>05:58</itunes:duration>
+			<itunes:author>Alex Lindsay</itunes:author>
+			<itunes:subtitle>Alex and Craig Syverson discuss Apple's release of Final Cut Studio 2 at NAB.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 65: Minute - Cmd-Tab</title>
+			<link>http://pixelcorps.tv/macbreak65</link>
+			<description>MacBreak Minute: Kenji shows you the the Cmd-Tab keyboard shortcut for quickly moving between open applications. </description>
+			<category>podcasts</category>
+			<pubDate>Thu, 19 Apr 2007 01:21:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-65-minute---cmd-tab</guid>
+			<enclosure url="http://pixelcorps.cachefly.net/macbreak-065-1080p-h264.mov" length="12360342" type="video/quicktime"/>
+			<itunes:duration>00:51</itunes:duration>
+			<itunes:author>Kenji Kato</itunes:author>
+			<itunes:subtitle>MacBreak Minute: Kenji shows you the the Cmd-Tab keyboard shortcut for quickly moving between open applications. </itunes:subtitle>
+		</item>				
+		<item>
+			<title>MacBreak 64: Apple TV</title>
+			<link>http://pixelcorps.tv/macbreak64</link>
+			<description>Leo and Merlin discuss the new Apple TV at the Pixel Corps Gear Media Tech conference.</description>
+			<category>podcasts</category>
+			<pubDate>Sat, 14 Apr 2007 05:31:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-apple-tv</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-064-1080p-h264.mov" length="321548882" type="video/quicktime"/>
+			<itunes:duration>13:37</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Leo and Merlin discuss the new Apple TV at the Pixel Corps Gear Media Tech conference.</itunes:subtitle>
+		</item>
+		<item>
+        <title>MacBreak 63: TextExpander</title>
+        <link>http://pixelcorps.tv/macbreak63</link>
+        <description>Leo and Merlin discuss TextExpander, which saves you keystrokes with customized abbreviations for frequently used text.</description>
+        <category>podcasts</category>
+        <pubDate>Tue, 13 Feb 2007 03:29:00 GMT</pubDate>
+        <guid isPermaLink="false">mbk1080-textexpander</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-063-1080p-h264.mov" length="96962031" type="video/quicktime"/>
+        <itunes:duration>08:35</itunes:duration>
+        <itunes:author>Leo Laporte</itunes:author>
+        <itunes:subtitle>Leo and Merlin discuss TextExpander, which saves you keystrokes with customized abbreviations for frequently used text.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 62: Summarize</title>
+			<link>http://pixelcorps.tv/macbreak62</link>
+			<description><![CDATA[Kenji Kato shows us how to use a little-known summarization tool buried in the Services menu.]]></description>
+			<category>podcasts</category>
+			<pubDate>Mon, 05 Feb 2007 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-summarize</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-062-1080p-h264.mov" length="78534816" type="video/quicktime"/>
+			<itunes:duration>00:05:25</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Kenji Kato shows us how to use a little-known summarization tool buried in the Services menu.</itunes:subtitle>
+		</item>			
+		<item>
+			<title>MacBreak 61: More Conversations with Kwesi</title>
+			<link>http://pixelcorps.tv/macbreak61</link>
+			<description><![CDATA[Leo's back with producer Kwesi Collisson to discuss the techniques used to complete a scene from the film 'Conversations with Other Women'.]]></description>
+			<category>podcasts</category>
+			<pubDate>Mon, 29 Jan 2007 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk-hd-more-conversations-with-kwesi</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-061-1080p-h264.mov" length="169204087" type="video/quicktime"/>
+			<itunes:duration>00:10:51</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Leo's back with producer Kwesi Collisson to discuss the techniques used to complete a scene from the film 'Conversations with Other Women'.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 60 : iTheater Video Glasses</title>
+			<link>http://pixelcorps.tv/macbreak60</link>
+			<description><![CDATA[Leo and Kendra discuss the iTheater Video Glasses for use with your iPod video.]]></description>
+			<category>podcasts</category>
+			<pubDate>Fri, 19 Jan 2007 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">mbk1080-mw-itheater-video-glasses</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-060-1080p-h264.mov" length="110786956" type="video/quicktime"/>
+			<itunes:duration>00:05:05</itunes:duration>
+			<itunes:author>Leo Laporte and Kendra Arimoto</itunes:author>
+			<itunes:subtitle>Leo and Kendra discuss the iTheater Video Glasses for use with your iPod video.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 38: Path Finder</title>
+			<link>http://pixelcorps.tv/macbreak38</link>
+			<description><![CDATA[Merlin Mann is back to talk about Path Finder, a feature-rich alternative to OS X's Finder.]]></description>
+			<category>podcasts</category>
+			<pubDate>Fri, 05 Jan 2007 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">macbreak1080-path-finder</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-038-1080p-h264.mov" length="125247415" type="video/quicktime"/>
+			<itunes:duration>00:10:44</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Merlin Mann is back to talk about Path Finder, a feature-rich alternative to OS X's Finder.</itunes:subtitle>
+		</item>			
+		<item>
+			<title>MacBreak 37: 3D Modeling in Google SketchUp</title>
+			<link>http://pixelcorps.tv/macbreak37</link>
+			<description><![CDATA[Alex Oliver returns to show us the easy-to-use 3D modeling tools in Google SketchUp.]]></description>
+			<category>podcasts</category>
+			<pubDate>Wed, 03 Jan 2007 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">macbreak1080-3d-modeling-in-google-sketchup</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-037-1080p-h264.mov" length="105251627" type="video/quicktime"/>
+			<itunes:duration>00:09:50</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Alex Oliver returns to show us the easy-to-use 3D modeling tools in Google SketchUp.</itunes:subtitle>
+		</item>			
+		<item>
+			<title>MacBreak 36: Conversations With Other Women</title>
+			<link>http://pixelcorps.tv/macbreak36</link>
+			<description><![CDATA[Producer Kwesi Collisson visits to discuss the challenges of completing the visual effects in a scene from Conversations With Other Women.]]></description>
+			<category>podcasts</category>
+			<pubDate>Sat, 30 Dec 2006 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">macbreak1080-conversations-with-other-women</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-036-1080p-h264.mov" length="152188492" type="video/quicktime"/>
+			<itunes:duration>00:12:34</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Producer Kwesi Collisson visits to discuss the challenges of completing the visual effects in a scene from Conversations With Other Women.</itunes:subtitle>
+		</item>
+		<item>
+			<title>MacBreak 35: Color Matching in Photoshop</title>
+			<link>http://pixelcorps.tv/macbreak35</link>
+			<description><![CDATA[Ben Long shows us how to match the colors in our printed photos to those on-screen using Photoshop's color matching tools.]]></description>
+			<category>podcasts</category>
+			<pubDate>Wed, 27 Dec 2006 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">macbreak1080-color-matching</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-035-1080p-h264.mov" length="246513241" type="video/quicktime"/>
+			<itunes:duration>00:18:13</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Ben Long shows us how to match the colors in our printed photos to those on-screen using Photoshop's color matching tools.</itunes:subtitle>
+		</item>		
+		<item>
+			<title>MacBreak 34: Sunday, Sunday, Sunday!</title>
+			<link>http://pixelcorps.tv/macbreak34</link>
+			<description><![CDATA[Sal Soghoian is back to teach us how to create auto-presenting Keynote presentations with Applescript and text-to-speech voices from Cepstral.]]></description>
+			<category>podcasts</category>
+			<pubDate>Thu, 21 Dec 2006 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">macbreak1080-sunday-sunday-sunday</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-034-1080p-h264.mov" length="160533186" type="video/quicktime"/>
+			<itunes:duration>00:12:06</itunes:duration>
+			<itunes:author>Leo Laporte</itunes:author>
+			<itunes:subtitle>Sal Soghoian is back to teach us how to create auto-presenting Keynote presentations with Applescript and text-to-speech voices from Cepstral.</itunes:subtitle>
+		</item>			
+		<item>
+			<title>MacBreak 33: The Distracted Mac</title>
+			<link>http://pixelcorps.tv/macbreak33</link>
+			<description><![CDATA[Merlin Mann is back to show you how to free your Mac from visual clutter.]]></description>
+			<category>podcasts</category>
+			<pubDate>Wed, 20 Dec 2006 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">macbreak1080-the-undistracted-mac</guid>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mov?http://pixelcorps.cachefly.net/macbreak-033-1080p-h264.mov" length="135628126" type="video/quicktime"/>
+			<itunes:duration>00:10:28</itunes:duration>
+			<itunes:author>Leo Laporte and Merlin Mann</itunes:author>
+			<itunes:subtitle>Merlin Mann is back to show you how to free your Mac from visual clutter.</itunes:subtitle> 
+		</item>			
+	</channel>
+</rss>

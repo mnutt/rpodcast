@@ -90,6 +90,26 @@ describe RPodcast::Feed, "diggnation" do
   it 'should extract the language' do
     @podcast.language.should == "en-us"
   end
+
+  describe "first episode" do
+
+    it 'should have a title' do
+      @podcast.episodes.first.title.should =~ /Diggnation - Prager/
+    end
+
+    it 'should have a duration' do
+      @podcast.episodes.first.duration.should == 2679
+    end
+
+    it 'should have a bitrate' do
+      @podcast.episodes.first.bitrate.to_i.should == 1311
+    end
+
+    it 'should have a url' do
+      @podcast.episodes.first.enclosure.url.should == "http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0164/diggnation--0164--2008-08-21polepoll--large.wmv9.wmv"
+    end
+  end
+
 end
 
 describe RPodcast::Feed, "powdertravel" do
@@ -125,5 +145,83 @@ describe RPodcast::Feed, "powdertravel" do
 
   it 'should extract the language' do
     @podcast.language.should == "EN"
+  end
+
+  describe "first episode" do
+
+    it 'should have a title' do
+      @podcast.episodes.first.title.should =~ /Davos Review/
+    end
+
+    it 'should have a duration' do
+      @podcast.episodes.first.duration.should == 308
+    end
+
+    it 'should not have a bitrate' do # they have incorrect sizes
+      @podcast.episodes.first.bitrate.to_i.should == 0
+    end
+
+    it 'should have a size' do # which is incorrect
+      @podcast.episodes.first.enclosure.size.should == 5008
+    end
+
+    it 'should have a url' do
+      @podcast.episodes.first.enclosure.url.should == "http://www.powdertravel.com/ep45_davos_review.m4v"
+    end
+  end
+end
+
+describe RPodcast::Feed, "macbreak" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'macbreak.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "MacBreak (HD video)"
+  end
+
+  it 'should extract the site link' do
+    @podcast.link.should == "http://pixelcorps.tv/macbreak"
+  end
+
+  it 'should extract the logo link' do
+    @podcast.image.should == "http://libsyn.com/podcasts/macbreak/images/mb_fulllogo.jpg"
+  end
+ 
+  it 'should extract the description' do
+    @podcast.summary.should =~ /^The only Macintosh/
+  end
+
+  it 'should extract the owner email' do
+    @podcast.owner_email.should == "info@macbreak.com"
+  end
+
+  it 'should extract the owner name' do
+    @podcast.owner_name.should == "The MacBreak Team"
+  end
+
+  it 'should extract the language' do
+    @podcast.language.should == "en"
+  end
+
+  describe "first episode" do
+
+    it 'should have a title' do
+      @podcast.episodes.first.title.should =~ /MacBreak 166/
+    end
+
+    it 'should have a duration' do
+      @podcast.episodes.first.duration.should == 160
+    end
+
+    it 'should have a bitrate' do
+      @podcast.episodes.first.bitrate.should == 1646.6225
+    end
+
+    it 'should have a url' do
+      @podcast.episodes.first.enclosure.url.should == "http://www.podtrac.com/pts/redirect.mov/pixelcorps.cachefly.net/macbreak_166_540p_h264.mov"
+    end
   end
 end
