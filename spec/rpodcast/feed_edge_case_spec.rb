@@ -225,3 +225,57 @@ describe RPodcast::Feed, "macbreak" do
     end
   end
 end
+
+
+describe RPodcast::Feed, "Sam Downie's Tech:Casts" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'tech_casts.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "Sam Downie's Tech:Casts"
+  end
+
+  it 'should extract the site link' do
+    @podcast.link.should == "http://techcasts.podOmatic.com"
+  end
+
+  it 'should extract the logo link' do
+    @podcast.image.should == "http://techcasts.podOmatic.com/mymedia/thumb/8006/0x0_599910.jpg"
+  end
+ 
+  it 'should extract the description' do
+    @podcast.summary.should =~ /^Unique Technology interviews about Apple Computer and it's users. Sam Downie brings 16 years of being a Apple User and 6 years of radio work to the Mac world. If you've heard him before you know what to expect... interviews, commentary, guests. If you haven't heard him, then welcome to Sam's look at all things Apple and Apple related news. Reporting from the UK, the USA and around the world. - Give it a listen!/
+  end
+
+  it 'should extract the language' do
+    @podcast.language.should == "en-us"
+  end
+
+  it 'should have episodes' do
+    @podcast.episodes.size.should == 16
+  end
+
+  it 'should have an episode with a title that has decoded html entities' do
+    @podcast.episodes[1].title.should == "Guide to Macworld Conference & Expo 2008"
+  end
+
+  it 'should have an episode with a summary' do
+    @podcast.episodes[1].summary.should =~ /^\<img src\=\"http\:\/\/techcasts.podOmatic.com\/mymedia\/thumb\/8006\/0x0_626433\.png\" alt\=\"itunes pic\" \/\>/
+  end
+
+  it 'should have an episode with an enclosure with a URL' do
+    @podcast.episodes[1].enclosure.url.should == "http://techcasts.podOmatic.com/enclosure/2007-12-17T10_25_28-08_00.mp3"
+  end
+
+  it 'should have an episode with an enclosure with a size' do
+    @podcast.episodes[1].enclosure.size.should == 16662778
+  end
+  
+  it 'should have an episode with a duration' do
+    @podcast.episodes[1].duration.should == 91500
+  end
+end
+
