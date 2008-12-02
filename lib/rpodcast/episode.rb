@@ -1,3 +1,5 @@
+require 'cgi'
+
 module RPodcast
   class Episode
     EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :duration, :bitrate]
@@ -34,9 +36,18 @@ module RPodcast
 
       @attributes[:bitrate] = ((@enclosure.size * 8) / 1000.0) / @attributes[:duration]
       @attributes[:bitrate] = 0 unless @attributes[:bitrate].finite?
+
+      unescape! :summary, :title
     end
 
     protected
+    # unescape twice in case the podcaster is double-escaping html entities
+    def unescape!(*attrs)
+      attrs.each do |attr|
+        @attributes[attr] = CGI::unescapeHTML(CGI::unescapeHTML(@attributes[attr])) unless @attributes[attr].nil?
+      end
+    end
+
 
     def method_missing(method, *args)
       if EPISODE_ATTRIBUTES.include?(method.to_sym)
