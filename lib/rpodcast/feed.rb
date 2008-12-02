@@ -113,7 +113,7 @@ module RPodcast
     end
 
     def parse_episodes(h)
-      (h / 'item').map {|e| Episode.new(e) rescue nil }
+      (h / 'item').map {|e| Episode.new(e) rescue nil }.compact
     end
 
     protected
