@@ -41,8 +41,8 @@ module RPodcast
       @attributes[:format]   = self.episodes.first.enclosure.format rescue :unknown
       @attributes[:audio?]   = !!(self.episodes.first.content_type =~ /^audio/) rescue false
       @attributes[:video?]   = !!(self.episodes.first.content_type =~ /^video/) rescue false
-      @attributes[:hd?]      = self.video? ? self.bitrate > 1000 : self.bitrate > 180
-      @attributes[:torrent?] = self.episodes.first.enclosure.format.to_s == "torrent"
+      @attributes[:hd?]      = self.video? ? self.bitrate > 1000 : self.bitrate > 180 rescue false
+      @attributes[:torrent?] = self.episodes.first.enclosure.format.to_s == "torrent" rescue false
     end
 
     def parse_creative_commons?(h)
