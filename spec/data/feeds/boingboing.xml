@@ -1,0 +1,2962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="http://feeds.boingboing.net/~d/styles/rss2enclosuresfull.xsl" type="text/xsl" media="screen"?>
+<?xml-stylesheet href="http://feeds.boingboing.net/~d/styles/itemcontent.css" type="text/css" media="screen"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"
+version="2.0">
+  <channel>
+    <title>Boing Boing TV</title>
+    <link>http://tv.boingboing.net/</link>
+    <description></description>
+    <language>en</language>
+    <copyright>Copyright 2008</copyright>
+    <lastBuildDate>Tue, 02 Dec 2008 01:05:10 -0600</lastBuildDate>
+    <generator>http://www.sixapart.com/movabletype/</generator>
+    <itunes:new-feed-url>
+    http://feeds.boingboing.net/boingboing/tv</itunes:new-feed-url>
+    <media:copyright>Copyright 2008</media:copyright>
+    <media:thumbnail url="http://tv.boingboing.net/mtimages/bb-itunes-300.jpg" />
+    <media:keywords>
+    boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    Technology/Tech News</media:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    Arts</media:category>
+    <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+    David Pescovitz</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://tv.boingboing.net/mtimages/bb-itunes-300.jpg" />
+    <itunes:keywords>
+    boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+    <itunes:subtitle>Boing Boing TV</itunes:subtitle>
+    <itunes:summary>From the editors of Boing Boing, an eclectic
+    video exploration of 'net culture, DIY tech, geeky curiosities,
+    science, art, and more (tv.boingboing.net).</itunes:summary>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <itunes:category text="Arts" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom"
+    rel="self" href="http://feeds.boingboing.net/boingboing/tv"
+    type="application/rss+xml" />
+    <feedburner:emailServiceId>1234327</feedburner:emailServiceId>
+    <feedburner:feedburnerHostname>
+    http://www.feedburner.com</feedburner:feedburnerHostname>
+    <item>
+      <title>Boing Boing tv Update: Econopocalypse, Julie Amero,
+      Holiday Gifts, Mumbai.</title>
+      <link>
+      http://tv.boingboing.net/2008/12/01/boing-boing-update-e.html</link>
+      <category>UPDATE</category>
+      <category>xeni jardin</category>
+      <pubDate>Tue, 02 Dec 2008 01:05:10 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/12/01/boing-boing-update-e.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F577%2F10%2Fconfig.xml&amp;dbg=false&amp;908685879"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F577%2F10%2Fconfig.xml&amp;dbg=false&amp;908685879"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F577%2F10%2Fconfig.xml&amp;dbg=false&amp;908685879"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/12/01/boing-boing-update-e.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e577/f20/boing-boing-tv-update-with-xeni-jardin-12-01.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Embedded above, and in
+      glorious technicolor &lt;a
+      href="http://analytics.episodic.com/download/e577/f20/boing-boing-tv-update-with-xeni-jardin-12-01.mp4"&gt;downloadable
+      MP4 here&lt;/a&gt;: this week's &lt;a
+      href="http://tv.boingboing.net/update/"&gt;Boing Boing
+      update&lt;/a&gt; on &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt;.&lt;p&gt;&lt;hr&gt; &lt;p&gt; &lt;font
+      color="red"&gt;&amp;diams;&lt;/font&gt; We begin with a video
+      chat about O'Reilly Media cofounder &lt;a
+      href="http://www.oreillynet.com/pub/au/26"&gt;&lt;strong&gt;DALE
+      DOUGHERTY&lt;/strong&gt;&lt;/a&gt;'s guestblog post on why
+      television networks, including CNN, seem to be &lt;a
+      href="http://www.boingboing.net/2008/11/25/why-cnn-struggles-to.html"&gt;struggling
+      to cover "The Economic Panic."&lt;/a&gt; Why is the current
+      "this great-or-not-so great depression" such a difficult
+      story for TV? Dale believes part of the challenge is that
+      it's big, slow-moving, and abstract. There are no videogenic
+      focal points, no crash scenes or hurricanes for which to don
+      yellow jumpers, no perp mugshots (well, okay, &lt;a
+      href="http://snackfeed.com/videos/detail/b6ba25d8-e813-102b-a525-00304897c9c6/10-Most-Wanted_s=s"&gt;there
+      &lt;em&gt;was&lt;/em&gt; this&lt;/a&gt;, &lt;a
+      href="http://ac360.blogs.cnn.com/category/culprits-of-the-collapse/"&gt;video
+      here&lt;/a&gt;.). We're also in the middle of "a peculiar
+      period inbetween an election and an inauguration," Dale says
+      -- more from him in today's video review, and &lt;a
+      href="http://www.boingboing.net/2008/11/25/why-cnn-struggles-to.html"&gt;don't
+      miss the comment thread on the post,
+      either&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;font
+      color="red"&gt;&amp;diams;&lt;/font&gt; Next, we speak with
+      &lt;strong&gt;JULIE AMERO&lt;/strong&gt;, the 41-year old
+      Connecticut schoolteacher accused of showing porn to students
+      on a classroom computer when a computer with malware
+      displayed popup windows with sexual content.&lt;/p&gt;
+      &lt;p&gt;Last week, she accepted a misdemeanor plea deal to
+      avoid felony charges, despite proof she was innocent, and
+      that her case was mishandled. The deal allows her to avoid a
+      previously-imposed jail sentence, but means she has to
+      surrender her teaching credentials. A forensic report showed
+      Amero was not responsible for the infection of porn pop-up
+      windows on the PC in question. There is also ample proof that
+      the school district's IT manager, detectives and prosecutors
+      misled the court.&lt;/p&gt; &lt;p&gt;Here's last week's &lt;a
+      href="http://gadgets.boingboing.net/2008/11/26/innocent-teacher-for.html"&gt;post
+      by Rob at Boing Boing Gadgets&lt;/a&gt; about the plea
+      bargain reached in her case, and here are earlier Boing Boing
+      posts by Mark, starting back in 2007: &lt;a
+      href="http://www.boingboing.net/2007/06/06/pc-popup-cases-defen.html"&gt;one&lt;/a&gt;,
+      &lt;a
+      href="http://www.boingboing.net/2007/06/05/pc-popup-teacher-jul.html"&gt;two&lt;/a&gt;,
+      &lt;a
+      href="http://www.boingboing.net/2007/05/15/popup-porn-case-sent.html"&gt;three&lt;/a&gt;,
+      &lt;a
+      href="http://www.boingboing.net/2007/02/28/popup-porn-case-upda.html"&gt;four&lt;/a&gt;,
+      &lt;a
+      href="http://www.boingboing.net/2007/01/13/teacher-faces-40-yea.html"&gt;five&lt;/a&gt;.
+      I'll be posting the full audio and transcript of our phone
+      interview this week on &lt;a
+      href="http://boingboing.net/"&gt;boingboing.net&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;&lt;font color="red"&gt;&amp;diams;&lt;/font&gt;
+      Also in today's BB Update: my co-blogger Cory has been
+      posting some &lt;strong&gt;HOLIDAY GIFT
+      ROUNDUPS&lt;/strong&gt; (so far: &lt;a
+      href="http://www.boingboing.net/2008/12/01/boing-boings-holiday-5.html"&gt;DVDs
+      and CDs&lt;/a&gt;, &lt;a
+      href="http://www.boingboing.net/2008/11/26/boing-boings-holiday.html"&gt;kids'
+      stuff&lt;/a&gt;, &lt;a
+      href="http://www.boingboing.net/2008/11/27/boing-boings-holiday-1.html"&gt;fiction&lt;/a&gt;,
+      &lt;a
+      href="http://www.boingboing.net/2008/11/28/boing-boings-holiday-2.html"&gt;gadgets&lt;/a&gt;,
+      &lt;a
+      href="http://www.boingboing.net/2008/11/29/boing-boings-holiday-3.html"&gt;comics&lt;/a&gt;
+      and &lt;a
+      href="http://www.boingboing.net/2008/11/30/boing-boings-holiday-4.html"&gt;nonfiction&lt;/a&gt;.)&lt;/p&gt;
+      &lt;p&gt;&lt;font color="red"&gt;&amp;diams;&lt;/font&gt; And
+      finally in today's episode, &lt;a
+      href="http://flickr.com/photos/vinu/tags/nov26/"&gt;eyewitness
+      snapshots&lt;/a&gt; from the &lt;strong&gt;MUMBAI TERRORIST
+      ATTACKS&lt;/strong&gt;, shot by 27-year-old amateur
+      photographer &lt;a
+      href="http://www3.flickr.com/photos/vinu/"&gt;Vinu
+      Ranganathan&lt;/a&gt;. He lives in the Colaba distict, near
+      the attack sites. WIRED's Threat Level blog &lt;a
+      href="http://blog.wired.com/27bstroke6/2008/11/as-tv-networks.html"&gt;has
+      an interview up with him&lt;/a&gt;. Snip: "For hours [on the
+      day of the attacks], his graphic photos of the destruction
+      wrought by the terrorists in the Colaba district on the
+      photo-sharing site Flickr seemed to be the only relevant ones
+      available online." Related Boing Boing posts: &lt;a
+      href="http://www.boingboing.net/2008/11/26/india-80-reported-de.html"&gt;Mumbai
+      Attacks: Day 1&lt;/a&gt;, &lt;a
+      href="http://www.boingboing.net/2008/11/27/india-mumbai-attacks.html"&gt;Mumbai
+      Attacks: Day 2&lt;/a&gt;.&lt;/p&gt; &lt;p&gt; &lt;hr&gt;
+      &lt;p&gt; Previous &lt;a
+      href="http://tv.boingboing.net/update/"&gt;Boing Boing
+      updates on BBtv&lt;/a&gt;:&lt;p&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/11/25/boing-boing-tv-updat-1.html"&gt;Boing
+      Boing tv Update: Virgin WiFi, Obfuscated Code, Comment
+      Poetry, Downfall Housing Remix&lt;/a&gt; &lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/11/18/boing-boing-tv-updat.html"&gt;Boing
+      Boing tv Update: OFFWORLD, YES MEN, and THIS IS THE
+      FIRST.&lt;/a&gt;&lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=9483fbd1cae6987614f50cd0a8eca079&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=9483fbd1cae6987614f50cd0a8eca079&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=9483fbd1cae6987614f50cd0a8eca079"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/472247406"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/472247407/boing-boing-tv-update-with-xeni-jardin-12-01.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>In this week's BBtv update: Dale Dougherty
+      of MAKE on why television struggles to cover the economic
+      crisis; the substitute teacher popup porn case; Cory's gift
+      guides; Flickr photos of the Mumbai terror
+      attacks.</itunes:subtitle>
+      <itunes:summary>In this week's BBtv update: Dale Dougherty of
+      MAKE on why television struggles to cover the economic
+      crisis; the substitute teacher popup porn case; Cory's gift
+      guides; Flickr photos of the Mumbai terror
+      attacks.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/472247407/boing-boing-tv-update-with-xeni-jardin-12-01.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e577/f20/boing-boing-tv-update-with-xeni-jardin-12-01.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Unicorn Chaser: Joel Johnson of Boing Boing Gadgets in
+      "UHHHHHH."</title>
+      <link>
+      http://tv.boingboing.net/2008/11/28/unicorn-chaser-joel.html</link>
+      <category>boing boing gadgets</category>
+      <category>joel johnson</category>
+      <category>music</category>
+      <pubDate>Fri, 28 Nov 2008 10:22:38 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/28/unicorn-chaser-joel.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F557%2F10%2Fconfig.xml&amp;dbg=false&amp;899635832"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F557%2F10%2Fconfig.xml&amp;dbg=false&amp;899635832"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F557%2F10%2Fconfig.xml&amp;dbg=false&amp;899635832"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/28/unicorn-chaser-joel.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e557/f20/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/joelwildernessremix.jpg"
+      width="250" align="left" border="0" /&gt; As is &lt;a
+      href="http://www.boingboing.net/2008/11/18/boing-boing-tv-were.html"&gt;our
+      newly minted tradition&lt;/a&gt;, &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing tv&lt;/a&gt;
+      ends the holiday week with a &lt;a
+      href="http://tv.boingboing.net/unicorn-chaser/"&gt;Unicorn
+      Chaser&lt;/a&gt;.&lt;p&gt; In today's edition, &lt;a
+      href="http://gadgets.boingboing.net"&gt;Boing Boing
+      Gadgets&lt;/a&gt;' Joel Johnson, who trekked out into the
+      &lt;a
+      href="http://tv.boingboing.net/2008/05/07/joel-johnson-wildern.html"&gt;wilderness
+      for this previous episode&lt;/a&gt;, returns there to perform
+      the nerdcore anthem embedded above -- UHHHH. (&lt;a
+      href="http://analytics.episodic.com/download/e557/f20/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4"&gt;MP4
+      Link&lt;/a&gt;).&lt;p&gt; Not a single one of these grunts
+      was repeated. All were taped in the order they appear in this
+      remix, the morning after Joel was nearly bitten by a snake,
+      doing a gadget review out in the wilds.&lt;p&gt; &lt;br
+      style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/feeds/ht.php?t=c&amp;amp;i=a2aeeb2eab0cfc49ddb71dcb7e784845&amp;amp;p=1"&gt;&lt;img
+      style="border:0;"
+      src="http://www.pheedo.com/feeds/ht.php?t=v&amp;amp;i=a2aeeb2eab0cfc49ddb71dcb7e784845&amp;amp;p=1"
+      border="0" /&gt;&lt;/a&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/468487596"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/468487598/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Boing Boing Gadgets editor Joel Johnson
+      performs a nerdcore anthem in the wilderness. Not a single
+      "uhhh" was repeated, all were cut from an earlier outdoor
+      gadget review.</itunes:subtitle>
+      <itunes:summary>Boing Boing Gadgets editor Joel Johnson
+      performs a nerdcore anthem in the wilderness. Not a single
+      "uhhh" was repeated, all were cut from an earlier outdoor
+      gadget review.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/468487598/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e557/f20/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Happy Thanksgiving from BBtv: "Hazy Day" music video
+      fave</title>
+      <link>
+      http://tv.boingboing.net/2008/11/27/happy-thanksgiving-f.html</link>
+      <category>Bill Barminski</category>
+      <category>animation</category>
+      <category>best of BBtv</category>
+      <category>music</category>
+      <pubDate>Thu, 27 Nov 2008 11:20:51 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/27/happy-thanksgiving-f.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F302%2F10%2Fconfig.xml&amp;dbg=false&amp;174174144"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F302%2F10%2Fconfig.xml&amp;dbg=false&amp;174174144"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F302%2F10%2Fconfig.xml&amp;dbg=false&amp;174174144"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/27/happy-thanksgiving-f.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e302/f20/hazy-daymusic-video-for-subatomic-nixons-by-bill-barminski.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt; Today, the &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing tv&lt;/a&gt;
+      crew takes the day off for time with family, friends, and
+      food. We revisit one of our favorite good-vibe animation
+      episodes, a lovely video from Bill Barminski. Perhaps you
+      missed it? Do watch now.&lt;p&gt;&lt;hr&gt;&lt;p&gt;
+      Butterflies, wah-wah pedals, and one-eyed yeti, ahoy! The
+      &lt;a href="http://tv.boingboing.net"&gt;Boing Boing
+      tv&lt;/a&gt; crew is proud to return to the work of one of
+      our favorite multi-media savants, Bill Barminski of &lt;a
+      href="http://www.walterrobot.com/"&gt;Walter Robot
+      Studios&lt;/a&gt;. The filmmaker, composer, illustrator and
+      animator shares this new video work, a hypnotic flight of
+      fancy for his music project, the Subatomic Nixons. Enjoy the
+      "Hazy Day," and happy weekend, everyone. Special thanks to
+      Barminski and Christopher Louie, and all of the &lt;a
+      href="http://www.walterrobot.com/"&gt;Walter Robot&lt;/a&gt;
+      team. Here are &lt;a
+      href="http://tv.boingboing.net/bill-barminski/"&gt;previous
+      BBtv episodes featuring their work&lt;/a&gt;. &lt;br
+      style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=12829328e04e3006864a7a600d923ce4&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=12829328e04e3006864a7a600d923ce4&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=12829328e04e3006864a7a600d923ce4"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/467528615"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/467528616/hazy-daymusic-video-for-subatomic-nixons-by-bill-barminski.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Happy Thanksgiving! BBtv presents one of our
+      favorite good-vibe animation episodes, worth a return -- Hazy
+      Day, from Bill Barminski and Walter Robot.</itunes:subtitle>
+      <itunes:summary>Happy Thanksgiving! BBtv presents one of our
+      favorite good-vibe animation episodes, worth a return -- Hazy
+      Day, from Bill Barminski and Walter Robot.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/467528616/hazy-daymusic-video-for-subatomic-nixons-by-bill-barminski.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e302/f20/hazy-daymusic-video-for-subatomic-nixons-by-bill-barminski.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>BBtv/Offworld: Status Report Edition, Brandon's Still
+      a Death Gnome (video)</title>
+      <link>
+      http://tv.boingboing.net/2008/11/26/bbtv-offworld-status.html</link>
+      <category>Brandon Boyer</category>
+      <category>OFFWORLD</category>
+      <category>funny</category>
+      <category>games</category>
+      <category>video games</category>
+      <category>weird</category>
+      <pubDate>Wed, 26 Nov 2008 11:03:52 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/26/bbtv-offworld-status.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F559%2F10%2Fconfig.xml&amp;dbg=false&amp;706259801"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F559%2F10%2Fconfig.xml&amp;dbg=false&amp;706259801"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F559%2F10%2Fconfig.xml&amp;dbg=false&amp;706259801"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/26/bbtv-offworld-status.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e559/f20/offworld-com-update-chat-with-brandon-boyer.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Over at &lt;a
+      href="http://www.offworld.com"&gt;Offworld.com&lt;/a&gt;,
+      Brandon "Shiny-Eyed Death Gnome" Boyer says,
+      &lt;blockquote&gt; While we here at Offworld gather exclusive
+      content for future editions of Offworld's BBtv transmissions,
+      our second update is a status report, telling the wider world
+      what we've been getting up to over the past week (including
+      the rapid growth of our &lt;a
+      href="http://steamcommunity.com/groups/boingboing/"&gt;Boing
+      Boing Steam group&lt;/a&gt;, as we all gather for
+      &lt;em&gt;Left 4 Dead&lt;/em&gt; extended plays), and a quick
+      rundown of the new things coming to the site in the following
+      weeks. &lt;/p&gt; &lt;p&gt;As usual, here's &lt;a
+      href="http://analytics.episodic.com/download/e559/f20/bbtv-offworld-chat-with-brandon-boyer.mp4"&gt;the
+      direct MP4 link&lt;/a&gt;, if you prefer a downloadable
+      rather than the Flash.&lt;/p&gt;&lt;/blockquote&gt;
+      &lt;strong&gt;VIDEO RUNTIME&lt;/strong&gt;: 3:14.&lt;P&gt;
+      Let Brandon know what you think of this week's video report
+      from the slums of Azeroth &lt;strong&gt;&lt;a
+      href="http://www.offworld.com/2008/11/offworldbbtv-status-report-edi.html"&gt;here
+      in the Offworld comments
+      thread.&lt;/a&gt;&lt;/strong&gt;&lt;p&gt;
+      &lt;strong&gt;Previous BBtv/Offworld video
+      updates&lt;/strong&gt;: &lt;a
+      href="http://www.offworld.com/2008/11/offworld-bbtv-premiere-whats-o.html"&gt;Offworld
+      BBtv premiere: What's Offworld?&lt;/a&gt;&lt;p&gt;
+      &lt;em&gt;(Special Thanks to the &lt;a
+      href="http://projectlore.com/"&gt;PROJECT LORE&lt;/a&gt;
+      d&#195;&#188;des, namely SaintGermain. Big Orc-hugs, guys!)
+      &lt;/em&gt;&lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=bbc61404fcb85594fe2db475910b09cd&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=bbc61404fcb85594fe2db475910b09cd&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=bbc61404fcb85594fe2db475910b09cd"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/466413213"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/466413214/offworld-com-update-chat-with-brandon-boyer.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Offworld.com editor Brandon Boyer, in the
+      form of a Death Gnome in WoW, catches us up on the latest at
+      Boing Boing's new gaming site.</itunes:subtitle>
+      <itunes:summary>Offworld.com editor Brandon Boyer, in the
+      form of a Death Gnome in WoW, catches us up on the latest at
+      Boing Boing's new gaming site.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/466413214/offworld-com-update-chat-with-brandon-boyer.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e559/f20/offworld-com-update-chat-with-brandon-boyer.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Boing Boing Gadgets: Joel Reviews T-Mobile Cameo
+      Picture Frame</title>
+      <link>
+      http://tv.boingboing.net/2008/11/25/boing-boing-gadgets.html</link>
+      <category>boing boing gadgets</category>
+      <category>funny</category>
+      <category>gadgets</category>
+      <category>joel johnson</category>
+      <category>review</category>
+      <pubDate>Tue, 25 Nov 2008 13:30:33 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/25/boing-boing-gadgets.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F556%2F10%2Fconfig.xml&amp;dbg=false&amp;447488888"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F556%2F10%2Fconfig.xml&amp;dbg=false&amp;447488888"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F556%2F10%2Fconfig.xml&amp;dbg=false&amp;447488888"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/25/boing-boing-gadgets.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e556/f20/bbtv-gadgets-joel-johnson-reviews-the-cameo-picture-frame.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;In &lt;a
+      href="http://www.boingboing.net/2008/11/18/boing-boing-tv-were.html"&gt;this
+      week's Boing Boing Gadgets review&lt;/a&gt; episode on &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing tv&lt;/a&gt;,
+      &lt;a href="http://gadgets.boingboing.net/"&gt;Joel
+      Johnson&lt;/a&gt; reviews the T-Mobile Cameo Picture Frame,
+      which displays digital photos but also sort of works like a
+      phone. Joel's thumbs were neither decisively up nor down, but
+      rather pensively wrapped around a bourbon tumbler.
+      &lt;strong&gt;&lt;a
+      href="http://gadgets.boingboing.net/2008/11/25/joel-reviews-tmobile.html"&gt;Link
+      to Boing Boing Gadgets post&lt;/a&gt;&lt;/strong&gt; with
+      discussion thread. &lt;p&gt;Below, a slide show of images
+      submitted by Boing Boing Gadgets readers to Joel, for use in
+      preparing this video review of the Cameo Picture
+      Frame.&lt;p&gt; &lt;iframe align="center"
+      src="http://www.flickr.com/slideShow/index.gne?group_id=&amp;user_id=49503185750@N01&amp;set_id=72157609932429315&amp;text="
+      frameBorder="0" width="500" height="500"
+      scrolling="no"&gt;&lt;/iframe&gt;&lt;br style="clear:
+      both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=d6160a6bb2ad3f9b8fbe37f42892fa7f&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=d6160a6bb2ad3f9b8fbe37f42892fa7f&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=d6160a6bb2ad3f9b8fbe37f42892fa7f"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/465432725"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/465432726/bbtv-gadgets-joel-johnson-reviews-the-cameo-picture-frame.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Boing Boing Gadgets Editor Joel Johnson
+      reviews the T-Mobile Cameo Picture Frame, which displays
+      digital photos and also sort of works like a phone. Sort
+      of.</itunes:subtitle>
+      <itunes:summary>Boing Boing Gadgets Editor Joel Johnson
+      reviews the T-Mobile Cameo Picture Frame, which displays
+      digital photos and also sort of works like a phone. Sort
+      of.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/465432726/bbtv-gadgets-joel-johnson-reviews-the-cameo-picture-frame.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e556/f20/bbtv-gadgets-joel-johnson-reviews-the-cameo-picture-frame.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Boing Boing tv Update: Virgin WiFi, Obfuscated Code,
+      Comment Poetry, Downfall Housing Remix</title>
+      <link>
+      http://tv.boingboing.net/2008/11/25/boing-boing-tv-updat-1.html</link>
+      <category>UPDATE</category>
+      <category>xeni jardin</category>
+      <pubDate>Tue, 25 Nov 2008 10:30:45 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/25/boing-boing-tv-updat-1.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F553%2F10%2Fconfig.xml&amp;dbg=false&amp;189662927"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F553%2F10%2Fconfig.xml&amp;dbg=false&amp;189662927"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F553%2F10%2Fconfig.xml&amp;dbg=false&amp;189662927"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/25/boing-boing-tv-updat-1.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e553/f20/bbtv-update-1124.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt; In this week's
+      &lt;strong&gt;&lt;a
+      href="http://tv.boingboing.net/update/"&gt;Boing Boing TV
+      update&lt;/a&gt;&lt;/strong&gt;: &lt;p&gt; *
+      &lt;strong&gt;&lt;a
+      href="http://www.virginamerica.com/va/home.do"&gt;VIRGIN
+      AMERICA&lt;/a&gt; LAUNCHES IN-FLIGHT WIRELESS:
+      &lt;/strong&gt;Our wireless tech reporter pal &lt;a
+      href="http://wifinetnews.com/"&gt;Glenn Fleishman&lt;/a&gt;
+      was on the first Virgin America flight with airborne WiFi
+      service. BBtv caught up with him over video chat from a
+      Virgin America Airbus A320 aircraft (named "My Other Ride Is
+      A Spaceship") 35,000 feet above San Francisco. Also joining
+      us: Jack Blumenstein, the CEO of &lt;a
+      href="http://www.aircell.com"&gt;Aircell&lt;/a&gt;, the
+      company providing the "GoGo" air/ground 3G connectivity. The
+      bottom line: no content filtering on Virgin, so you can visit
+      any blogs you like, and they will not block streaming content
+      or video. But, voice over IP will be blocked because the
+      general consensus among airlines and travelers in the US
+      seems to be that nobody wants other people on the plane to be
+      talking on the phone when you're all confined to close
+      quarters. Disclaimer: we really like Virgin America, in part
+      because &lt;a
+      href="http://www.boingboing.net/2007/10/05/boing-boing-tv-now-y.html"&gt;they
+      carry Boing Boing tv&lt;/a&gt; in their &lt;a
+      href="http://flickr.com/search/?q=virgin%20america%20boing&amp;amp;w=all"&gt;in-flight
+      entertainment system&lt;/a&gt;. &lt;p&gt; * &lt;strong&gt;BB
+      COMMENT THREAD POETRY CONTEST: &lt;/strong&gt;Teresa Nielsen
+      Hayden, aka She Who Disemvowels, &lt;a
+      href="http://www.boingboing.net/2008/11/11/we-can-has-games-1.html"&gt;announced
+      a fun game/contest recently&lt;/a&gt; -- write some poetry
+      inside the comment threads using "natively BoingBoing"
+      themes. We &lt;a
+      href="http://www.boingboing.net/2008/11/11/we-can-has-games-1.html#comment-328045"&gt;can
+      has a winner&lt;/a&gt;. &lt;p&gt; * &lt;strong&gt;OBFUSCATED
+      CODE CONTEST&lt;/strong&gt;: here's &lt;a
+      href="http://www.boingboing.net/2008/11/12/obfuscated-code-cont.html"&gt;Joel's
+      blog entry&lt;/a&gt; announcing the Safari Books / Boing
+      Boing contest. The idea: write a string of "obfuscated code"
+      that generates the words "Boing Boing." &lt;a
+      href="http://www.boingboing.net/2008/11/19/bb-obfuscated-codesa.html"&gt;Here's
+      the winner&lt;/a&gt;, and &lt;a
+      href="http://www.quasimondo.com/scrapyard/BoingBoing.php"&gt;here's
+      another example we thought was rad&lt;/a&gt;. &lt;p&gt; *
+      &lt;strong&gt;DALE DOUGHERTY &lt;a
+      href="http://www.boingboing.net/2008/11/17/guest-blogger-dale-d.html"&gt;IS
+      GUEST BLOGGING&lt;/a&gt;&lt;/strong&gt;: He's been &lt;a
+      href="http://www.boingboing.net/2008/11/18/reporting-from-banff.html"&gt;checking
+      in from Banff&lt;/a&gt;, and I've particularly enjoyed his
+      posts from there about &lt;a
+      href="http://www.boingboing.net/2008/11/20/icefields-parkway-in.html"&gt;snow&lt;/a&gt;,
+      &lt;a
+      href="http://www.boingboing.net/2008/11/20/avalanche.html"&gt;glaciers&lt;/a&gt;,
+      and &lt;a
+      href="http://www.boingboing.net/2008/11/19/sweet-snowmade-decla.html"&gt;snowman
+      newlyweds&lt;/a&gt;. &lt;p&gt; * &lt;strong&gt;DER UNTERGANG
+      &lt;a
+      href="http://www.boingboing.net/2008/11/20/der-untergang-clip-u.html"&gt;HOUSING
+      BUBBLE REMIX&lt;/a&gt;&lt;/strong&gt;: Mark spotted it last
+      week, and lulz rang out throughout the land. One of &lt;a
+      href="http://www.boingboing.net/2008/05/21/hitler-plans-burning.html"&gt;many
+      we dug&lt;/a&gt;.&lt;p&gt; &lt;hr&gt; &lt;p&gt; Special
+      thanks to &lt;a
+      href="http://www.q-burnsabstractmessage.com/qb/"&gt;Q Burns
+      Abstract Message&lt;/a&gt; for the track that appears in
+      today's ep, &lt;a
+      href="http://soundcloud.com/qburns/uncertain-t"&gt;UNCERTAIN
+      T&lt;/a&gt;, courtesy &lt;a
+      href="http://www.eighthdimension.com/"&gt;Eighth Dimension
+      Records&lt;/a&gt;. &lt;p&gt; Below: a snapshot from that
+      Virgin America WiFi flight. I spy Brian Lam of &lt;a
+      href="http://gizmodo.com/"&gt;Gizmodo&lt;/a&gt;, and &lt;a
+      href="http://www.glennf.com/"&gt;Glenn Fleishman&lt;/a&gt;,
+      and a few other familar blogging faces!&lt;p&gt; &lt;img
+      src="http://www.boingboing.net/images/x_2008/wifivirginamerica.jpg"
+      width="500" align="left" border="0" /&gt;&lt;br clear="all"
+      /&gt; &lt;p&gt; &lt;font color="red"&gt;UPDATE&lt;/font&gt;:
+      Hey, what kind of sites exactly was Gizporno's Brian Lam
+      websurfing on that plane? Zoom in a little... wait.. there we
+      go. AHA. Below, the reveal. &lt;p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/cabr103.jpg"
+      width="400" align="left" border="0" /&gt;&lt;br clear="all"
+      /&gt;&lt;/p&gt;&lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=92b53f218af5afc6f450faeebe31d580&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=92b53f218af5afc6f450faeebe31d580&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=92b53f218af5afc6f450faeebe31d580"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/465213542"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/465213543/bbtv-update-1124.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>An update with Xeni about this week on Boing
+      Boing including: obfuscated code, WiFi on VA, a comment
+      thread poetry contest, and new remixes of "Downfall" about
+      the housing bubble.</itunes:subtitle>
+      <itunes:summary>An update with Xeni about this week on Boing
+      Boing including: obfuscated code, WiFi on VA, a comment
+      thread poetry contest, and new remixes of "Downfall" about
+      the housing bubble.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/465213543/bbtv-update-1124.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e553/f20/bbtv-update-1124.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Unicorn Chaser: Offworld.com Dirty Dancing Death
+      Dwarf</title>
+      <link>
+      http://tv.boingboing.net/2008/11/21/unicorn-chaser-offwo.html</link>
+      <category>Brandon Boyer</category>
+      <category>OFFWORLD</category>
+      <category>Unicorn Chaser</category>
+      <category>funny</category>
+      <category>games</category>
+      <category>machinima</category>
+      <category>music</category>
+      <category>video games</category>
+      <category>weird</category>
+      <pubDate>Fri, 21 Nov 2008 10:04:06 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/21/unicorn-chaser-offwo.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F541%2F10%2Fconfig.xml&amp;dbg=false&amp;219024429"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F541%2F10%2Fconfig.xml&amp;dbg=false&amp;219024429"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F541%2F10%2Fconfig.xml&amp;dbg=false&amp;219024429"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/21/unicorn-chaser-offwo.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e541/f20/unicorn-chaser-offworlds-brandon-funky-death-dwarf.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;In &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt;'s inaugural Friday Unicorn Chaser, we reprise
+      &lt;a
+      href="http://www.boingboing.net/2008/11/20/bbtv-offworld-premie.html"&gt;our
+      OFFWORLD debut episode&lt;/a&gt; with a special extended
+      dance remix of editor Brandon "Dirty Dancing Death Dwarf"
+      Boyer, funking out in Azeroth.&lt;br style="clear:
+      both;"/&gt; &lt;a
+      href="http://www.pheedo.com/feeds/ht.php?t=c&amp;amp;i=ad24eb8ae1ac3c6beeb296192c233468&amp;amp;p=1"&gt;&lt;img
+      style="border:0;"
+      src="http://www.pheedo.com/feeds/ht.php?t=v&amp;amp;i=ad24eb8ae1ac3c6beeb296192c233468&amp;amp;p=1"
+      border="0" /&gt;&lt;/a&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/460915414"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/460915415/unicorn-chaser-offworlds-brandon-funky-death-dwarf.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Boing Boing tv's Unicorn Chaser for this
+      Friday is our OFFWORLD.com editor Brandon Boyer reincarnated
+      as a Death Dwarf with a fine sense of
+      syncopation.</itunes:subtitle>
+      <itunes:summary>Boing Boing tv's Unicorn Chaser for this
+      Friday is our OFFWORLD.com editor Brandon Boyer reincarnated
+      as a Death Dwarf with a fine sense of
+      syncopation.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/460915415/unicorn-chaser-offworlds-brandon-funky-death-dwarf.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e541/f20/unicorn-chaser-offworlds-brandon-funky-death-dwarf.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Tibetan Sovereignty Supporters Hold Historic Meeting
+      in India to Plan Future.</title>
+      <link>
+      http://tv.boingboing.net/2008/11/20/tibetan-sovereignty.html</link>
+      <category>BBtv World</category>
+      <category>China</category>
+      <category>Tibet</category>
+      <category>news</category>
+      <category>religion</category>
+      <category>world</category>
+      <category>xeni jardin</category>
+      <pubDate>Thu, 20 Nov 2008 16:34:10 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/20/tibetan-sovereignty.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F540%2F10%2Fconfig.xml&amp;dbg=false&amp;664998090"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F540%2F10%2Fconfig.xml&amp;dbg=false&amp;664998090"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F540%2F10%2Fconfig.xml&amp;dbg=false&amp;664998090"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/20/tibetan-sovereignty.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e540/f20/bbtv-xeni-interviews-tibetan-activists.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;In this special episode
+      of &lt;a href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt;, Xeni interviews Tibetan sovereignty activists
+      Lhadon Tethong and Tenzin "Tendor" Dorjee from &lt;a
+      href="http://www.studentsforafreetibet.org"&gt;Students for a
+      Free Tibet&lt;/a&gt;, over a Skype video chat. They're in
+      Dharamsala, India, the home of the &lt;a
+      href="http://www.tibet.net"&gt;Dalai Lama and the Tibetan
+      Government In Exile&lt;/a&gt;, and they're attending an
+      historic week-long meeting taking place this week to
+      determine the future of the Tibetan independence movement.
+      &lt;p&gt;Snip from a &lt;a
+      href="http://www.nytimes.com/2008/11/18/world/asia/18tibet.html?_r=1&amp;hp&amp;oref=slogin"&gt;&lt;em&gt;New
+      York Times&lt;/em&gt; story by Edward Wong&lt;/a&gt; about
+      the "Special Meeting": &lt;blockquote&gt;The conclave is the
+      first of its kind since 1991. The Dalai Lama has called for
+      hundreds of Tibetans to gather in the Himalayan town of
+      Dharamsala, the seat of the Tibetan government in exile, to
+      help decide on a new strategy for Tibet. &lt;p&gt; In a
+      statement released Monday, the government in exile sought to
+      play down speculation that a significant shift in its
+      approach to the issue of Tibetan independence might be near.
+      &lt;p&gt; &#226;&#196;&#250;A change in policy need not come
+      from this meeting,&#226;&#196;&#249; the statement said,
+      according to Reuters. &#226;&#196;&#250;If a change in basic
+      policy is considered necessary, there is a way that is
+      democratic and which has the mandate of the Tibetan
+      people.&#226;&#196;&#249;&lt;/blockquote&gt; Lhadon and
+      Tendor are &lt;a
+      href="http://blog.studentsforafreetibet.org/"&gt;updating the
+      SFT blog here&lt;/a&gt;, and they suggest that people
+      interested in following the story check &lt;a
+      href="http://phayul.com/"&gt;Phayul.com,&lt;/a&gt; and the
+      &lt;a href="http://www.highpeakspureearth.com/"&gt;High Peaks
+      Pure Earth blog&lt;/a&gt;, with commentary from Tibetans
+      inside Tibet and China. &lt;a
+      href="http://www.studentsforafreetibet.org/article.php?id=1703"&gt;Here
+      is a statement&lt;/a&gt; on the "Special Meeting" from the
+      Dalai Lama, who is not personally attending. The &lt;a
+      href="http://tibet.net/en/index.php"&gt;Tibetan Government in
+      Exile&lt;/a&gt; is producing &lt;a
+      href="http://www.tibetonline.tv/"&gt;video reports&lt;/a&gt;
+      from the Special Meeting &lt;a
+      href="http://www.tibetonline.tv/spmeet_popup.html"&gt;here&lt;/a&gt;.
+      Tibetan poet Woeser has published her thoughts on the meeting
+      &lt;a
+      href="http://www.studentsforafreetibet.org/article.php?id=1697"&gt;here&lt;/a&gt;.
+      &lt;em&gt;(Special thanks to Laird Brown, and Phuntsok
+      Dorjee)&lt;/em&gt;&lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=d893a031003ad5d9728c72031dc09fb9&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=d893a031003ad5d9728c72031dc09fb9&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=d893a031003ad5d9728c72031dc09fb9"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/460109122"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/460109123/bbtv-xeni-interviews-tibetan-activists.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Xeni interviews STUDENTS FOR A FREE TIBET
+      activists Lhadon and Tendor from Dharamsala, India, the home
+      of the Tibetan Government In Exile, where an historic meeting
+      is taking place to determine the future of the Tibetan
+      sovereignty movement.</itunes:subtitle>
+      <itunes:summary>Xeni interviews STUDENTS FOR A FREE TIBET
+      activists Lhadon and Tendor from Dharamsala, India, the home
+      of the Tibetan Government In Exile, where an historic meeting
+      is taking place to determine the future of the Tibetan
+      sovereignty movement.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/460109123/bbtv-xeni-interviews-tibetan-activists.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e540/f20/bbtv-xeni-interviews-tibetan-activists.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>BBtv: Offworld Premiere. What's Offworld?</title>
+      <link>
+      http://tv.boingboing.net/2008/11/20/bbtv-welcome-offworl.html</link>
+      <category>Brandon Boyer</category>
+      <category>OFFWORLD</category>
+      <category>funny</category>
+      <category>games</category>
+      <category>machinima</category>
+      <category>video games</category>
+      <pubDate>Thu, 20 Nov 2008 11:12:41 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/20/bbtv-welcome-offworl.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F535%2F10%2Fconfig.xml&amp;dbg=false&amp;181395782"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F535%2F10%2Fconfig.xml&amp;dbg=false&amp;181395782"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F535%2F10%2Fconfig.xml&amp;dbg=false&amp;181395782"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/20/bbtv-welcome-offworl.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e535/f20/bbtv-offworld-an-interview-with-brandon-boyer.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Here's the debut episode
+      of our regular video updates from &lt;a
+      href="http://offworld.com/"&gt;OFFWORLD&lt;/a&gt;, Boing
+      Boing's new gaming blog. Editor &lt;a
+      href="http://www.brandonnn.com/"&gt;Brandon Boyer&lt;/a&gt;
+      says: &lt;blockquote&gt; After an oxygen fire knocked our
+      interstellar video link temporarily out of commission, we
+      bring you our &lt;a href="http://tv.boingboing.net/"&gt;Boing
+      Boing TV&lt;/a&gt; premiere via Azeroth, where my spiritual
+      Death Knight equal gives you a little background on where
+      we're is coming from and where I hope to steer the ship. As
+      usual, here's &lt;a
+      href="http://bitcast-a.v1.sjc1.bitgravity.com/episodic/shows/21/535/20/1709_1669_1716_1670_1708.mp4"&gt;the
+      direct MP4 link&lt;/a&gt;, if you prefer a downloadable
+      rather than the Flash.&lt;/p&gt; &lt;p&gt;Offworld bonus
+      fact: in real life, my eyes and sword glow a much more vivid
+      shade of blue. That is indeed, though, almost exactly how I
+      shake a tail feather. &lt;/blockquote&gt; Like this episode?
+      Tell Brandon and the Offworld gang what you think &lt;a
+      href="http://www.offworld.com/2008/11/offworld-bbtv-premiere-whats-o.html"&gt;over
+      at offworld.com&lt;/a&gt;: &lt;strong&gt;&lt;a
+      href="http://www.offworld.com/2008/11/offworld-bbtv-premiere-whats-o.html#comments"&gt;the
+      comments thread is here&lt;/a&gt;&lt;/strong&gt;.
+      &lt;p&gt;&lt;em&gt; (SPECIAL THANKS to the &lt;a
+      href="http://projectlore.com/"&gt;Project Lore&lt;/a&gt;
+      guys, who showed us around the 'hood -- namely, Charles
+      Ottaway.)&lt;/em&gt;&lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=901f3135362278ea939a475b20b40e14&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=901f3135362278ea939a475b20b40e14&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=901f3135362278ea939a475b20b40e14"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/459841321"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/459841323/bbtv-offworld-an-interview-with-brandon-boyer.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>BBtv debuts a weekly report from our new
+      OFFWORLD gaming blog. Editor Brandon Boyer is revealed to be
+      a death dwarf, who smites orcs.</itunes:subtitle>
+      <itunes:summary>BBtv debuts a weekly report from our new
+      OFFWORLD gaming blog. Editor Brandon Boyer is revealed to be
+      a death dwarf, who smites orcs.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/459841323/bbtv-offworld-an-interview-with-brandon-boyer.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e535/f20/bbtv-offworld-an-interview-with-brandon-boyer.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>BBtv: SELK Bag, Boing Boing Gadgets review with Joel
+      Johnson</title>
+      <link>
+      http://tv.boingboing.net/2008/11/18/bbtv-selk-bag-boing.html</link>
+      <category>boing boing gadgets</category>
+      <category>fashion</category>
+      <category>gadgets</category>
+      <category>joel johnson</category>
+      <category>review</category>
+      <pubDate>Tue, 18 Nov 2008 22:19:53 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/18/bbtv-selk-bag-boing.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F530%2F10%2Fconfig.xml&amp;dbg=false&amp;808453162"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F530%2F10%2Fconfig.xml&amp;dbg=false&amp;808453162"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F530%2F10%2Fconfig.xml&amp;dbg=false&amp;808453162"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/18/bbtv-selk-bag-boing.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e530/f20/bbtv-gadgets-review-by-joel-johnson-the-selk-bag.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt; This week, &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing tv&lt;/a&gt;
+      is &lt;a
+      href="http://www.boingboing.net/2008/11/18/boing-boing-tv-were.html"&gt;debuting
+      regular product reviews&lt;/a&gt; produced with Joel and the
+      crew, and we'll blog 'em here on &lt;em&gt;Gadgets
+      &lt;/em&gt;first. What better way to kick the series off than
+      a lulz-filled analysis of the &lt;a
+      href="http://www.lippiselkbag.co.uk/"&gt;Lippi Selk
+      Bag,&lt;/a&gt; a sleeping bag with arms and legs that makes
+      our Joel look like a bespectacled Gumby? The funky-chunky
+      "sleepwear system" ranges in price from $169 to $399. I
+      imagine they'd really come in handy at one of those outdoor
+      all-nighter raves, unless you get lucky -- interpersonal
+      intra-bag intercourse might be logistically difficult in
+      these. &lt;p&gt;&lt;hr&gt;&lt;p&gt; Tell Joel what you think
+      of his &lt;a
+      href="http://video.google.com/videoplay?docid=7781819023901717152&amp;ei=a5wjSbnIFqO2qAPd-JS2BA&amp;q=gumby"&gt;Gumby&lt;/a&gt;
+      impersonation &lt;strong&gt;&lt;a
+      href="http://gadgets.boingboing.net/2008/11/18/joel-reviews-the-sel.html"&gt;in
+      the Boing Boing Gadgets comment
+      thread&lt;/a&gt;&lt;/strong&gt; for this video. And &lt;a
+      href="http://analytics.episodic.com/download/e530/f20/bbtv-gadgets-review-by-joel-johnson-the-selk-bag.mp4"&gt;&lt;strong&gt;here
+      is a direct MP4 link&lt;/strong&gt;&lt;/a&gt;, if you prefer
+      a downloadable video to the Flash embed above. &lt;br
+      style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=8eaba9a53731cc6d58e9f962baca8a48"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=8eaba9a53731cc6d58e9f962baca8a48"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=8eaba9a53731cc6d58e9f962baca8a48"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/458007019"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/458007020/bbtv-gadgets-review-by-joel-johnson-the-selk-bag.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>In this Boing Boing Gadgets video review for
+      BBtv, Joel Johnson reviews a body-shaped sleeping bag called
+      the Selk Bag.</itunes:subtitle>
+      <itunes:summary>In this Boing Boing Gadgets video review for
+      BBtv, Joel Johnson reviews a body-shaped sleeping bag called
+      the Selk Bag.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/458007020/bbtv-gadgets-review-by-joel-johnson-the-selk-bag.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e530/f20/bbtv-gadgets-review-by-joel-johnson-the-selk-bag.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Boing Boing tv Update: OFFWORLD, YES MEN, and THIS IS
+      THE FIRST.</title>
+      <link>
+      http://tv.boingboing.net/2008/11/18/boing-boing-tv-updat.html</link>
+      <category>OFFWORLD</category>
+      <category>UPDATE</category>
+      <category>news</category>
+      <category>parody</category>
+      <category>xeni jardin</category>
+      <pubDate>Tue, 18 Nov 2008 13:01:27 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/18/boing-boing-tv-updat.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F522%2F10%2Fconfig.xml&amp;dbg=false&amp;397941288"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F522%2F10%2Fconfig.xml&amp;dbg=false&amp;397941288"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F522%2F10%2Fconfig.xml&amp;dbg=false&amp;397941288"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/18/boing-boing-tv-updat.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e522/f20/boing-boing-update-w-xeni-yes-men-interview-offworld-launch-.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;In this week's &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing TV&lt;/a&gt;
+      &lt;a
+      href="http://tv.boingboing.net/update/"&gt;update&lt;/a&gt;,
+      we discuss what's ahead with the launch of &lt;a
+      href="http://offworld.com/"&gt;BOING BOING:
+      OFFWORLD&lt;/a&gt;, and we speak with the &lt;a
+      href="http://www.theyesmen.org/"&gt;YES MEN&lt;/a&gt; about
+      their EPIC STUNT last week in which they printed and
+      distributed lots and lots of copies of a &lt;em&gt;New York
+      Times&lt;/em&gt; fantasy-edition, with the headline IRAQ WAR
+      ENDS. &lt;a
+      href="http://www.boingboing.net/2008/11/12/fake-nyt-hits-street.html"&gt;Mark
+      blogged about this last week&lt;/a&gt;, with video.
+      &lt;p&gt;We speak to three of the guys who made this event
+      possible over a multi-channel &lt;a
+      href="http://www.apple.com/macosx/features/ichat.html"&gt;iChat&lt;/a&gt;
+      session that gets kind of melty sometimes. They are: STEVE
+      LAMBERT FROM the &lt;a
+      href="http://antiadvertisingagency.com/"&gt;ANTI ADVERTISING
+      AGENCY&lt;/a&gt;, ANDY BICHLBAUM form the &lt;a
+      href="http://www.theyesmen.org/"&gt;YES MEN&lt;/a&gt;, and
+      SCOTT BEIBIN from &lt;a
+      href="http://www.lostfilmfest.org/"&gt;THE LOST FILM
+      FEST&lt;/a&gt;. Some of those names might be aliases, who
+      knows, caveat lector.&lt;/p&gt; &lt;p&gt;They say they
+      received a cease and desist over email from &lt;a
+      href="http://us.hsbc.com/"&gt;HSBC&lt;/a&gt; over a parody
+      HSBC ad that appears in both the &lt;a
+      href="http://www.nytimes-se.com/"&gt;print and online
+      editions&lt;/a&gt; of their &lt;a
+      href="http://www.nytimes-se.com/pdf"&gt;Faux NYT&lt;/a&gt;,
+      but oddly, the C&amp;amp;D (they showed us a copy) is
+      addressed to the REAL New York Times. We have not yet been
+      able to confirm the lawyergram's validity with HSBC, but the
+      email headers suggest it's legit.&lt;/p&gt; &lt;p&gt;In this
+      Boing Boing TV update, you will hear music from &lt;a
+      href="http://www.q-burnsabstractmessage.com/"&gt;Q-Burns
+      Abstract Message&lt;/a&gt; and &lt;a
+      href="http://www.eighthdimension.com/"&gt;Eighth Dimension
+      Records&lt;/a&gt;, and you'll hear me talk about &lt;a
+      href="http://www.boingboing.net/2008/11/18/boing-boing-tv-were.html"&gt;BBtv's
+      new programming changes&lt;/a&gt;. (Special thanks to &lt;a
+      href="http://www.eddie.com/"&gt;Eddie Codel&lt;/a&gt;, &lt;a
+      href="http://seanbonner.com"&gt;Sean Bonner&lt;/a&gt;, and
+      &lt;a href="http://laughingsquid.com/"&gt;Scott
+      Beale&lt;/a&gt;, who covered the Yes Men item early
+      on).&lt;/p&gt; &lt;br style="clear: both;"/&gt; &lt;img
+      alt="" style="border: 0; height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=77bdd23f7213cd98435b7a72815c0ccb"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=77bdd23f7213cd98435b7a72815c0ccb"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/457521106"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/457521107/boing-boing-update-w-xeni-yes-men-interview-offworld-launch-.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>A weekly update from Boing Boing with Xeni
+      Jardin. This week: Boing Boing OFFWORLD gaming blog launches,
+      we introduce new programming on Boing Boing tv, and we
+      interview the YES MEN about their epic New York Times "IRAQ
+      WAR ENDS" prank.</itunes:subtitle>
+      <itunes:summary>A weekly update from Boing Boing with Xeni
+      Jardin. This week: Boing Boing OFFWORLD gaming blog launches,
+      we introduce new programming on Boing Boing tv, and we
+      interview the YES MEN about their epic New York Times "IRAQ
+      WAR ENDS" prank.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/457521107/boing-boing-update-w-xeni-yes-men-interview-offworld-launch-.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e522/f20/boing-boing-update-w-xeni-yes-men-interview-offworld-launch-.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Boing Boing tv: We're a Year Old, and Yes We Can
+      (Announce a New Programming Plan)</title>
+      <link>
+      http://tv.boingboing.net/2008/11/18/boing-boing-tv-were.html</link>
+      <category>bbtv in the news</category>
+      <category>news</category>
+      <pubDate>Tue, 18 Nov 2008 10:28:29 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/18/boing-boing-tv-were.html</guid>
+      <description>&lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/18/boing-boing-tv-were.html"&gt;
+      &lt;/p&gt;&lt;a href="http://tv.boingboing.net"&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/bboneyeartv.jpg"
+      width="500" align="left" border="0" /&gt;&lt;/a&gt;&lt;br
+      clear="all" /&gt; &lt;p&gt;Today, we announce some changes
+      over at &lt;a href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt; -- the good kind. The show completed its first
+      year of Boingsistence on October 2, 2008 (remember &lt;a
+      href="http://www.boingboing.net/2007/10/02/boing-boing-tv-same.html"&gt;our
+      very first day back in 2007&lt;/a&gt;?), and we've spent some
+      time in recent weeks thinking through new things we'd like to
+      explore, and how to stay nimble and consistently fresh during
+      a time when many online video shows are, to be frank, having
+      a rather hard time of things.&lt;/p&gt; &lt;p&gt;Here's what
+      we're doing.&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;Each MONDAY,
+      we'll post a brief update of goings-on around the mothership
+      blog, hosted by me, including iChat Video or Skype interviews
+      with folks we've blogged about recently. Kind of a fast news
+      update, and a way for us to keep you in the loop on things
+      that Cory, Mark, Pesco and I have posted here on Boing Boing
+      that have taken on a life of their own. We're posting the
+      first one of these momentarily (yeah, I know it's Tuesday,
+      but we're kicking things off today.) &lt;strong&gt;&lt;font
+      color="red"&gt;UPDATE&lt;/font&gt;&lt;/strong&gt;: Here's
+      &lt;a
+      href="http://www.boingboing.net/2008/11/18/boing-boing-tv-updat.html"&gt;our
+      first Boing Boing tv Weekly Update
+      episode&lt;/a&gt;!&lt;/p&gt; &lt;p&gt;TUESDAY, expect a &lt;a
+      href="http://gadgets.boingboing.net"&gt;Boing Boing
+      Gadgets&lt;/a&gt; item. We're producing a bunch of short
+      electronics/tech stuff reviews from Joel Johnson, and we hope
+      to include BB Gadgets co-editors John Brownlee and Rob
+      Beschizza, soon, too.&lt;/p&gt; &lt;p&gt;WEDNESDAYS, we'll
+      feature stuff from Brandon Boyer and crew at &lt;a
+      href="http://offworld.com"&gt;Boing Boing Offworld&lt;/a&gt;,
+      the games blog we launched yesterday. &lt;a
+      href="http://www.offworld.com/2008/11/welcome-to-offworld.html"&gt;Check
+      out offworld.com&lt;/a&gt; for a hint of how this will feel:
+      gaming seen through a wide lens that encompasses the art,
+      culture, and human experience of gaming, not just a buying
+      guide.&lt;/p&gt; &lt;p&gt;THURSDAYS, we'll continue to bring
+      the engaging original programming that we love to produce,
+      and you, our audience, seem to love just as much.
+      We&#226;&#196;&#244;ll keep bringing you reports from around
+      the world; mini-documentaries about tech and culture topics
+      with me, the other Boingers, and other brilliant people
+      around the world (&lt;a
+      href="http://www.intelligentsiacoffee.com/"&gt;Kyle
+      Glanville&lt;/a&gt; doing coffee treks in Brazil, &lt;a
+      href="http://joi.ito.com/"&gt;Joi Ito&lt;/a&gt; galavanting
+      around in Tokyo, &lt;a
+      href="http://www.seanbonner.com/"&gt;Sean Bonner&lt;/a&gt;
+      hunting monsters, Monochrom herding inebriated Vikings, &lt;a
+      href="http://johnbehrens.com/"&gt;John Behrens&lt;/a&gt; and
+      the Omega Recoil Tesla Coil builders); and all the other
+      brain exploding material we have yet to find!&lt;/p&gt;
+      &lt;p&gt;FRIDAYS? The return of the &lt;a
+      href="http://www.boingboing.net/2005/07/11/and-now-we-pause-for.html"&gt;Unicorn
+      Chaser&lt;/a&gt;. This will surprise and delight you. It will
+      be super awesome. You will thank us all weekend
+      long.&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;So, that's the plan.
+      And on behalf of my Boing Boing partners, a very special
+      THANKS to everyone who made the first year of Boing Boing tv
+      possible, including, but not limited to, and in no particular
+      order...current crew members and alumni Derek Bledsoe, Rob
+      Bergsma, Keith Carunida, Dana Devonshire, and Wesly Varghese;
+      our jungle-dwelling consigliere and creative consultant &lt;a
+      href="http://www.jolon.com"&gt;Jolon Bankey&lt;/a&gt;; our
+      production advisor Matt West of &lt;a
+      href="http://deca.tv"&gt;DECA&lt;/a&gt;; DECA co-founders
+      Michael Wayne and Chris Kimbell, and the entire staff and
+      management team of DECA, George Ruiz at &lt;a
+      href="http://www.icmtalent.com/"&gt;ICM&lt;/a&gt;; our
+      attorney Rob Rader of &lt;a
+      href="http://www.msk.com/"&gt;MSK&lt;/a&gt;; the good folks
+      at &lt;a href="http://creativecommons.org/"&gt;Creative
+      Commons&lt;/a&gt; and the &lt;a
+      href="http://www.eff.org/"&gt;EFF&lt;/a&gt;, to &lt;a
+      href="http://www.blawg-and-order.com/"&gt;Sarah
+      Milstein,&lt;/a&gt; and the teams at &lt;a
+      href="http://www.castfire.com/"&gt;Castfire&lt;/a&gt; and
+      &lt;a href="http://www.episodic.com/"&gt;Episodic&lt;/a&gt;,
+      our sysadmin Ken Snider ("The Man in the Jeffries Tubes"),
+      and the management and sales superheroes at &lt;a
+      href="http://www.federatedmedia.net/"&gt;Federated
+      Media&lt;/a&gt; -- John Battelle, Chas Edwards, Bernie
+      Albers, Jason Weisberger, Mugs Buckley, Neil Chase, Jennifer
+      Tamez, James Navin, Josh Mattison, Jackie Mogol, Alison
+      Marino, Jason Ratner, Mac Delaney, Lester Lee, Leona Laurie,
+      Matt Jessell, Sacha Lien, Cindy Murphy, James Gross, Ivan
+      Kanevski, Liam Boylan, Eric Amsden, and Jonathan Schrieber. A
+      very special thanks to the many friends who've contributed
+      talent to the show, including &lt;a
+      href="http://areasofmyexpertise.blogspot.com/"&gt;John
+      Hodgman&lt;/a&gt;, the &lt;a
+      href="http://makerfaire.com/bayarea/2008/"&gt;MAKE&lt;/a&gt;
+      (event and magazine) folks, Johannes and the team at &lt;a
+      href="http://www.monochrom.at/english/"&gt;monochrom&lt;/a&gt;;
+      &lt;a href="http://altjapan.typepad.com/"&gt;Matt and
+      Hiroko&lt;/a&gt;, &lt;a
+      href="http://www.telstarlogistics.com/whoistelstar.html"&gt;Todd
+      Lappin&lt;/a&gt;; &lt;a
+      href="http://www.barminski.com/"&gt;Bill Barminski&lt;/a&gt;;
+      &lt;a href="http://www.bobcentral.com/"&gt;Syd
+      Garon&lt;/a&gt;; &lt;a
+      href="http://www.porterreport.com/"&gt;Russell
+      Porter&lt;/a&gt;; &lt;a href="http://www.eddie.com/"&gt;Eddie
+      Codel&lt;/a&gt;, &lt;a href="http://craptv.com"&gt;Jason
+      McHugh&lt;/a&gt;, &lt;a
+      href="http://twitter.com/amour_le_cinema"&gt;Charis
+      Tobias&lt;/a&gt;, &lt;a
+      href="http://www.adamkoford.com/"&gt;Adam Koford&lt;/a&gt;,
+      &lt;a href="http://hello.eboy.com/"&gt;EBOY&lt;/a&gt;, &lt;a
+      href="http://hooptyrides.blogspot.com/"&gt;Mister
+      Jalopy&lt;/a&gt;, and many others. Thanks to the guys at
+      &lt;a href="http://virginamerica.com"&gt;Virgin
+      America&lt;/a&gt;, &lt;a
+      href="http://apple.com"&gt;Apple/iTunes&lt;/a&gt;, and &lt;a
+      href="http://youtube.com"&gt;YouTube&lt;/a&gt;, for help with
+      distribution. And much gratitude to Boing Boing tv's past and
+      present sponsors, including: Intel, Dell, Samsung, Verizon,
+      Microsoft, Crowdfire, Toshiba, BMW, IBM, T Mobile, Amazon,
+      Adobe, SanDisk, and JCPenney. [gasps for breath]. Also, God,
+      and our moms. Thank you and good-boing.&lt;/p&gt; &lt;br
+      style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=3f25ccbff1c130c998e4de3f6f5349b0&amp;p=1"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=3f25ccbff1c130c998e4de3f6f5349b0&amp;p=1"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=3f25ccbff1c130c998e4de3f6f5349b0"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/460961042"
+      height="1" width="1"/&gt;</description>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+    </item>
+    <item>
+      <title>Boing Boing tv (and Xeni) at NewTeeVee Live:
+      video</title>
+      <link>
+      http://tv.boingboing.net/2008/11/14/boing-boing-tv-and-x-1.html</link>
+      <pubDate>Fri, 14 Nov 2008 09:51:55 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/14/boing-boing-tv-and-x-1.html</guid>
+      <description>&lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/14/boing-boing-tv-and-x-1.html"&gt;
+      &lt;/p&gt;&lt;object id="otv_o_294603" height="320"
+      width="400"
+      classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"&gt;
+      &lt;param value="http://www.ustream.tv/flash/video/862651"
+      name="movie" /&gt; &lt;param value="true"
+      name="allowFullScreen" /&gt; &lt;param value="always"
+      name="allowScriptAccess" /&gt; &lt;param value="transparent"
+      name="wmode" /&gt; &lt;param
+      value="viewcount=true&amp;amp;autoplay=false&amp;amp;brand=embed&amp;amp;"
+      name="flashvars" /&gt; &lt;embed name="otv_e_297102"
+      id="otv_e_75802"
+      flashvars="viewcount=true&amp;amp;autoplay=false&amp;amp;brand=embed&amp;amp;"
+      height="320" width="400" allowfullscreen="true"
+      allowscriptaccess="always" wmode="transparent"
+      src="http://www.ustream.tv/flash/video/862651"
+      type="application/x-shockwave-flash" /&gt;
+      &lt;/object&gt;&lt;br clear="all" /&gt; &lt;p&gt;The
+      organizers of the annual online video event &lt;a
+      href="http://newteevee.com/2008/11/13/newteevee-live-star-boing-boings-xeni-jardin/"&gt;NewTeeVee
+      Live&lt;/a&gt; invited me to join them yesterday to talk
+      about &lt;a href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt;'s first year on the air, on the intertubes.
+      Here's a video of our "fireside chat," which was in fact,
+      actually by a fire of sorts. Video is about 15 minutes long.
+      &lt;a
+      href="http://newteevee.com/2008/11/13/newteevee-live-star-boing-boings-xeni-jardin/"&gt;NewTeeVee
+      Live Star: Boing Boing&#226;&#196;&#244;s Xeni
+      Jardin&lt;/a&gt; &lt;em&gt;(GigaOm, and thanks, Om Malik, Liz
+      Gannes, and Chris Albrecht)&lt;/em&gt;&lt;/p&gt; &lt;br
+      style="clear: both;"/&gt; &lt;img alt="" style="border: 0;
+      height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=f97785f2c62bece76cda1b4d963a447e"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=f97785f2c62bece76cda1b4d963a447e"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/453089706"
+      height="1" width="1"/&gt;</description>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/453089707/862651"
+      fileSize="123849" type="application/x-shockwave-flash" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Can't see the video? The organizers of the
+      annual online video event NewTeeVee Live invited me to join
+      them yesterday to talk about Boing Boing tv's first year on
+      the air, on the intertubes. Here's a video of our "fireside
+      chat," which was in fact, actua</itunes:subtitle>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:summary>Can't see the video? The organizers of the
+      annual online video event NewTeeVee Live invited me to join
+      them yesterday to talk about Boing Boing tv's first year on
+      the air, on the intertubes. Here's a video of our "fireside
+      chat," which was in fact, actually by a fire of sorts. Video
+      is about 15 minutes long. NewTeeVee Live Star: Boing
+      Boing&#226;&#196;&#244;s Xeni Jardin (GigaOm, and thanks, Om
+      Malik, Liz Gannes, and Chris Albrecht)</itunes:summary>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/453089707/862651"
+      length="123849" type="application/x-shockwave-flash" />
+      <feedburner:origEnclosureLink>
+      http://www.ustream.tv/flash/video/862651</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Boing Boing tv (and Xeni) at NewTeeVee Live, SF, Thu
+      Nov 13.</title>
+      <link>
+      http://tv.boingboing.net/2008/11/12/boing-boing-tv-and-x.html</link>
+      <category>bbtv in the news</category>
+      <category>news</category>
+      <pubDate>Wed, 12 Nov 2008 11:29:52 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/12/boing-boing-tv-and-x.html</guid>
+      <description>&lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/12/boing-boing-tv-and-x.html"&gt;
+      &lt;/p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008//newteevee_stars_button.gif"
+      width="125" hspace="10" align="left" border="0" /&gt;I'll be
+      joining a number of other internet video creators and network
+      folks at &lt;a
+      href="http://events.newteevee.com/live/08/"&gt;NewTeeVee
+      Live&lt;/a&gt;, tomorrow in San Francisco. &lt;a
+      href="http://events.newteevee.com/live/08/Schedule"&gt;My
+      session is 4pm&lt;/a&gt;, and we'll be talking about Boing
+      Boing tv's first year, and some of the fun stuff we have
+      planned. Tickets are still available if you'd like to attend,
+      and the lineup is great -- lots of solid internetelevision.
+      NewTeeVee kindly &lt;a
+      href="http://newteevee.com/2008/11/10/announcing-the-newteevee-top-10-breakout-video-stars-of-2008/8/"&gt;included
+      Boing Boing tv&lt;/a&gt; in their &lt;a
+      href="http://newteevee.com/2008/11/10/announcing-the-newteevee-top-10-breakout-video-stars-of-2008/"&gt;NewTeeVee
+      Top 10 Breakout Video Stars of 2008&lt;/a&gt;. &lt;br
+      style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/feeds/ht.php?t=c&amp;amp;i=73c4e8b294af56f0967fa3e1479cb079"&gt;&lt;img
+      src="http://www.pheedo.com/feeds/ht.php?t=v&amp;amp;i=73c4e8b294af56f0967fa3e1479cb079"
+      border="0" /&gt;&lt;/a&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/450942761"
+      height="1" width="1"/&gt;</description>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+    </item>
+    <item>
+      <title>Gnarls Barkley animated music video from Walter
+      Robot</title>
+      <link>
+      http://tv.boingboing.net/2008/11/11/gnarls-barkley-anima.html</link>
+      <category>Bill Barminski</category>
+      <category>Gnarls Barkley</category>
+      <category>animation</category>
+      <category>art</category>
+      <category>music</category>
+      <pubDate>Tue, 11 Nov 2008 11:58:34 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/11/gnarls-barkley-anima.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F494%2F10%2Fconfig.xml&amp;dbg=false&amp;446099455"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F494%2F10%2Fconfig.xml&amp;dbg=false&amp;446099455"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F494%2F10%2Fconfig.xml&amp;dbg=false&amp;446099455"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/11/gnarls-barkley-anima.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://cdn.episodic.com/shows/21/494/20/1574_289_1572_290_1573.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;&lt;a
+      href="http://www.walterrobot.com"&gt;Walter Robot&lt;/a&gt;,
+      aka Bill Barminski and Christopher Louie, produced this video
+      for &lt;a href="http://www.gnarlsbarkley.com/"&gt;Gnarls
+      Barkley&lt;/a&gt;'s new track "Mystery Man." &lt;a
+      href="http://tv.boingboing.net/bill-barminski/"&gt;Here are
+      previous Boing Boing tv episodes&lt;/a&gt; featuring
+      Barminski's work.&lt;br style="clear: both;"/&gt; &lt;img
+      alt="" style="border: 0; height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=fc1dd3dc2b0b4fccbb6f04d1773a23a9"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=fc1dd3dc2b0b4fccbb6f04d1773a23a9"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/449807796"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/449807798/1574_289_1572_290_1573.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Gnarls Barkley's new track "Mystery Man"
+      gets the Walter Robot treatment -- an animated video by Bill
+      Barminksi and Christopher Louie.</itunes:subtitle>
+      <itunes:summary>Gnarls Barkley's new track "Mystery Man" gets
+      the Walter Robot treatment -- an animated video by Bill
+      Barminksi and Christopher Louie.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/449807798/1574_289_1572_290_1573.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://cdn.episodic.com/shows/21/494/20/1574_289_1572_290_1573.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>John Hodgman in BBtv's SPAMasterpiece Theater, Vol IV:
+      V1V4 M3X1CO.</title>
+      <link>
+      http://tv.boingboing.net/2008/11/04/john-hodgman-in-bbtv-3.html</link>
+      <category>SPAMasterpiece Theater</category>
+      <category>funny</category>
+      <category>john hodgman</category>
+      <category>parody</category>
+      <category>spam</category>
+      <category>spam theater</category>
+      <category>weird</category>
+      <pubDate>Tue, 04 Nov 2008 12:09:59 -0600</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/11/04/john-hodgman-in-bbtv-3.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F428%2F10%2Fconfig.xml&amp;dbg=false&amp;290959697"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F428%2F10%2Fconfig.xml&amp;dbg=false&amp;290959697"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F428%2F10%2Fconfig.xml&amp;dbg=false&amp;290959697"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/11/04/john-hodgman-in-bbtv-3.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e428/f20/spamasterpiece-theater-vol-iv-with-john-hodgman.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Today on &lt;a
+      href="http://tv.boingboing.net"&gt;Boing Boing tv&lt;/a&gt;
+      we reprise our ongoing SPAMasterpiece Theater series
+      featuring author, PC, and minor television personality &lt;a
+      href="http://areasofmyexpertise.blogspot.com/"&gt;John
+      Hodgman&lt;/a&gt;. His new book, &lt;em&gt;&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/0525950346/boingboing06-20/"&gt;MORE
+      INFORMATION THAN YOU REQUIRE&lt;/a&gt;&lt;/em&gt; was
+      released just a couple of weeks ago. &lt;p&gt;Hodgman himself
+      describes this series as the dramatization of "true tale[s]
+      of romance, adventure, infamy, and low-cost prescription
+      drugs, all culled from the reams of actual, unsolicited
+      emails, received here by us and people like you -- what we
+      call SPAM."&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Today's
+      installment&lt;/strong&gt;: &lt;em&gt;V1V4
+      M3X1CO.&lt;/em&gt;, in which we explore supply chain
+      management solicitations with the help of
+      &lt;em&gt;luchadores&lt;/em&gt;, mariachis, beautiful
+      black-n-white se&#195;&#177;oritas from the silver screen of
+      our &lt;em&gt;abuelitos&lt;/em&gt;, and GIANT NARCO-KITTEHS
+      WITH UZIS. &lt;p&gt;A note from our musical director: The
+      adaptation of &lt;a
+      href="http://en.wikipedia.org/wiki/Jean-Joseph_Mouret"&gt;Jean-Joseph
+      Mouret&lt;/a&gt;'s "Rondeau: Fanfare" (1735) which opens
+      today's episode was remixed &lt;em&gt;in flagrante
+      8-bit&lt;/em&gt; by Hamhocks Buttermilk Johnson.&lt;/p&gt;
+      &lt;p&gt; Also: a special and hearty thanks to the talented
+      and generous Ehrich Blackhound (&lt;a
+      href="http://boingboing.net/2008/08/04/unfulfilled-space-fu.html"&gt;previously
+      boinged here&lt;/a&gt;) for creating our new,
+      typographically-correct opening slates for this parody
+      series. &lt;/p&gt;&lt;p&gt;Previous SPAMasterpiece Theater
+      episodes on Boing Boing tv:&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/01/john-hodgman-in-bbtv.html"&gt;SPAMasterpiece
+      Theater, Vol. I&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/10/john-hodgman-in-bbtv-1.html"&gt;SPAMasterpiece
+      Theater, Vol. II&lt;/a&gt; &lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/28/john-hodgman-in-bbtv-2.html"&gt;SPAMasterpiece
+      Theater, Vol III&lt;/a&gt;&lt;p&gt; And more Hodgman on Boing
+      Boing tv:&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/21/bbtv-john-hodgman-mo.html"&gt;
+      More Information Than You Require. This is not a book
+      trailer, part 2.&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/14/john-hodgman-more-in-1.html"&gt;More
+      Information Than You Require. This is not a book
+      trailer.&lt;/a&gt; &lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/08/john-hodgman-more-in.html"&gt;More
+      Information Than You Require.&lt;/a&gt;&lt;br style="clear:
+      both;"/&gt; &lt;img alt="" style="border: 0; height:1px;
+      width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=6cfa8bb7b4ded628ad2a7fe5ad16a4b7"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=6cfa8bb7b4ded628ad2a7fe5ad16a4b7"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/442365770"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/442365771/spamasterpiece-theater-vol-iv-with-john-hodgman.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>John Hodgman reprises his role in BBtv's
+      SPAMASTERPIECE THEATER, this time en espanol, with mariachis
+      and machine gun kittens.</itunes:subtitle>
+      <itunes:summary>John Hodgman reprises his role in BBtv's
+      SPAMASTERPIECE THEATER, this time en espanol, with mariachis
+      and machine gun kittens.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/442365771/spamasterpiece-theater-vol-iv-with-john-hodgman.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e428/f20/spamasterpiece-theater-vol-iv-with-john-hodgman.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Hunting for the Kappa Monster in Tokyo, part 2</title>
+      <link>
+      http://tv.boingboing.net/2008/10/31/hunting-for-the-kapp-1.html</link>
+      <category>japan</category>
+      <category>manga</category>
+      <category>monsters</category>
+      <category>scary</category>
+      <category>weird</category>
+      <pubDate>Fri, 31 Oct 2008 11:15:17 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/31/hunting-for-the-kapp-1.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F400%2F10%2Fconfig.xml&amp;dbg=false&amp;387145114"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F400%2F10%2Fconfig.xml&amp;dbg=false&amp;387145114"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F400%2F10%2Fconfig.xml&amp;dbg=false&amp;387145114"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/31/hunting-for-the-kapp-1.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e400/f20/kappa-monster-part-2.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Today on &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing tv&lt;/a&gt;
+      we continue a series of transmissions from Tokyo by our
+      monster-hunting comrade &lt;a
+      href="http://www.seanbonner.com"&gt;Sean Bonner&lt;/a&gt;,
+      who vanished mysteriously while seeking a legendary shrine
+      devoted to the &lt;a
+      href="http://en.wikipedia.org/wiki/Gataro"&gt;Kappa&lt;/a&gt;,
+      a water-dwelling, ninja-turtle-like, child-sized creature who
+      is fond of cucumbers and human colon meat, which it may
+      access by grabbing up your butt. &lt;p&gt; In yesterday's
+      installment, Sean hooked up with &lt;a
+      href="http://www.altjapan.com/en/welcome.htm"&gt;Matt
+      Alt&lt;/a&gt; and Hiroko Yoda, &lt;a
+      href="http://altjapan.typepad.com/my_weblog/2008/05/theyre-here-the.html"&gt;authors&lt;/a&gt;
+      of the &lt;a
+      href="http://www.boingboing.net/2008/10/08/japanese-monsters-an.html"&gt;previosly-boinged&lt;/a&gt;
+      book &lt;em&gt;&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/4770030703/boingboing06-20/"&gt;Yokai
+      Attack: The Japanese Monster Survival
+      Guide&lt;/a&gt;&lt;/em&gt;, and the quest began. But the team
+      vanished mysteriously, and we haven't been able to reach Sean
+      for a week. &lt;p&gt;Today, he reappears, with proof that he
+      has touched the mummified hand of the cucumber-loving
+      amphibious prankster. He also brings us irrefutable proof
+      that some of Japan's greatest manga artists found a source of
+      inspiration in Kappa art. Also on the streets of Tokyo, just
+      outside the shrine, BBtv's yokai squad discovered MONSTER
+      KITTEH. &lt;p&gt;&lt;a
+      href="http://flickr.com/photos/seanbonner/sets/72157608203187968/"&gt;Here
+      are some photos&lt;/a&gt; from Sean&lt;/em&gt;.
+      &lt;p&gt;Previously: &lt;a
+      href="http://tv.boingboing.net/2008/10/30/hunting-for-the-kapp.html"&gt;Hunting
+      for the Kappa Monster in Tokyo, part 1&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a
+      href="http://analytics.episodic.com/download/e400/f20/kappa-monster-part-2.mp4"&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/kappahand.jpg"
+      width="480" align="left" border="0" /&gt;&lt;/a&gt;&lt;br
+      clear="all" /&gt;&lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=d8b8aca5f4aa5071ae7ec37885f336c8"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=d8b8aca5f4aa5071ae7ec37885f336c8"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=d8b8aca5f4aa5071ae7ec37885f336c8"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/438177814"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/438177815/kappa-monster-part-2.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>BBtv's monster hunters Sean, Hiroko and Matt
+      continue their quest for the mythical Kappa creature in
+      Tokyo.</itunes:subtitle>
+      <itunes:summary>BBtv's monster hunters Sean, Hiroko and Matt
+      continue their quest for the mythical Kappa creature in
+      Tokyo.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/438177815/kappa-monster-part-2.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e400/f20/kappa-monster-part-2.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Hunting for the Kappa Monster in Tokyo, part 1</title>
+      <link>
+      http://tv.boingboing.net/2008/10/30/hunting-for-the-kapp.html</link>
+      <category>funny</category>
+      <category>japan</category>
+      <category>monsters</category>
+      <category>mystery</category>
+      <category>scary</category>
+      <category>scifi</category>
+      <category>weird</category>
+      <category>world</category>
+      <pubDate>Thu, 30 Oct 2008 12:55:57 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/30/hunting-for-the-kapp.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F396%2F10%2Fconfig.xml&amp;dbg=false&amp;770073200"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F396%2F10%2Fconfig.xml&amp;dbg=false&amp;770073200"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F396%2F10%2Fconfig.xml&amp;dbg=false&amp;770073200"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/30/hunting-for-the-kapp.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e396/f20/bbtvs-sean-bonner-reveals-the-secret-of-the-kappa-monster-.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Oh, man, this is weird.
+      How do we explain this? So, the &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing tv&lt;/a&gt;
+      team planned a series of episodes about Japanese monsters for
+      Halloween, and for this purpose, we sent &lt;a
+      href="http://www.seanbonner.com"&gt;Sean Bonner&lt;/a&gt; to
+      Tokyo, armed with a video camera. The plan was: meet up with
+      &lt;a href="http://www.altjapan.com/en/welcome.htm"&gt;Matt
+      Alt&lt;/a&gt; and Hiroko Yoda, &lt;a
+      href="http://altjapan.typepad.com/my_weblog/2008/05/theyre-here-the.html"&gt;authors&lt;/a&gt;
+      of the &lt;a
+      href="http://www.boingboing.net/2008/10/08/japanese-monsters-an.html"&gt;previously-boinged&lt;/a&gt;
+      book &lt;em&gt;&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/4770030703/boingboing06-20/"&gt;Yokai
+      Attack: The Japanese Monster Survival Guide&lt;/a&gt;&lt;span
+      style="font-style: normal;"&gt;, and hunt down the truth
+      about mythical monstrous creatures from Japanese
+      folklore.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;We'd
+      planned to start our Japanese monster series with a hunt for
+      the &lt;a
+      href="http://en.wikipedia.org/wiki/Gataro"&gt;Kappa&lt;/a&gt;,
+      a water-dwelling, ninja-turtle-like, child-sized creature who
+      is fond of cucumbers and human colon meat (I'm not making
+      this up). Legend says the Kappa will reach into your butt to
+      eat your colon, which is grosstastically awesome.&lt;/p&gt;
+      &lt;p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/kappa.jpg"
+      width="506" align="left" border="0" /&gt;&lt;br clear="all"
+      /&gt;&lt;/p&gt; &lt;p&gt;Anyway -- Sean made it to Tokyo, and
+      shot evidence of the Kappa on Japan's urban streets (signs,
+      blow-up Kappa dolls, stickers). But then, suddenly, the raw
+      footage he was FTPing to us nightly just STOPPED. Bam. Just
+      like that. And with it, all evidence we had of Sean's
+      whereabouts and well-being.&lt;/p&gt; &lt;p&gt;Today's BBtv
+      episode is part one of what we hope will be a two-part series
+      on Kappa Hunting in Tokyo. IF HE SURVIVED. Sean, I hope you
+      were armed with cucumbers, because the alternative is too
+      horrible to imagine.&lt;/p&gt; &lt;p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/kappasean.jpg"
+      width="480" align="left" border="0" /&gt;&lt;br clear="all"
+      /&gt;&lt;/p&gt; &lt;p&gt; Previously on Boing
+      Boing:&lt;br&gt; &lt;a
+      href="http://www.boingboing.net/2008/10/08/japanese-monsters-an.html"&gt;Japanese
+      monsters, and how to survive their wrath: YOKAI
+      ATTACK&lt;/a&gt;&lt;br style="clear: both;"/&gt; &lt;img
+      alt="" style="border: 0; height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=05af5f88800f70819e67c715a6d2764c"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=05af5f88800f70819e67c715a6d2764c"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/437122240"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/437122242/bbtvs-sean-bonner-reveals-the-secret-of-the-kappa-monster-.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>BBtv's monster-hunting correspondent Sean
+      Bonner travels to Tokyo to search for the elusive Kappa
+      monster, with monster experts Matt Alt and Hiroko Yoda,
+      authors of the monster survival guide "YOKAI
+      ATTACK."</itunes:subtitle>
+      <itunes:summary>BBtv's monster-hunting correspondent Sean
+      Bonner travels to Tokyo to search for the elusive Kappa
+      monster, with monster experts Matt Alt and Hiroko Yoda,
+      authors of the monster survival guide "YOKAI
+      ATTACK."</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/437122242/bbtvs-sean-bonner-reveals-the-secret-of-the-kappa-monster-.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e396/f20/bbtvs-sean-bonner-reveals-the-secret-of-the-kappa-monster-.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>John Hodgman in BBtv's SPAMasterpiece Theater, Vol
+      III: THE STOMATOLOGIST.</title>
+      <link>
+      http://tv.boingboing.net/2008/10/28/john-hodgman-in-bbtv-2.html</link>
+      <category>SPAMasterpiece Theater</category>
+      <category>books</category>
+      <category>funny</category>
+      <category>john hodgman</category>
+      <category>spam</category>
+      <category>spam theater</category>
+      <category>weird</category>
+      <pubDate>Tue, 28 Oct 2008 13:37:31 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/28/john-hodgman-in-bbtv-2.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F344%2F10%2Fconfig.xml&amp;dbg=false&amp;898593061"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F344%2F10%2Fconfig.xml&amp;dbg=false&amp;898593061"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F344%2F10%2Fconfig.xml&amp;dbg=false&amp;898593061"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/28/john-hodgman-in-bbtv-2.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e344/f20/spamasterpiece-theater-with-john-hodgman-part-iii.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Today on &lt;a
+      href="http://tv.boingboing.net"&gt;Boing Boing tv&lt;/a&gt;,
+      we reprise our ongoing SPAMasterpiece Theater series,
+      featuring author, PC, and minor television personality &lt;a
+      href="http://areasofmyexpertise.blogspot.com/"&gt;John
+      Hodgman&lt;/a&gt;, whose new book, &lt;em&gt;&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/0525950346/boingboing06-20/"&gt;MORE
+      INFORMATION THAN YOU REQUIRE&lt;/a&gt;&lt;/em&gt;, has just
+      been released. &lt;p&gt;Hodgman himself describes this series
+      as the dramatization of "true tale[s] of romance, adventure,
+      infamy, and low-cost prescription drugs, all culled from the
+      reams of actual, unsolicited emails, received here by us and
+      people like you -- what we call SPAM."&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Today's installment&lt;/strong&gt;:
+      &lt;em&gt;The Stomatologist&lt;/em&gt;, in which we answer a
+      lovelorn Russian woman's age-old question, "Why I cannot find
+      my special the man?"&lt;/p&gt; &lt;p&gt;A note from our
+      musical director: The adaptation of &lt;a
+      href="http://en.wikipedia.org/wiki/Jean-Joseph_Mouret"&gt;Jean-Joseph
+      Mouret&lt;/a&gt;'s "Rondeau: Fanfare" (1735) which opens
+      today's episode was remixed &lt;em&gt;in flagrante
+      8-bit&lt;/em&gt; by Hamhocks Buttermilk Johnson.&lt;/p&gt;
+      &lt;p&gt; Also: a special and hearty thanks to the talented
+      and generous Ehrich Blackhound (&lt;a
+      href="http://boingboing.net/2008/08/04/unfulfilled-space-fu.html"&gt;previously
+      boinged here&lt;/a&gt;) for creating our new,
+      typographically-correct opening slates for this parody
+      series. &lt;p&gt;Previously on Boing Boing tv:&lt;br /&gt; *
+      &lt;a
+      href="http://tv.boingboing.net/2008/10/01/john-hodgman-in-bbtv.html"&gt;SPAMasterpiece
+      Theater, Vol. I&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/10/john-hodgman-in-bbtv-1.html"&gt;SPAMasterpiece
+      Theater, Vol. II&lt;/a&gt;&lt;/p&gt; &lt;br style="clear:
+      both;"/&gt; &lt;img alt="" style="border: 0; height:1px;
+      width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=3fb324f328e2c5aab26f275214e9ccf5"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=3fb324f328e2c5aab26f275214e9ccf5"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/435023933"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/435023934/spamasterpiece-theater-with-john-hodgman-part-iii.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>John Hodgman returns for another installment
+      of SPAMasterpiece Theater, in which real live spam emails are
+      dramata-magically brought to life.</itunes:subtitle>
+      <itunes:summary>John Hodgman returns for another installment
+      of SPAMasterpiece Theater, in which real live spam emails are
+      dramata-magically brought to life.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/435023934/spamasterpiece-theater-with-john-hodgman-part-iii.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e344/f20/spamasterpiece-theater-with-john-hodgman-part-iii.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>A Song For The New Depression: "Mom and Pop Killer,"
+      by The Grouch. (music video)</title>
+      <link>
+      http://tv.boingboing.net/2008/10/23/a-song-for-the-new-d.html</link>
+      <category>music</category>
+      <pubDate>Thu, 23 Oct 2008 11:19:39 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/23/a-song-for-the-new-d.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F331%2F10%2Fconfig.xml&amp;dbg=false&amp;586391399"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F331%2F10%2Fconfig.xml&amp;dbg=false&amp;586391399"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F331%2F10%2Fconfig.xml&amp;dbg=false&amp;586391399"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/23/a-song-for-the-new-d.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e331/f20/the-grouch---mom-and-pop-killer.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Today on Boing Boing tv,
+      a music video about life and death in the New Depression: Mom
+      and Pop Killer, by Bay Area "intelligent hip-hop" artist
+      &lt;a href="http://www.therealgrouch.com/"&gt;The
+      Grouch&lt;/a&gt;. &lt;em&gt;(Special thanks to director Isaac
+      Klotz.)&lt;/em&gt;&lt;br style="clear: both;"/&gt; &lt;img
+      alt="" style="border: 0; height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=eee9e84f944e27c072a117635ad06c73"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=eee9e84f944e27c072a117635ad06c73"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/429752198"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/429752199/the-grouch---mom-and-pop-killer.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Wall Street greed and depression economics
+      in a music video for The Grouch's "intelligent hiphop"
+      single, "Mom and Pop Killer."</itunes:subtitle>
+      <itunes:summary>Wall Street greed and depression economics in
+      a music video for The Grouch's "intelligent hiphop" single,
+      "Mom and Pop Killer."</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/429752199/the-grouch---mom-and-pop-killer.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e331/f20/the-grouch---mom-and-pop-killer.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>(BBtv) John Hodgman: More Information Than You
+      Require. This is not a book trailer, part 2.</title>
+      <link>
+      http://tv.boingboing.net/2008/10/21/bbtv-john-hodgman-mo.html</link>
+      <category>books</category>
+      <category>funny</category>
+      <category>john hodgman</category>
+      <category>weird</category>
+      <category>xeni jardin</category>
+      <pubDate>Tue, 21 Oct 2008 12:10:47 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/21/bbtv-john-hodgman-mo.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F320%2F10%2Fconfig.xml&amp;dbg=false&amp;188905868"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F320%2F10%2Fconfig.xml&amp;dbg=false&amp;188905868"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F320%2F10%2Fconfig.xml&amp;dbg=false&amp;188905868"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/21/bbtv-john-hodgman-mo.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e320/f20/hodgman-book-trailer-ep02.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Author, minor television
+      personality, and &lt;a
+      href="http://www.boingboing.net/2008/10/20/good-evening.html"&gt;Boing
+      Boing guestblogger&lt;/a&gt; &lt;a
+      href="http://areasofmyexpertise.com/"&gt;John
+      Hodgman&lt;/a&gt; returns to BBtv for more heretofore
+      unrevealed spoilers from his large new book of fake
+      knowledge, &lt;em&gt;&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/0525950346/boingboing06-20/"&gt;MORE
+      INFORMATION THAN YOU REQUIRE&lt;/a&gt;&lt;/em&gt;.&lt;p&gt;
+      In today's episode, we answer questions posed by Boing Boing
+      tv fans via The Twitter, including one from &lt;a
+      href="http://www.techsploitation.com/"&gt;Annalee
+      Newitz&lt;/a&gt; of &lt;a href="http://io9.com/"&gt;i09
+      blog&lt;/a&gt; which pertains to the subject of nude
+      self-portraits. You really should watch this episode all the
+      way to the end.&lt;p&gt; &lt;a
+      href="http://tv.boingboing.net/john-hodgman/"&gt;Here are
+      previous Boing Boing tv episodes&lt;/a&gt; featuring Mr.
+      Hodgman.&lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=cbcd04a279f73f36b574e48276b07b43"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=cbcd04a279f73f36b574e48276b07b43"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=cbcd04a279f73f36b574e48276b07b43"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/427683810"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/427683813/hodgman-book-trailer-ep02.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>John Hodgman, author and minor television
+      personality, returns for more secrets from his new book MORE
+      INFORMATION THAN YOU REQUIRE.</itunes:subtitle>
+      <itunes:summary>John Hodgman, author and minor television
+      personality, returns for more secrets from his new book MORE
+      INFORMATION THAN YOU REQUIRE.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/427683813/hodgman-book-trailer-ep02.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e320/f20/hodgman-book-trailer-ep02.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Nostalgia 77 Octet's beatnik "jazz jihad," interview
+      with Russell Porter (music)</title>
+      <link>
+      http://tv.boingboing.net/2008/10/20/nostalgia-77-octets.html</link>
+      <category>Nostalgia 77</category>
+      <category>UK</category>
+      <category>music</category>
+      <category>russell porter</category>
+      <pubDate>Mon, 20 Oct 2008 13:16:46 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/20/nostalgia-77-octets.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F306%2F10%2Fconfig.xml&amp;dbg=false&amp;276032047"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F306%2F10%2Fconfig.xml&amp;dbg=false&amp;276032047"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F306%2F10%2Fconfig.xml&amp;dbg=false&amp;276032047"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/20/nostalgia-77-octets.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e306/f20/nostalgia-77-octets-beatnik-jazz-jihad-russell-porter-intvu-music.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;&lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt;'s UK-based music correspondent Russell Porter
+      speaks with Ben Lamdin, founder of the nine-piece, alt-jazz
+      ensemble &lt;a href="http://www.nostalgia77.com"&gt;Nostalgia
+      77 Octet&lt;/a&gt; (&lt;a
+      href="http://www.myspace.com/nostalgia77"&gt;MySpace&lt;/a&gt;).
+      Here's how &lt;a
+      href="http://www.amazon.com/s?ie=UTF8&amp;keywords=Nostalgia%2077&amp;index=music-artist&amp;page=1"&gt;one
+      reviewer described&lt;/a&gt; their music: &lt;blockquoTE&gt;
+      Imagine Breakstra hanging with Cinematic Orchestra, or DJ
+      Shadow teaming up with Elvin Jones and you're close to the
+      sound of Nostalgia 77. A dark and stormy clash of breaks n'
+      beats, moody bass lines, and cosmic jazz. Also includes the
+      heavyweight cover of The White Stripes' "7 Nation Army". Hard
+      to resist whether you're a hip-hop head, music lover, or jazz
+      freak. For fans of Bonobo, Quantic, Cinematic Orchestra,
+      Radio Citizen, Portishead, Polar Bear, Poets Of Rhythm, and
+      Sleepwalker.&lt;/blockquoTE&gt;&lt;br style="clear:
+      both;"/&gt; &lt;img alt="" style="border: 0; height:1px;
+      width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=c6399d239927cd5b82b286aebe6be727"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=c6399d239927cd5b82b286aebe6be727"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/426624917"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/426624919/nostalgia-77-octets-beatnik-jazz-jihad-russell-porter-intvu-music.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>BBtv's UK-based music reporter Russell
+      Porter interviews Nostalgia 77 Octet founder Ben Lamdin,
+      about the 9-man ensemble's moody, breakbeat-influenced alt
+      jazz.</itunes:subtitle>
+      <itunes:summary>BBtv's UK-based music reporter Russell Porter
+      interviews Nostalgia 77 Octet founder Ben Lamdin, about the
+      9-man ensemble's moody, breakbeat-influenced alt
+      jazz.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/426624919/nostalgia-77-octets-beatnik-jazz-jihad-russell-porter-intvu-music.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e306/f20/nostalgia-77-octets-beatnik-jazz-jihad-russell-porter-intvu-music.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>"Hazy Day," Subatomic Nixons: animation from Bill
+      Barminski (music video)</title>
+      <link>
+      http://tv.boingboing.net/2008/10/17/hazy-day-subatomic-n.html</link>
+      <category>Bill Barminski</category>
+      <category>animation</category>
+      <category>art</category>
+      <category>cryptozoology</category>
+      <category>music</category>
+      <category>weird</category>
+      <pubDate>Fri, 17 Oct 2008 13:47:49 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/17/hazy-day-subatomic-n.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F302%2F10%2Fconfig.xml&amp;dbg=false&amp;156741771"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F302%2F10%2Fconfig.xml&amp;dbg=false&amp;156741771"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F302%2F10%2Fconfig.xml&amp;dbg=false&amp;156741771"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/17/hazy-day-subatomic-n.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e302/f20/bbtv-hazy-day-an-animated-short-by-bill-barminski.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Butterflies, wah-wah
+      pedals, and one-eyed yeti, ahoy! The &lt;a
+      href="http://tv.boingboing.net"&gt;Boing Boing tv&lt;/a&gt;
+      crew is proud to return to the work of one of our favorite
+      multi-media savants, Bill Barminski of &lt;a
+      href="http://www.walterrobot.com/"&gt;Walter Robot
+      Studios&lt;/a&gt;. The filmmaker, composer, illustrator and
+      animator shares this new video work, a hypnotic flight of
+      fancy for his music project, the Subatomic Nixons. Enjoy the
+      "Hazy Day," and happy weekend, everyone. Special thanks to
+      Barminski and Christopher Louie, and all of the &lt;a
+      href="http://www.walterrobot.com/"&gt;Walter Robot&lt;/a&gt;
+      team. Here are &lt;a
+      href="http://tv.boingboing.net/bill-barminski/"&gt;previous
+      BBtv episodes featuring their work&lt;/a&gt;. &lt;br
+      style="clear: both;"/&gt; &lt;img alt="" style="border: 0;
+      height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=9bff57facf8db7463b3c2cbf0884435d"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=9bff57facf8db7463b3c2cbf0884435d"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/423923011"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/423923012/bbtv-hazy-day-an-animated-short-by-bill-barminski.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>"Hazy Day," an ethereal flight of fancy by
+      Bill Barminski and Walter Robot Studios. This is an animated
+      music video for the Subatomic Nixons.</itunes:subtitle>
+      <itunes:summary>"Hazy Day," an ethereal flight of fancy by
+      Bill Barminski and Walter Robot Studios. This is an animated
+      music video for the Subatomic Nixons.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/423923012/bbtv-hazy-day-an-animated-short-by-bill-barminski.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e302/f20/bbtv-hazy-day-an-animated-short-by-bill-barminski.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Boing Boing tv: Cafe Tacvba -- Interview and
+      Performance (Music)</title>
+      <link>
+      http://tv.boingboing.net/2008/10/15/boing-boing-tv-cafe.html</link>
+      <category>Outside Lands</category>
+      <category>San Francisco</category>
+      <category>mexico</category>
+      <category>music</category>
+      <category>russell porter</category>
+      <pubDate>Wed, 15 Oct 2008 13:33:14 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/15/boing-boing-tv-cafe.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F300%2F10%2Fconfig.xml&amp;dbg=false&amp;756382033"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F300%2F10%2Fconfig.xml&amp;dbg=false&amp;756382033"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F300%2F10%2Fconfig.xml&amp;dbg=false&amp;756382033"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="always" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/15/boing-boing-tv-cafe.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e300/f20/cafe-tacvba-mexicos-indie-stars-russell-porter-interview-music.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt; &lt;a
+      href="http://www.cafetacuba.com.mx/"&gt;Caf&#195;&#169;
+      Tacvba&lt;/a&gt; (&lt;a
+      href="http://www.myspace.com/cafetacvba"&gt;MySpace&lt;/a&gt;,
+      &lt;a
+      href="http://en.wikipedia.org/wiki/Caf%C3%A9_Tacuba"&gt;Wikipedia&lt;/a&gt;)
+      are one of the most, if not &lt;i&gt;the most&lt;/i&gt;,
+      imaginative and recklessly experimental indie rock bands ever
+      to come out of Latin America. They formed in &lt;a
+      href="http://en.wikipedia.org/wiki/Naucalpan"&gt;near Mexico
+      City&lt;/a&gt; in the late '80s, and have been happily
+      mutating ever since. I'm always kind of surprised when
+      non-Spanish-speaking American friends don't know who they are
+      -- they're sort of like the Radiohead of Mexico. Anyway,
+      &lt;a href="http://tv.boingboing.net"&gt;Boing Boing
+      tv&lt;/a&gt; caught up with the tacubos backstage after their
+      set at the Outside Lands festival, and our UK-based music
+      correspondent &lt;a
+      href="http://tv.boingboing.net/russell-porter/"&gt;Russell
+      Porter&lt;/a&gt; asked them important questions about their
+      excellent shoes, and why lots of ladies run screaming to
+      stage-rush them during shows (Answer: because they're
+      awesome). &lt;p&gt; &lt;hr&gt; &lt;p&gt;
+      &lt;strong&gt;Sponsor Note&lt;/strong&gt;: This episode, and
+      other BBtv music features this month, are sponsored by the
+      &lt;a href="http://www.crowdfire.net/"&gt;Crowdfire&lt;/a&gt;
+      live music social media project. You can find images, video,
+      and audio about the band featured in today's show at
+      Crowdfire -- &lt;a
+      href="http://www.crowdfire.net/media/search?search_query=cafe+tacvba&amp;siteSearchGo.x=0&amp;siteSearchGo.y=0&amp;siteSearchGo=Go"&gt;here's
+      the search link&lt;/a&gt; for fan-uploads related to
+      Caf&#195;&#169; Tacvba.&lt;/p&gt; &lt;p&gt;
+      &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Related Boing Boing tv
+      episodes from Outside Lands:&lt;/strong&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/07/roots-reggae-legends.html"&gt;Roots
+      Reggae Legends Toots and the Maytals (music)&lt;/a&gt;
+      &lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/03/broken-social-scene.html"&gt;Broken
+      Social Scene: interview and live performance
+      (music)&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/30/galactics-modern-new.html"&gt;Galactic's
+      "Modern New Orleans Funk" with Xeni and Russell
+      (music)&lt;br&gt;&lt;/a&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/25/interview-with-cold.html"&gt;Interview
+      with Cold War Kids frontman Nathan Willett
+      (music)&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/23/andy-gould-rock-band.html"&gt;Andy
+      Gould, rock band manager, dances on the labels'
+      graves.&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/18/primus-xeni-intervie.html"&gt;Primus:
+      Xeni interviews Les and Ler (music)&lt;/a&gt;&lt;br&gt; *
+      &lt;a
+      href="http://tv.boingboing.net/2008/09/17/kaki-king-guitar-her.html"&gt;Kaki
+      King, guitar hero: performance, interview with Xeni
+      (music)&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/12/bb-gadgets-joel-at-o.html"&gt;BB
+      Gadgets' Joel at Outside Lands: Crowdfire
+      deconstructed&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/04/carney-at-outside-la.html"&gt;Carney
+      at Outside Lands - a "Boing Boing tv Bus Session."
+      (music)&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/08/25/russell-interviews-s.html"&gt;Steel
+      Pulse founder David Hinds at Outside Lands
+      (music)&lt;/a&gt;&lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/08/22/boing-boing-tv-at-ou.html"&gt;Boing
+      Boing tv backstage at Outside Lands: (Xeni + Russell
+      Porter)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;(Special
+      thanks to Wayneco for the magic bus, and to &lt;a
+      href="http://virginamerica.com"&gt;Virgin America&lt;/a&gt;
+      for air travel.)&lt;/em&gt;&lt;br style="clear: both;"/&gt;
+      &lt;img alt="" style="border: 0; height:1px; width:1px;"
+      border="0"
+      src="http://www.pheedo.com/img.phdo?i=6b4ae3082425adec04a71a36a31bdc0b"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=6b4ae3082425adec04a71a36a31bdc0b"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/421803937"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/421803938/cafe-tacvba-mexicos-indie-stars-russell-porter-interview-music.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Mexican indie rockers Cafe Tacvba chat with
+      BBtv's UK-based music correspondent Russell Porter backstage
+      at the Outside Lands music festival.</itunes:subtitle>
+      <itunes:summary>Mexican indie rockers Cafe Tacvba chat with
+      BBtv's UK-based music correspondent Russell Porter backstage
+      at the Outside Lands music festival.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/421803938/cafe-tacvba-mexicos-indie-stars-russell-porter-interview-music.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e300/f20/cafe-tacvba-mexicos-indie-stars-russell-porter-interview-music.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>John Hodgman: More Information Than You Require. This
+      is not a book trailer.</title>
+      <link>
+      http://tv.boingboing.net/2008/10/14/john-hodgman-more-in-1.html</link>
+      <category>books</category>
+      <category>funny</category>
+      <category>john hodgman</category>
+      <category>parody</category>
+      <category>weird</category>
+      <category>xeni jardin</category>
+      <pubDate>Tue, 14 Oct 2008 12:21:53 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/14/john-hodgman-more-in-1.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F296%2F10%2Fconfig.xml&amp;amp;dbg=false&amp;amp;742898476"
+      type="application/x-shockwave-flash"&gt; &lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F296%2F10%2Fconfig.xml&amp;amp;dbg=false&amp;amp;742898476"
+      /&gt; &lt;param name="AllowScriptAccess" value="always" /&gt;
+      &lt;param name="allowfullscreen" value="true" /&gt; &lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F296%2F10%2Fconfig.xml&amp;amp;dbg=false&amp;amp;742898476"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      allowscriptaccess="true" width="480" height="390"
+      id="ep_player" name="ep_player" /&gt;
+      &lt;/object&gt;&lt;/p&gt; &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/14/john-hodgman-more-in-1.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e296/f20/hodgman-trailer.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt; &lt;a
+      href="http://areasofmyexpertise.blogspot.com/"&gt;John
+      Hodgman&lt;/a&gt;'s new book &lt;em&gt;&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/0525950346/boingboing06-20/"&gt;MORE
+      INFORMATION THAN YOU REQUIRE&lt;/a&gt;&lt;/em&gt; hits the
+      streets on October 21, but by no means is today's episode of
+      &lt;a href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt; any sort of, oh, how do the marketing people say
+      it -- it's not a book trailer, and it is by no means a
+      promotional vehicle for said book. &lt;p&gt;No, we just
+      noticed the star of &lt;a
+      href="http://www.apple.com/getamac/ads/"&gt;Apple
+      ads&lt;/a&gt; and &lt;a
+      href="http://www.thedailyshow.com/video/index.jhtml?videoId=25291&amp;amp;title=john-hodgman"&gt;Daily
+      Show hijinks&lt;/a&gt; wandering aimlessly in the streets
+      outside the BBtv studio this week. We invited him in for
+      scotch and cocoa, and shared questions posed to him by BBtv
+      viewers through the popular internet messaging website known
+      as "&lt;a href="http://twitter.com/xenijardin"&gt;The
+      Twitter&lt;/a&gt;."&lt;br /&gt;&lt;/p&gt; &lt;p&gt;We don't
+      know how all those books managed to stack themselves from
+      studio floor to ceiling. We are not holding those books in
+      front of our faces in the first 10 seconds of this episode so
+      that you might see the cover -- we're doing low-impact
+      pilates.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;HEY LOOK, IT'S A
+      CONTEST&lt;/strong&gt;: If you would like to receive a
+      Hodgmanically autographed copy of the book for which this
+      episode is not a promotional trailer, reply to &lt;a
+      href="http://twitter.com/xenijardin"&gt;@xenijardin&lt;/a&gt;
+      on &lt;a href="http://twitter.com/"&gt;The Twitter&lt;/a&gt;
+      with the answer to this question:&lt;/p&gt;
+      &lt;blockquote&gt; What area of expertise does Hodgman credit
+      Boing Boing tv for on page 592 of this excellent book?"
+      &lt;/blockquote&gt;We will select a winner randomly. Friends,
+      spouses, love-slaves, and business partners of Boing Boing
+      and Boing Boing tv are not eligible. &lt;em&gt;(Serious face:
+      this episode isn't an ad, we're just ridiculously hardcore
+      fans of Hodgman. Watch our trufan-trailer here, then,
+      seriously, go &lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/0525949089/boingboing06-20/"&gt;&lt;em&gt;buy
+      the book&lt;/em&gt;&lt;/a&gt;).&lt;/em&gt; &lt;p&gt;
+      &lt;p&gt; Previously on Boing Boing tv: &lt;p&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/10/john-hodgman-in-bbtv-1.html"&gt;John
+      Hodgman in BBtv's SPAMasterpiece Theater, Vol II: "Wuthering
+      Wire Transfers."&lt;/a&gt; &lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/01/john-hodgman-in-bbtv.html"&gt;John
+      Hodgman in BBtv's SPAMasterpiece Theater.&lt;/a&gt;
+      &lt;br&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/08/john-hodgman-more-in.html"&gt;John
+      Hodgman: More Information Than You Require.&lt;/a&gt;&lt;br
+      style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=9e2ab738e3fc2e08210926bc26d3268d"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=9e2ab738e3fc2e08210926bc26d3268d"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=9e2ab738e3fc2e08210926bc26d3268d"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/420691506"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/420691507/hodgman-trailer.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>This is not a trailer for John Hodgman's new
+      book, MORE INFORMATION THAN YOU REQUIRE. No, definitely
+      not.</itunes:subtitle>
+      <itunes:summary>This is not a trailer for John Hodgman's new
+      book, MORE INFORMATION THAN YOU REQUIRE. No, definitely
+      not.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/420691507/hodgman-trailer.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e296/f20/hodgman-trailer.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Adele's "heartbroken soul": interview with Russell
+      Porter (music)</title>
+      <link>
+      http://tv.boingboing.net/2008/10/13/adeles-heartbroken-s.html</link>
+      <category>Adele</category>
+      <category>London</category>
+      <category>UK</category>
+      <category>music</category>
+      <category>porter report</category>
+      <category>russell porter</category>
+      <pubDate>Mon, 13 Oct 2008 17:22:16 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/13/adeles-heartbroken-s.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F268%2F10%2Fconfig.xml&amp;dbg=false&amp;919561599"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F268%2F10%2Fconfig.xml&amp;dbg=false&amp;919561599"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F268%2F10%2Fconfig.xml&amp;dbg=false&amp;919561599"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="true" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/13/adeles-heartbroken-s.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e268/f20/russell-porter-interviews-british-jazz-artist-adele-music.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;In today's episode of
+      Boing Boing tv, our UK-based music correspondent &lt;a
+      href="http://tv.boingboing.net/russell-porter/"&gt;Russell
+      Porter&lt;/a&gt; interviews &lt;a
+      href="http://www.myspace.com/adelelondon"&gt;Adele&lt;/a&gt;,
+      who describes her sound as "heartbroken soul." Adele's new
+      album "&lt;a
+      href="http://en.wikipedia.org/wiki/19_(Adele_album)"&gt;19&lt;/a&gt;"
+      was nominated for a Mercury Prize (think: Grammys, sort of,
+      for the UK), and Russell caught up with her at the awards
+      show backstage. &lt;a
+      href="http://www.myspace.cohttp://mt.boingboing.net/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=entry&amp;blog_id=4m/adelelondon"&gt;Adele&lt;/a&gt;
+      will be the musical guest on the October 18 edition of
+      Saturday Night Live! The video for her song "Chasing
+      Pavement" excerpted in today's BBtv was directed by &lt;a
+      href="http://www.motiontheory.com/director/mathew-cullen"&gt;Matthew
+      Cullen&lt;/a&gt;.&lt;br style="clear: both;"/&gt; &lt;img
+      alt="" style="border: 0; height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=3947bbeebe50bd0ed041b6d0aac0eea2"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=3947bbeebe50bd0ed041b6d0aac0eea2"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/419911723"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/419911724/russell-porter-interviews-british-jazz-artist-adele-music.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>BBtv's UK music correspondent Russel Porter
+      interviews British "heartbroken soul" singer
+      Adele.</itunes:subtitle>
+      <itunes:summary>BBtv's UK music correspondent Russel Porter
+      interviews British "heartbroken soul" singer
+      Adele.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/419911724/russell-porter-interviews-british-jazz-artist-adele-music.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e268/f20/russell-porter-interviews-british-jazz-artist-adele-music.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>John Hodgman in BBtv's SPAMasterpiece Theater, Vol II:
+      "Wuthering Wire Transfers."</title>
+      <link>
+      http://tv.boingboing.net/2008/10/10/john-hodgman-in-bbtv-1.html</link>
+      <category>SPAMasterpiece Theater</category>
+      <category>comics</category>
+      <category>funny</category>
+      <category>john hodgman</category>
+      <category>spam</category>
+      <category>spam theater</category>
+      <category>weird</category>
+      <pubDate>Fri, 10 Oct 2008 12:34:20 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/10/john-hodgman-in-bbtv-1.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F258%2F10%2Fconfig.xml&amp;dbg=false&amp;427305540"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F258%2F10%2Fconfig.xml&amp;dbg=false&amp;427305540"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F258%2F10%2Fconfig.xml&amp;dbg=false&amp;427305540"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="true" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/10/john-hodgman-in-bbtv-1.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e258/f20/john-hodgman-in-spamasterpiece-theater-vol--2-comedy.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Today on &lt;a
+      href="http://tv.boingboing.net"&gt;Boing Boing tv&lt;/a&gt;,
+      we continue our SPAMasterpiece Theater series, featuring
+      author, PC, and minor television personality &lt;a
+      href="http://areasofmyexpertise.blogspot.com/"&gt;John
+      Hodgman&lt;/a&gt;, whose new book, &lt;em&gt;&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/0525950346/boingboing06-20/"&gt;MORE
+      INFORMATION THAN YOU REQUIRE&lt;/a&gt;&lt;/em&gt; launches
+      next week. &lt;p&gt;Hodgman himself describes this series as
+      the dramatization of "true tale[s] of romance, adventure,
+      infamy, and low-cost prescription drugs, all culled from the
+      reams of actual, unsolicited emails, received here by us and
+      people like you -- what we call SPAM."&lt;/p&gt; &lt;p&gt;
+      &lt;strong&gt;Today's installment&lt;/strong&gt;: Barrister
+      Abbey and Diana Khan in "Wuthering Wire Transfers," a
+      tempting tale of financial transactions and naked lust that
+      requires your soonest response.&lt;p&gt; &lt;p&gt; A note
+      from our musical director: The adaptation of &lt;a
+      href="http://en.wikipedia.org/wiki/Jean-Joseph_Mouret"&gt;Jean-Joseph
+      Mouret&lt;/a&gt;'s "Rondeau: Fanfare" (1735) which opens
+      today's episode was remixed &lt;em&gt;in flagrante
+      8-bit&lt;/em&gt; by Hamhocks Buttermilk Johnson.&lt;P&gt; *
+      Previously on Boing Boing tv: &lt;a
+      href="http://tv.boingboing.net/2008/10/01/john-hodgman-in-bbtv.html"&gt;SPAMasterpiece
+      Theater, Vol. I&lt;/a&gt;&lt;br style="clear: both;"/&gt;
+      &lt;img alt="" style="border: 0; height:1px; width:1px;"
+      border="0"
+      src="http://www.pheedo.com/img.phdo?i=8d445c0d5a8070289f780c72a27f927f"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=8d445c0d5a8070289f780c72a27f927f"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/416964417"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/416964418/john-hodgman-in-spamasterpiece-theater-vol--2-comedy.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>John Hodgman in BBtv's SPAMasterpiece
+      Theater, vol. II: Barrister Abbey and Diana Khan in
+      "Wuthering Wire Transfers."</itunes:subtitle>
+      <itunes:summary>John Hodgman in BBtv's SPAMasterpiece
+      Theater, vol. II: Barrister Abbey and Diana Khan in
+      "Wuthering Wire Transfers."</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/416964418/john-hodgman-in-spamasterpiece-theater-vol--2-comedy.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e258/f20/john-hodgman-in-spamasterpiece-theater-vol--2-comedy.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>BBtv WORLD: Roots of Voudun and Slavery's Legacy in
+      Ouidah (Africa)</title>
+      <link>
+      http://tv.boingboing.net/2008/10/09/bbtv-world-roots-of.html</link>
+      <category>Africa</category>
+      <category>BBtv World</category>
+      <category>animals</category>
+      <category>art</category>
+      <category>god</category>
+      <category>human rights</category>
+      <category>indigenous</category>
+      <category>religion</category>
+      <category>slavery</category>
+      <category>voodoo</category>
+      <category>world</category>
+      <category>xeni jardin</category>
+      <pubDate>Thu, 09 Oct 2008 14:24:56 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/09/bbtv-world-roots-of.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F257%2F10%2Fconfig.xml&amp;dbg=false&amp;605858447"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F257%2F10%2Fconfig.xml&amp;dbg=false&amp;605858447"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F257%2F10%2Fconfig.xml&amp;dbg=false&amp;605858447"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="true" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/09/bbtv-world-roots-of.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://cdn.episodic.com/shows/21/257/20/1000_289_998_290_999.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;Today's &lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing tv&lt;/a&gt;
+      is an installment of our ongoing &lt;a
+      href="http://tv.boingboing.net/bbtv-world/"&gt;BBtv
+      WORLD&lt;/a&gt; series, in which we bring you first-person
+      glimpses of life around the globe.&lt;p&gt; From the 17th to
+      19th centuries, millions of African people were
+      sold&#226;&#196;&#168; into slavery, transported on ships
+      &#226;&#196;&#168;to the Americas. With them came spiritual
+      traditions &#226;&#196;&#168;including Voudun, which we now
+      &#226;&#196;&#168;know as
+      &#226;&#196;&#250;voodoo.&#226;&#196;&#249;&#226;&#196;&#168;
+      Its roots are in the Dahomey kingdom &#226;&#196;&#168;on the
+      West Coast of Africa, now the country of Benin.
+      &lt;p&gt;&#226;&#196;&#168;In today&#226;&#196;&#244;s
+      episode, I &#226;&#196;&#168;travel to
+      Benin&#226;&#196;&#244;s port city of
+      Ouidah,&#226;&#196;&#168; one of the most important slave
+      trade ports, &#226;&#196;&#168;and a center of the Vodoun
+      religion.&lt;/p&gt; &lt;p&gt;We visit the Temple of Pythons
+      and learn about Voudun religious practices, and witness some
+      of the most important sites in the history of the slave
+      trade.&lt;/p&gt; &lt;p&gt;We walk along a beach that was the
+      single most highly-trafficked embarkation point for West
+      African slaves headed over the Atlantic to the Americas. One
+      million people were forced on to ships here, many transported
+      to Haiti and Brazil, where &lt;em&gt;Voudun&lt;/em&gt;
+      transmuted into voodoo and Candombl&#195;&#169;. &lt;p&gt;
+      Outsiders called this region the Slave Coast. Ouidah's
+      residents today call the former boarding platform on this
+      otherwise idyllic beach the Gate of No Return. &lt;em&gt;--
+      XJ&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/ouidah-serpent-xenijardin-0.jpg"
+      width="500" /&gt;&lt;br clear="all" /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/ouidah-serpent-xenijardin-1.jpg"
+      width="500" /&gt;&lt;br clear="all" /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/ouidah-serpent-xenijardin-2.jpg"
+      width="500" /&gt;&lt;br clear="all" /&gt; &lt;p&gt;
+      &lt;em&gt;(Photos: Xeni Jardin, &lt;a
+      href="http://creativecommons.org/licenses/by-nc/2.5/"&gt;CC
+      license&lt;/a&gt;)&lt;/em&gt;&lt;br style="clear: both;"/&gt;
+      &lt;img alt="" style="border: 0; height:1px; width:1px;"
+      border="0"
+      src="http://www.pheedo.com/img.phdo?i=00e09309422e4c522b6dddad2b07bcde"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=00e09309422e4c522b6dddad2b07bcde"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/416026562"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/416026564/1000_289_998_290_999.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>Xeni travels to Ouidah, the mythical home of
+      voodoo in West Africa, and the largest slave port through
+      which 1 million Africans were forced into
+      slavery.</itunes:subtitle>
+      <itunes:summary>Xeni travels to Ouidah, the mythical home of
+      voodoo in West Africa, and the largest slave port through
+      which 1 million Africans were forced into
+      slavery.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/416026564/1000_289_998_290_999.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://cdn.episodic.com/shows/21/257/20/1000_289_998_290_999.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Looking for the Perfect Bean: Kyle Glanville's World
+      Coffee Tour, part 1 - Brazil.</title>
+      <link>
+      http://tv.boingboing.net/2008/10/08/looking-for-the-perf.html</link>
+      <category>Brazil</category>
+      <category>Intelligentsia</category>
+      <category>Kyle Glanville</category>
+      <category>coffee</category>
+      <category>eco</category>
+      <category>gadgets</category>
+      <category>green</category>
+      <category>world</category>
+      <pubDate>Wed, 08 Oct 2008 15:48:09 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/08/looking-for-the-perf.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F255%2F10%2Fconfig.xml&amp;dbg=false&amp;68209793"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F255%2F10%2Fconfig.xml&amp;dbg=false&amp;68209793"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F255%2F10%2Fconfig.xml&amp;dbg=false&amp;68209793"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="true" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/08/looking-for-the-perf.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e255/f20/coffee-pilgrimage-in-brazil-with-kyle-glanville.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;&lt;a
+      href="http://tv.boingboing.net/"&gt;Boing Boing
+      tv&lt;/a&gt;'s global coffee correspondent &lt;a
+      href="http://kyleglanville.wordpress.com/"&gt;Kyle
+      Glanville&lt;/a&gt; is looking for the perfect bean, and
+      you're invited along for the ride. You may recall his earlier
+      appearances on the show when the &lt;a
+      href="http://www.thecoffeebrewers.com/usbc2008.html"&gt;2008
+      US World Barista Champion&lt;/a&gt; introduced us to &lt;a
+      href="http://tv.boingboing.net/2008/06/15/a-morning-at-intelli.html"&gt;coffee
+      roasting&lt;/a&gt; and &lt;a
+      href="http://tv.boingboing.net/2008/06/20/a-morning-at-intelli.html"&gt;espresso
+      brewing&lt;/a&gt; at &lt;a
+      href="http://www.intelligentsiacoffee.com/"&gt;Intelligentsia&lt;/a&gt;.
+      &lt;p&gt;Today, we debut a series of episode featuring Kyle
+      on a world coffee tour, and we join him as he visits
+      plantations to learn about the growing, harvesting, and
+      processing techniques of Intelligentsia suppliers around the
+      globe.&lt;/p&gt; &lt;p&gt;In this first episode, Kyle visits
+      the &lt;a
+      href="http://www.fazendaconquista.com.br/"&gt;Fazenda
+      Conquista&lt;/a&gt; plantation in &lt;a
+      href="http://en.wikipedia.org/wiki/Minas_Gerais"&gt;Minas
+      Gerais&lt;/a&gt;, Brazil where &lt;a
+      href="http://www.ipanemacoffees.com.br/pt/"&gt;Ipanema
+      Coffees&lt;/a&gt; grows, dries, and roasts their goods, with
+      lots of weird gadgets and machines you probably haven't seen
+      before -- some low-tech, some high-tech, but all really cool
+      to watch. This plantation is one of the largest in Brazil,
+      with 12 million coffee plants spread out over about 25 square
+      miles of varying terrain.&lt;/p&gt; &lt;p&gt;One of the most
+      fun things about producing BBtv is working with people like
+      Kyle, who share their expertise and life experiences with us
+      in video through their own eyes. I learned so much watching
+      this first installment with the BBtv team -- I especially
+      loved the giant machines that look like &lt;a
+      href="http://en.wikipedia.org/wiki/AT-ST"&gt;AT-AT
+      walkers&lt;/a&gt;, lumbering through the neatly trimmed rows
+      of coffee plants. Also, for someone who drinks as much
+      espresso as I do -- how did I never know that coffee beans
+      are surrounded by an edible, sweet fruit, that when dried
+      intact with the bean, make the flavor richer?&lt;/p&gt;
+      &lt;p&gt;Oh, and you have to check out the aerial tour of the
+      plantation, which you can do in Google Maps or Google Earth:
+      Link to &lt;a
+      href="http://tv.boingboing.net/2008/06/15/a-morning-at-intelli.html"&gt;Fazenda
+      Conquista / Ipanema Coffees .kmz&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;Get ready for more of these java adventures with
+      Kyle -- we're working on more, as he wanders the planet,
+      looking for the perfect bean.&lt;/p&gt; &lt;p&gt;Previous
+      BBtv episodes featuring &lt;a
+      href="http://tv.boingboing.net/kyle-glanville/"&gt;Kyle
+      Glanville&lt;/a&gt;'s Coffee explorations:&lt;/p&gt;
+      &lt;p&gt;* &lt;a
+      href="http://tv.boingboing.net/2008/06/20/a-morning-at-intelli.html"&gt;A
+      Morning at Intelligentsia Coffee Part 2&lt;/a&gt;&lt;br /&gt;
+      * &lt;a
+      href="http://tv.boingboing.net/2008/06/15/a-morning-at-intelli.html"&gt;A
+      Morning at Intelligentsia Part 1&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a
+      href="http://maps.google.com/maps?q=http://bbs.keyhole.com/ubb/download.php?Number=1005634&amp;amp;t=k&amp;amp;om=1"&gt;&lt;img
+      src="http://www.boingboing.net/images/x_2008/fazenda.jpg"
+      width="500" /&gt;&lt;/a&gt;&lt;br clear="all" /&gt;&lt;/p&gt;
+      &lt;br style="clear: both;"/&gt; &lt;a
+      href="http://www.pheedo.com/click.phdo?s=67ef7685638ad2158253300f2c16ea81"&gt;&lt;img
+      alt="" style="border: 0;" border="0"
+      src="http://www.pheedo.com/img.phdo?s=67ef7685638ad2158253300f2c16ea81"/&gt;&lt;/a&gt;
+      &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=67ef7685638ad2158253300f2c16ea81"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/415108029"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/415108030/coffee-pilgrimage-in-brazil-with-kyle-glanville.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>BBtv's global coffee correspondent Kyle
+      Glanville is looking for the perfect bean. Today, his world
+      coffee tour stops at a plantation in Ipanema,
+      Brazil.</itunes:subtitle>
+      <itunes:summary>BBtv's global coffee correspondent Kyle
+      Glanville is looking for the perfect bean. Today, his world
+      coffee tour stops at a plantation in Ipanema,
+      Brazil.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/415108030/coffee-pilgrimage-in-brazil-with-kyle-glanville.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e255/f20/coffee-pilgrimage-in-brazil-with-kyle-glanville.mp4</feedburner:origEnclosureLink>
+    </item>
+    <item>
+      <title>Roots Reggae Legends Toots and the Maytals
+      (music)</title>
+      <link>
+      http://tv.boingboing.net/2008/10/07/roots-reggae-legends.html</link>
+      <category>Crowdfire</category>
+      <category>Jamaica</category>
+      <category>Outside Lands</category>
+      <category>Reggae</category>
+      <category>San Francisco</category>
+      <category>Toots Hibbert</category>
+      <category>Toots and the Maytals</category>
+      <category>music</category>
+      <category>russell porter</category>
+      <pubDate>Tue, 07 Oct 2008 13:08:19 -0500</pubDate>
+      <guid isPermaLink="true">
+      http://tv.boingboing.net/2008/10/07/roots-reggae-legends.html</guid>
+      <description>&lt;p&gt;&lt;object id="ep_player"
+      name="ep_player" height="390" width="480"
+      data="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F252%2F10%2Fconfig.xml&amp;dbg=false&amp;794604746"
+      type="application/x-shockwave-flash"&gt;&lt;param
+      name="movie"
+      value="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F252%2F10%2Fconfig.xml&amp;dbg=false&amp;794604746"/&gt;&lt;param
+      name="AllowScriptAccess" value="always"/&gt;&lt;param
+      name="allowfullscreen" value="true"/&gt;&lt;embed
+      src="http://cdn.episodic.com/player/EpisodicPlayer.swf?config=http%3A%2F%2Fcdn.episodic.com%2Fshows%2F21%2F252%2F10%2Fconfig.xml&amp;dbg=false&amp;794604746"
+      type="application/x-shockwave-flash" allowfullscreen="true"
+      AllowScriptAccess="true" width="480" height="390"
+      id="ep_player" name="ep_player"/&gt;&lt;/object&gt;&lt;/p&gt;
+      &lt;p&gt;Can't see the video? &lt;a
+      href="http://tv.boingboing.net/2008/10/07/roots-reggae-legends.html"&gt;
+      Watch this video now in a browser&lt;/a&gt; or &lt;a
+      href="http://analytics.episodic.com/download/e252/f20/roots-reggae-legends-toots-and-the-maytals-music.mp4"&gt;download
+      this video now&lt;/a&gt;. &lt;/p&gt;&lt;a
+      href="http://www.tootsandthemaytals.com/"&gt;Toots and the
+      Maytals&lt;/a&gt; are true reggae legends (more: &lt;a
+      href="http://en.wikipedia.org/wiki/Toots_and_the_Maytals"&gt;Wikipedia&lt;/a&gt;,
+      &lt;a
+      href="http://www.myspace.com/tatm"&gt;MySpace&lt;/a&gt;).
+      Founder Toots Hibbert is credited with coining the word
+      "reggae" in the band's 1968 single, "&lt;a
+      href="http://www.youtube.com/watch?v=1_IaoQxZMQ4"&gt;Do the
+      Raggay&lt;/a&gt;." They've had more number one hit songs in
+      Jamaica than any recording artist ever, and received a Grammy
+      for Best Reggae Album of the Year in 2005. &lt;p&gt; He was a
+      contemporary of &lt;a href="http://www.bobmarley.com/"&gt;Bob
+      Marley&lt;/a&gt; and &lt;a
+      href="http://www.jimmycliff.com/"&gt;Jimmy Cliff&lt;/a&gt;,
+      and was featured in Perry Henzell's &lt;a
+      href="http://en.wikipedia.org/wiki/The_Harder_They_Come"&gt;seminal
+      1973 reggae movie&lt;/a&gt; "&lt;a
+      href="http://www.imdb.com/title/tt0070155/"&gt;The Harder
+      They Come&lt;/a&gt;" (&lt;a
+      href="http://www.amazon.com/exec/obidos/ASIN/B000BT9966/boingboing06-20/"&gt;Amazon
+      link&lt;/a&gt;). &lt;p&gt; I joined BBtv's London-based music
+      correspondent &lt;a
+      href="http://tv.boingboing.net/russell-porter/"&gt;Russell
+      Porter&lt;/a&gt; for a visit on the venerable Mister Toots'
+      tour bus after an amazing set at &lt;a
+      href="http://sfoutsidelands.com"&gt;Outside Lands&lt;/a&gt;,
+      and we sat down with him for a conversation about the history
+      of reggae, and what Toots thinks about contemporary hip-hop
+      and dancehall -- and where his legacy leads. The generous
+      vanity intro he did for BBtv is a thing of beauty, we can all
+      die happy now. &lt;p&gt; &lt;hr&gt;
+      &lt;p&gt;&lt;strong&gt;Sponsor Note&lt;/strong&gt;: This
+      episode, and other BBtv music features this month, are
+      sponsored by the &lt;a
+      href="http://www.crowdfire.net/"&gt;Crowdfire&lt;/a&gt; live
+      music social media project. You can find images, video, and
+      audio about the band featured in today's show at Crowdfire --
+      &lt;a
+      href="http://www.crowdfire.net/media/search?search_query=toots&amp;amp;siteSearchGo.x=0&amp;amp;siteSearchGo.y=0&amp;amp;siteSearchGo=Go"&gt;here's
+      the search link&lt;/a&gt; for fan-uploads related to Toots
+      and the Maytals.&lt;/p&gt; &lt;p&gt;
+      &lt;p&gt;&lt;strong&gt;Related Boing Boing tv episodes from
+      Outside Lands:&lt;/strong&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/10/03/broken-social-scene.html"&gt;Broken
+      Social Scene: interview and live performance
+      (music)&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/30/galactics-modern-new.html"&gt;Galactic's
+      "Modern New Orleans Funk" with Xeni and Russell (music)&lt;br
+      /&gt;&lt;/a&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/25/interview-with-cold.html"&gt;Interview
+      with Cold War Kids frontman Nathan Willett
+      (music)&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/23/andy-gould-rock-band.html"&gt;Andy
+      Gould, rock band manager, dances on the labels'
+      graves.&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/18/primus-xeni-intervie.html"&gt;Primus:
+      Xeni interviews Les and Ler (music)&lt;/a&gt;&lt;br /&gt; *
+      &lt;a
+      href="http://tv.boingboing.net/2008/09/17/kaki-king-guitar-her.html"&gt;Kaki
+      King, guitar hero: performance, interview with Xeni
+      (music)&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/12/bb-gadgets-joel-at-o.html"&gt;BB
+      Gadgets' Joel at Outside Lands: Crowdfire
+      deconstructed&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/09/04/carney-at-outside-la.html"&gt;Carney
+      at Outside Lands - a "Boing Boing tv Bus Session."
+      (music)&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/08/25/russell-interviews-s.html"&gt;Steel
+      Pulse founder David Hinds at Outside Lands
+      (music)&lt;/a&gt;&lt;br /&gt; * &lt;a
+      href="http://tv.boingboing.net/2008/08/22/boing-boing-tv-at-ou.html"&gt;Boing
+      Boing tv backstage at Outside Lands: (Xeni + Russell
+      Porter)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;(Special
+      thanks to Wayneco for the magic bus, to Michael Cacia, and to
+      &lt;a href="http://virginamerica.com"&gt;Virgin
+      America&lt;/a&gt; for air travel.)&lt;/em&gt;&lt;/p&gt;&lt;br
+      style="clear: both;"/&gt; &lt;img alt="" style="border: 0;
+      height:1px; width:1px;" border="0"
+      src="http://www.pheedo.com/img.phdo?i=98ef0c4effb263f36f71ad90f0af7c0a"
+      height="1" width="1"/&gt; &lt;img
+      src="http://www.pheedo.com/feeds/tracker.php?i=98ef0c4effb263f36f71ad90f0af7c0a"
+      style="display: none;" border="0" height="1" width="1"
+      alt=""/&gt;&lt;img
+      src="http://feeds.boingboing.net/~r/boingboing/tv/~4/414002740"
+      height="1" width="1"/&gt;</description>
+      <media:content url="http://feeds.boingboing.net/~r/boingboing/tv/~5/414002741/roots-reggae-legends-toots-and-the-maytals-music.mp4"
+      type="video/mp4" />
+      <itunes:subtitle>BBtv catches up with the inventor of the
+      word reggae, Toots Hibbert of Toots and the Maytals, for a
+      conversation about his soulful legacy.</itunes:subtitle>
+      <itunes:summary>BBtv catches up with the inventor of the word
+      reggae, Toots Hibbert of Toots and the Maytals, for a
+      conversation about his soulful legacy.</itunes:summary>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Xeni
+      Jardin, Mark Frauenfelder, Cory Doctorow, David
+      Pescovitz</dc:creator>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Xeni Jardin, Mark Frauenfelder, Cory Doctorow,
+      David Pescovitz</itunes:author>
+      <itunes:keywords>
+      boingboing,Boing,technology,eclectic,Xeni,Jardin,Mark,Frauenfelder,Cory,Doctorow,David,Pescovitz</itunes:keywords>
+      <enclosure url="http://feeds.boingboing.net/~r/boingboing/tv/~5/414002741/roots-reggae-legends-toots-and-the-maytals-music.mp4"
+      length="0" type="video/mp4" />
+      <feedburner:origEnclosureLink>
+      http://analytics.episodic.com/download/e252/f20/roots-reggae-legends-toots-and-the-maytals-music.mp4</feedburner:origEnclosureLink>
+    </item>
+    <media:credit role="author">Xeni Jardin, Mark Frauenfelder,
+    Cory Doctorow, David Pescovitz</media:credit>
+    <media:rating>nonadult</media:rating>
+    <media:description type="plain">Boing Boing
+    TV</media:description>
+  </channel>
+</rss>

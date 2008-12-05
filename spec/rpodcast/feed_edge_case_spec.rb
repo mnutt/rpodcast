@@ -316,3 +316,81 @@ describe RPodcast::Feed, "Sam Downie's Tech:Casts" do
   end
 end
 
+describe RPodcast::Feed, "BoingBoing" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'boingboing.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "Boing Boing TV"
+  end
+
+  it 'should extract the site link' do
+    @podcast.link.should == "http://tv.boingboing.net/"
+  end
+
+  it 'should extract the logo link' do
+    @podcast.image.should == "http://tv.boingboing.net/mtimages/bb-itunes-300.jpg"
+  end
+ 
+  it 'should extract the description' do
+    @podcast.summary.should =~ /^From the editors of Boing Boing/
+  end
+
+  it 'should extract the keywords' do
+    @podcast.keywords.should == ["boingboing", "Boing", "technology", "eclectic", 
+                                 "Xeni", "Jardin", "Mark", "Frauenfelder", "Cory", 
+                                 "Doctorow", "David", "Pescovitz"]
+  end
+
+  it 'should extract the copyright' do
+    @podcast.copyright.should == "Copyright 2008"
+  end
+
+  it 'should extract the language' do
+    @podcast.language.should == "en"
+  end
+
+  it 'should have episodes' do
+    @podcast.episodes.size.should == 30
+  end
+
+  it 'should have an episode with a title that has decoded html entities' do
+    @podcast.episodes[1].title.should == "Unicorn Chaser: Joel Johnson of Boing Boing Gadgets in\n      \"UHHHHHH.\""
+  end
+
+  it 'should have an episode with a summary' do
+    @podcast.episodes[1].summary.should =~ /after Joel was nearly bitten by a snake/
+  end
+
+  it 'should have an episode with an enclosure with a URL' do
+    @podcast.episodes[1].enclosure.url.should == "http://feeds.boingboing.net/~r/boingboing/tv/~5/468487598/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4"
+  end
+
+  it 'should have an episode with no size' do
+    @podcast.episodes[1].enclosure.size.should == 0
+  end
+  
+  it 'should have an episode with no duration' do
+    @podcast.episodes[1].duration.should == 0
+  end
+end
+
+# This one has junk characters at the beginning and wasn't registering as a real rss feed
+describe RPodcast::Feed, "Investment Real Estate" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'investment.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+  end
+
+  it 'should be an rpodcast object' do
+    @podcast.should be_kind_of(RPodcast::Feed)
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "Investment Real Estate Podcast"
+  end
+end
