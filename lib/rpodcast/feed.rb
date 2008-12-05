@@ -17,7 +17,7 @@ module RPodcast
 
     def self.validate_feed(content)
       raise InvalidXMLError unless content =~ /^[\s]*<\?xml/
-      raise NoEnclosureError unless content =~ /\<enclosure/
+      raise NoEnclosureError unless content =~ /\<enclosure/ || content =~ /\<media\:content/
     end
 
     def initialize(content, options={})

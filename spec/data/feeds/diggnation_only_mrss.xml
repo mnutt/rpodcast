@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:cnettv="http://cnettv.com/mrss/"
+	xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:amp="http://www.adobe.com/amp/1.0">
+  <channel>
+    <title>Diggnation (Large WMV)</title>
+    <link>http://revision3.com/diggnation</link>
+    <description>Diggnation is a weekly tech/web culture show based on the top digg.com social bookmarking news stories.</description>
+    <language>en-us</language>
+    <cnettv:partnerId>27842</cnettv:partnerId>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:summary>Diggnation is a weekly tech/web culture show based on the top digg.com social bookmarking news stories.</itunes:summary>
+    <itunes:subtitle>Diggnation is a weekly tech/web culture show based on the top digg.com social bookmarking news stories.</itunes:subtitle>
+    <itunes:author>Revision3</itunes:author>
+    <itunes:owner>
+      <itunes:email>feedback@revision3.com</itunes:email>
+      <itunes:name>Revision3</itunes:name>
+    </itunes:owner>
+    <itunes:image href="http://bitcast-a.bitgravity.com/revision3/images/shows/diggnation/diggnation.jpg" />
+    <itunes:keywords>diggnation, kevin rose, alex albrecht, digg.com, digg, revision3</itunes:keywords>
+    <image>
+      <title>Diggnation (Large WMV)</title>
+      <width>100</width>
+      <height>100</height>
+      <link>http://revision3.com/diggnation</link>
+      <url>http://bitcast-a.bitgravity.com/revision3/images/shows/diggnation/diggnation.jpg</url>
+    </image>
+    <!-- Adobe Media Player Network Assets -->
+    <amp:networkLogo>http://revision3.com/static/images/revision3_networklogo.png</amp:networkLogo>
+    <amp:networkHalfBanner>http://revision3.com/static/images/revision3_halfbanner.jpg</amp:networkHalfBanner>
+    <amp:networkBackground>http://revision3.com/static/images/revision3_background.jpg</amp:networkBackground>
+    <!-- Adobe Media Player Show Assets -->
+    <amp:background>http://bitcast-a.bitgravity.com/revision3/images/shows/diggnation/diggnation_background.jpg</amp:background>
+    <amp:banner>http://bitcast-a.bitgravity.com/revision3/images/shows/diggnation/diggnation_fullbanner.jpg</amp:banner>
+    <amp:halfBanner>http://bitcast-a.bitgravity.com/revision3/images/shows/diggnation/diggnation_halfbanner.jpg</amp:halfBanner>
+    <atom:link rel="self" href="http://revision3.com/diggnation/feed/wmv-large/" />
+
+    <item>
+      <author>webmaster@revision3.com (Revision3)</author>
+      <pubDate>Fri, 22 Aug 2008 23:00:00 GMT</pubDate>
+      <cnettv:lastModDate>Fri, 22 Aug 2008 23:00:00 GMT</cnettv:lastModDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Revision3</itunes:author>
+      <itunes:subtitle>
+Creative Business Card Designs, Early Dark Knight Concept Art Shows a Much Creepier Joker, This Guy Actually Bought the I Am Rich App for $999.99, Ikea to Start Selling Solar Panels, Slow Motion Lightning Video is Mindblowing. LIVE SHOW ON TUESDAY AUG 26
+      </itunes:subtitle>
+      <guid isPermaLink="false">/diggnation/0164/diggnation--0164--2008-08-21polepoll--large.wmv9.wmv</guid>
+
+      <media:content duration="2679" medium="video" fileSize="439226832" url="http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0164/diggnation--0164--2008-08-21polepoll--large.wmv9.wmv" cnettv:aspectRatio="16x9" type="video/x-ms-wmv">
+        <media:title>Diggnation - Prager and Hippie Glenn</media:title>
+        <media:description>
+Creative Business Card Designs, Early Dark Knight Concept Art Shows a Much Creepier Joker, This Guy Actually Bought the I Am Rich App for $999.99, Ikea to Start Selling Solar Panels, Slow Motion Lightning Video is Mindblowing. &lt;span style=&quot;color: #FF0000&quot;&gt;LIVE SHOW ON TUESDAY AUG 26TH!!!&lt;/span&gt;
+        </media:description>
+        <media:hash algo="md5">this_is_a_fake_md5_hash</media:hash>
+        <media:thumbnail url="http://bitcast-a.bitgravity.com/revision3/images/shows/diggnation/0164/diggnation--0164--2008-08-21polepoll--mini.thumb.jpg" width="100" height="100" />
+        <media:player url="http://revision3.com/diggnation/2008-08-21polepoll" />
+        <media:rating>adult</media:rating>
+        <media:keywords>digg, business card designs, dark knight, slow motion lightning video, i am rich app, ipone, ikea</media:keywords>
+      </media:content>
+      <cnettv:franchiseID>46</cnettv:franchiseID>
+    </item>
+  </channel>
+</rss>

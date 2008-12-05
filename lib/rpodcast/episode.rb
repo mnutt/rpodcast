@@ -2,18 +2,21 @@ require 'cgi'
 
 module RPodcast
   class Episode
-    EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :duration, :bitrate]
+    EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :duration, :bitrate, :hashes]
 
     attr_accessor :attributes, :enclosure
     
     def initialize(el)
       @attributes = Hash.new
       @attributes[:guid] = el.at('guid').inner_html rescue nil
-      @attributes[:title] = el.at('title').inner_html rescue nil
-      @attributes[:summary] = el.at('description').inner_html rescue nil
-      @attributes[:summary] ||= el.at('itunes:summary').inner_html rescue nil
+      @attributes[:title] = (el.at('title') || el.at('media:title')).inner_html rescue nil
+      @attributes[:summary] = (el.at('description') || el.at('itunes:summary') || el.at('media:description')).inner_html rescue nil
       @attributes[:published_at] = Time.parse(el.at('pubDate').inner_html) rescue nil
-
+      
+      # We'll scan for the possibility of included MRSS hashes, ie hashes[:md5] #=> 'as23ada123...'
+      @attributes[:hashes] = {}
+      (el / 'media:hash').each { |hash| @attributes[:hashes][hash[:algo]] = hash.inner_html }
+      
       begin
         # Time may be under an hour
         time = el.at('itunes:duration').inner_html
@@ -26,13 +29,14 @@ module RPodcast
         }.inject(0) {|m,n| m+n}
       rescue 
         begin
+          # Checking for MRSS
           @attributes[:duration] = (el % 'media:content')[:duration].to_i
         rescue
           @attributes[:duration] = 0
         end
       end
 
-      @enclosure = RPodcast::Enclosure.new(el.at('enclosure'))
+      @enclosure = RPodcast::Enclosure.new(el.at('enclosure') || el.at('media:content'))
 
       @attributes[:bitrate] = ((@enclosure.size * 8) / 1000.0) / @attributes[:duration]
       @attributes[:bitrate] = 0 unless @attributes[:bitrate].finite?

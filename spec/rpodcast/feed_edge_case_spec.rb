@@ -112,6 +112,43 @@ describe RPodcast::Feed, "diggnation" do
 
 end
 
+
+describe RPodcast::Feed, "diggnation (w/only MRSS)" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'diggnation_only_mrss.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "Diggnation (Large WMV)"
+  end
+
+  describe "first episode" do
+
+    it 'should have a title' do
+      @podcast.episodes.first.title.should =~ /Diggnation - Prager/
+    end
+    
+    it 'should have a summary' do
+      @podcast.episodes.first.summary.strip.should == "\nCreative Business Card Designs, Early Dark Knight Concept Art Shows a Much Creepier Joker, This Guy Actually Bought the I Am Rich App for $999.99, Ikea to Start Selling Solar Panels, Slow Motion Lightning Video is Mindblowing. <span style=\"color: #FF0000\">LIVE SHOW ON TUESDAY AUG 26TH!!!</span>".strip
+    end
+
+    it 'should have a duration' do
+      @podcast.episodes.first.duration.should == 2679
+    end
+
+    it 'should have a bitrate' do
+      @podcast.episodes.first.bitrate.to_i.should == 1311
+    end
+
+    it 'should have a hash' do
+      @podcast.episodes.first.hashes['md5'].should == 'this_is_a_fake_md5_hash'
+    end
+  end
+
+end
+
 describe RPodcast::Feed, "powdertravel" do
 
   before do

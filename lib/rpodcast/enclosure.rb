@@ -1,4 +1,5 @@
 module RPodcast
+  # Note: we'll treat MRSS like it's an enclosure and scrape media:content stuff into this class.
   class Enclosure
     attr_accessor :url, :content_type, :size, :format
 
@@ -18,7 +19,7 @@ module RPodcast
     def initialize(element)
       @url            = element['url'] rescue nil
       @content_type   = element['type'] rescue nil
-      @size           = (element['size'] or element['length']).to_i rescue nil
+      @size           = (element['size'] or element['length'] or element['fileSize']).to_i rescue nil
       @format         = self.extension || @@content_types[self.content_type] || :unknown
     end
 
