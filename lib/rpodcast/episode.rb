@@ -4,7 +4,7 @@ module RPodcast
   class Episode
     EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :duration, :bitrate, :hashes]
 
-    attr_accessor :attributes, :enclosure
+    attr_accessor :attributes, :enclosure, :raw_xml
     
     def initialize(el)
       @attributes = Hash.new
@@ -35,6 +35,9 @@ module RPodcast
           @attributes[:duration] = 0
         end
       end
+
+      # episode's raw XML snippet
+      @raw_xml = el.to_html
 
       @enclosure = RPodcast::Enclosure.new(el.at('enclosure') || el.at('media:content'))
 
