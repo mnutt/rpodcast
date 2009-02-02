@@ -354,7 +354,7 @@ describe RPodcast::Feed, "BoingBoing" do
   end
 
   it 'should have episodes' do
-    @podcast.episodes.size.should == 30
+    @podcast.episodes.size.should == 28
   end
 
   it 'should have an episode with a title that has decoded html entities' do
