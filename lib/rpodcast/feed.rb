@@ -19,7 +19,7 @@ module RPodcast
     attr_accessor :feed, :attributes
 
     def self.validate_feed(content)
-      raise InvalidXMLError unless content =~ /<\?xml/
+      raise InvalidXMLError unless content =~ /<(\?xml|rss)/
       raise NoEnclosureError unless content =~ /\<enclosure/ || content =~ /\<media\:content/
     end
 
