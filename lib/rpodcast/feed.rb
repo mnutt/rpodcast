@@ -18,21 +18,23 @@ module RPodcast
     
     attr_accessor :feed, :attributes
 
-    def self.validate_feed(content)
-      raise InvalidXMLError unless content =~ /<(\?xml|rss)/
-      raise NoEnclosureError unless content =~ /\<enclosure/ || content =~ /\<media\:content/
-    end
-
     def initialize(content, options={})
       @content = content
       @attributes = {}
-
-      Feed.validate_feed(@content)
-
-      self.parse_feed
     end
 
-    def parse_feed
+    def valid?
+      @content =~ /<(\?xml|rss)/
+    end
+
+    def has_enclosure?
+      @content =~ /\<enclosure/ || @content =~ /\<media\:content/
+    end
+
+    def parse
+      raise InvalidXMLError  unless valid?
+      raise NoEnclosureError unless has_enclosure?
+
       h = Hpricot.XML(@content)
 
       FEED_ATTRIBUTES.each do |attribute|

@@ -17,10 +17,10 @@ module RPodcast
     }.freeze
 
     def initialize(element)
-      @url            = element['url'] rescue nil
-      @content_type   = element['type'] rescue nil
-      @size           = (element['size'] or element['length'] or element['fileSize']).to_i rescue nil
-      @format         = self.extension || @@content_types[self.content_type] || :unknown
+      @url          = element['url'] rescue nil
+      @content_type = element['type'] rescue nil
+      @size         = (element['size'] or element['length'] or element['fileSize']).to_i rescue nil
+      @format       = self.extension || @@content_types[self.content_type] || :unknown
     end
 
     def extension

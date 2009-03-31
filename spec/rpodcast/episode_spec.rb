@@ -4,6 +4,7 @@ describe RPodcast::Episode do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'example.xml')).read
     @feed = RPodcast::Feed.new(@content)
+    @feed.parse
     @episode = @feed.episodes.first
   end
 
