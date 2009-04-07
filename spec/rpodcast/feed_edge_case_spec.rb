@@ -5,6 +5,7 @@ describe RPodcast::Feed, "1upshow" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', '1upshow.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
@@ -65,6 +66,7 @@ describe RPodcast::Feed, "diggnation" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'diggnation.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
@@ -126,6 +128,7 @@ describe RPodcast::Feed, "diggnation (w/only MRSS)" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'diggnation_only_mrss.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
@@ -162,6 +165,7 @@ describe RPodcast::Feed, "powdertravel" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'powderpodcast.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
@@ -225,6 +229,7 @@ describe RPodcast::Feed, "macbreak" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'macbreak.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
@@ -285,6 +290,7 @@ describe RPodcast::Feed, "Sam Downie's Tech:Casts" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'tech_casts.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
@@ -341,6 +347,7 @@ describe RPodcast::Feed, "BoingBoing" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'boingboing.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
@@ -408,6 +415,7 @@ describe RPodcast::Feed, "Investment Real Estate" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'investment.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should be an rpodcast object' do

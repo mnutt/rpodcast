@@ -5,6 +5,7 @@ describe RPodcast::Feed, "instantiating a new feed" do
   before do
     @content = File.open(File.join(ROOT, 'spec', 'data', 'example.xml')).read
     @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
   end
 
   it 'should extract the title' do
