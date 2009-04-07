@@ -34,6 +34,10 @@ describe RPodcast::Feed, "1upshow" do
   it 'should extract the language' do
     @podcast.language.should == "en-us"
   end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == nil
+  end
 
   it 'should have episodes' do
     @podcast.episodes.size.should == 20
@@ -89,6 +93,10 @@ describe RPodcast::Feed, "diggnation" do
 
   it 'should extract the language' do
     @podcast.language.should == "en-us"
+  end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == nil
   end
 
   describe "first episode" do
@@ -183,6 +191,10 @@ describe RPodcast::Feed, "powdertravel" do
   it 'should extract the language' do
     @podcast.language.should == "EN"
   end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == nil
+  end
 
   describe "first episode" do
 
@@ -242,6 +254,10 @@ describe RPodcast::Feed, "macbreak" do
   it 'should extract the language' do
     @podcast.language.should == "en"
   end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == "Pixel Corps Feed Generator"
+  end
 
   describe "first episode" do
 
@@ -289,6 +305,10 @@ describe RPodcast::Feed, "Sam Downie's Tech:Casts" do
 
   it 'should extract the language' do
     @podcast.language.should == "en-us"
+  end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == "podOmatic RSS Generator"
   end
 
   it 'should have episodes' do
@@ -351,6 +371,10 @@ describe RPodcast::Feed, "BoingBoing" do
 
   it 'should extract the language' do
     @podcast.language.should == "en"
+  end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == "http://www.sixapart.com/movabletype/"
   end
 
   it 'should have episodes' do

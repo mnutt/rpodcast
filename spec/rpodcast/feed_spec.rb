@@ -34,4 +34,8 @@ describe RPodcast::Feed, "instantiating a new feed" do
   it 'should extract the language' do
     @podcast.language.should == "en-us"
   end
+
+  it 'should extract the generator' do
+    @podcast.generator.should == nil
+  end
 end

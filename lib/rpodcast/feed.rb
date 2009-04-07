@@ -13,7 +13,7 @@ module RPodcast
   class Feed
     FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, 
                        :owner_name, :keywords, :categories, :copyright, :episodes, 
-                       :bitrate, :format, :audio?, :video?, :explicit?, :hd?, 
+                       :bitrate, :format, :generator, :audio?, :video?, :explicit?, :hd?, 
                        :torrent?, :creative_commons?]
     
     attr_accessor :feed, :attributes
@@ -98,6 +98,10 @@ module RPodcast
 
     def parse_language(h)
       (h % 'language').inner_text
+    end
+
+    def parse_generator(h)
+      (h % 'generator').inner_text
     end
 
     def parse_owner_email(h)
