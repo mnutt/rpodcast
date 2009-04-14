@@ -21,7 +21,7 @@ describe RPodcast::Feed, "1upshow" do
   end
  
   it 'should extract the description' do
-    @podcast.summary.should =~ /^1UP editors report on the videogame industry/
+    @podcast.summary.should =~ /^Welcome to 1UP's new weekly show on the latest and grea/
   end
 
   it 'should extract the owner email' do

@@ -95,7 +95,10 @@ module RPodcast
     end
 
     def parse_summary(h)
-      (h % 'itunes:summary').inner_html
+      d = (h % 'description').inner_html rescue ''
+      s = (h % 'itunes:summary').inner_html rescue ''
+      
+      [d, s].max { |a,b| a.length <=> b.length }
     end
 
     def parse_language(h)
