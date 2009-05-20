@@ -426,3 +426,140 @@ describe RPodcast::Feed, "Investment Real Estate" do
     @podcast.title.should == "Investment Real Estate Podcast"
   end
 end
+
+describe RPodcast::Feed, "ActsAsConference2009" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'boingboing.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "Boing Boing TV"
+  end
+
+  it 'should extract the site link' do
+    @podcast.link.should == "http://tv.boingboing.net/"
+  end
+
+  it 'should extract the logo link' do
+    @podcast.image.should == "http://tv.boingboing.net/mtimages/bb-itunes-300.jpg"
+  end
+ 
+  it 'should extract the description' do
+    @podcast.summary.should =~ /^From the editors of Boing Boing/
+  end
+
+  it 'should extract the keywords' do
+    @podcast.keywords.should == ["boingboing", "Boing", "technology", "eclectic", 
+                                 "Xeni", "Jardin", "Mark", "Frauenfelder", "Cory", 
+                                 "Doctorow", "David", "Pescovitz"]
+  end
+
+  it 'should extract the copyright' do
+    @podcast.copyright.should == "Copyright 2008"
+  end
+
+  it 'should extract the language' do
+    @podcast.language.should == "en"
+  end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == "http://www.sixapart.com/movabletype/"
+  end
+
+  it 'should have episodes' do
+    @podcast.episodes.size.should == 28
+  end
+
+  it 'should have an episode with a title that has decoded html entities' do
+    @podcast.episodes[1].title.should == "Unicorn Chaser: Joel Johnson of Boing Boing Gadgets in\n      \"UHHHHHH.\""
+  end
+
+  it 'should have an episode with a summary' do
+    @podcast.episodes[1].summary.should =~ /after Joel was nearly bitten by a snake/
+  end
+
+  it 'should have an episode with an enclosure with a URL' do
+    @podcast.episodes[1].enclosure.url.should == "http://feeds.boingboing.net/~r/boingboing/tv/~5/468487598/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4"
+  end
+
+  it 'should have an episode with no size' do
+    @podcast.episodes[1].enclosure.size.should == 0
+  end
+  
+  it 'should have an episode with no duration' do
+    @podcast.episodes[1].duration.should == 0
+  end
+end
+
+
+
+describe RPodcast::Feed, "All CNET HD Video Podcasts" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'cnet.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "All CNET HD Video Podcasts"
+  end
+
+  it 'should extract the site link' do
+    @podcast.link.should == "http://cnettv.cnet.com/"
+  end
+
+  it 'should extract the logo link' do
+    @podcast.image.should == "http://www.cnet.com/i/pod/images/allCNETvideo_600x600.jpg"
+  end
+ 
+  it 'should extract the description' do
+    @podcast.summary.should =~ /^Get your fix of all HD video podcast feeds/
+  end
+
+  it 'should extract the keywords' do
+    @podcast.keywords.should == ["Apple", "Byte", "The", "Buzz", "Report", "Car", 
+      "Tech", "Video", "CNET", "Live", "CNET", "News", "CNET", "s", "Top", "5", 
+      "Crave", "Loaded", "Mailbag", "Prizefight", "Product", "Spotlight", "Daily",
+      "Debrief", "Quick", "Tips"]
+  end
+
+  it 'should extract the copyright' do
+    @podcast.copyright.should == "2008 CNET.com"
+  end
+
+  it 'should extract the language' do
+    @podcast.language.should == "en-us"
+  end
+  
+  it 'should extract the generator' do
+    @podcast.generator.should == nil
+  end
+
+  it 'should have episodes' do
+    @podcast.episodes.size.should == 2
+  end
+
+  it 'should have an episode with a title that has CDATA stripped out' do
+    @podcast.episodes[1].title.should == "Crazy-mail special"
+  end
+
+  it 'should have an episode with a summary' do
+    @podcast.episodes[1].summary.should =~ /This week on Mailbag, we’re throwing out the podcast feed quest/
+  end
+
+  it 'should have an episode with an enclosure with a URL' do
+    @podcast.episodes[1].enclosure.url.should == "http://feedproxy.google.com/~r/cnet/allhdpodcast/~5/RCxI1oZpPDY/mailbag_hd_2009-05-19-174242.m4v"
+  end
+
+  it 'should have an episode with a length of 0' do
+    @podcast.episodes[1].enclosure.size.should == 0
+  end
+  
+  it 'should have an episode with a duration' do
+    @podcast.episodes[1].duration.should == 14040
+  end
+end

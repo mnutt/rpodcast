@@ -10,6 +10,7 @@ module RPodcast
       @attributes = Hash.new
       @attributes[:guid] = el.at('guid').inner_html rescue nil
       @attributes[:title] = (el.at('title') || el.at('media:title')).inner_html rescue nil
+      @attributes[:title].gsub!(/\<\!\[CDATA\[(.*)\]\]\>/, '\1') unless @attributes[:title].nil?
       @attributes[:summary] = (el.at('description') || el.at('itunes:summary') || el.at('media:description')).inner_html rescue nil
       @attributes[:published_at] = Time.parse(el.at('pubDate').inner_html) rescue nil
       

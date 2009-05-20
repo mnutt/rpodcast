@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds2.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>acts_as_conference 2009 - Confreaks</title>
+    <link>http://aac2009.confreaks.com/</link>
+    <description>
+      acts_as_conference is an annual two day event dedicated to Ruby on Rails and the happy
+      developers that use it (or wish to use it) in their daily lives. This year's
+      conference took place on February 6th and 7th at the Orlando Ramada _insert hotel name here_.
+      </description>
+    <language>en-us</language>
+
+    <pubDate>
+      Fri, 06 Feb 2009 04:00:00 -0000
+    </pubDate>
+    <lastBuildDate>Sun, 15 Feb 2009 15:31:45 -0800</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>Confreaks custom podcast generator 1.0</generator>
+    <managingEditor>contact@confreaks.com</managingEditor>
+
+    <webMaster>contact@confreaks.com</webMaster>
+      <media:thumbnail url="http://aac2009.confreaks.com/images/aac09logo.png" /><media:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>contact@confreaks.com</itunes:email></itunes:owner><itunes:explicit>yes</itunes:explicit><itunes:image href="http://aac2009.confreaks.com/images/aac09logo.png" /><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><itunes:subtitle>This annual two day event is dedicated to Ruby on Rails and the happy developers that use it (or wish to use it) in their daily lives.</itunes:subtitle><itunes:summary>This annual two day event is dedicated to Ruby on Rails and the happy developers that use it (or wish to use it) in their daily lives.</itunes:summary><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds2.feedburner.com/AAC2009-Confreaks" type="application/rss+xml" /><item>
+        <title>Innovation in Rails</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/EiP3Wrza8x0/06-feb-2009-09-00-innovation-in-rails-gregg-pollack-jason-seifer-large.mp4</link>
+
+        <pubdate>Fri, 06 Feb 2009 09:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-09-00-innovation-in-rails-gregg-pollack-jason-seifer-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-09-00-innovation-in-rails-gregg-pollack-jason-seifer-large.mp4" length="425922718" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-09-00-innovation-in-rails-gregg-pollack-jason-seifer-large.mp4" fileSize="425922718" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/EiP3Wrza8x0" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-09-00-innovation-in-rails-gregg-pollack-jason-seifer-large.mp4</feedburner:origLink></item>
+      <item>
+
+        <title>Live Video Q&amp;A</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/tTNz8NyuSrE/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 10:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4" length="564145577" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4" fileSize="564145577" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/tTNz8NyuSrE" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>The Grand Unified Theory...</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/_t53r4SMOiQ/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 11:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich-large.mp4" length="351302518" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich-large.mp4" fileSize="351302518" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/_t53r4SMOiQ" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Welcome</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/NBoJNM0_3Nc/06-feb-2009-13-00-welcome-robert-dempsey-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 13:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-13-00-welcome-robert-dempsey-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-13-00-welcome-robert-dempsey-large.mp4" length="36782746" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-13-00-welcome-robert-dempsey-large.mp4" fileSize="36782746" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/NBoJNM0_3Nc" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-13-00-welcome-robert-dempsey-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Testing as Communication</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/01idp6P-0Ms/06-feb-2009-13-30-testing-as-communication-jon-larkowski-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 13:30:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-13-30-testing-as-communication-jon-larkowski-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-13-30-testing-as-communication-jon-larkowski-large.mp4" length="275056178" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-13-30-testing-as-communication-jon-larkowski-large.mp4" fileSize="275056178" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/01idp6P-0Ms" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-13-30-testing-as-communication-jon-larkowski-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Writing Multi-Tenant Applications in Rails</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/jqQpuW0Jm5w/06-feb-2009-14-30-writing-multi-tenant-applications-in-rails-guy-naor-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 14:30:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-14-30-writing-multi-tenant-applications-in-rails-guy-naor-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-14-30-writing-multi-tenant-applications-in-rails-guy-naor-large.mp4" length="241099958" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-14-30-writing-multi-tenant-applications-in-rails-guy-naor-large.mp4" fileSize="241099958" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/jqQpuW0Jm5w" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-14-30-writing-multi-tenant-applications-in-rails-guy-naor-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>rails.merge!(merb)</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/f0JZD89zA8M/06-feb-2009-16-00-railsmergemerb-yehuda-katz-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 16:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-16-00-railsmergemerb-yehuda-katz-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-16-00-railsmergemerb-yehuda-katz-large.mp4" length="157422652" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-16-00-railsmergemerb-yehuda-katz-large.mp4" fileSize="157422652" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/f0JZD89zA8M" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-16-00-railsmergemerb-yehuda-katz-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Keynote</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/fYj7jwoIlBk/06-feb-2009-17-00-keynote-nathaniel-talbott-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 17:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-17-00-keynote-nathaniel-talbott-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-17-00-keynote-nathaniel-talbott-large.mp4" length="200591673" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-17-00-keynote-nathaniel-talbott-large.mp4" fileSize="200591673" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/fYj7jwoIlBk" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-17-00-keynote-nathaniel-talbott-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Lightning Talk: Regexes vs. Ragel</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/EJds5-wck0k/06-feb-2009-19-30-lightning-talk-regexes-vs-ragel-bryce-kerley-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 19:30:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-19-30-lightning-talk-regexes-vs-ragel-bryce-kerley-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-19-30-lightning-talk-regexes-vs-ragel-bryce-kerley-large.mp4" length="41447835" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-19-30-lightning-talk-regexes-vs-ragel-bryce-kerley-large.mp4" fileSize="41447835" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/EJds5-wck0k" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-19-30-lightning-talk-regexes-vs-ragel-bryce-kerley-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Lightning Talk: Spreedly</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/rBW3b6xCSaQ/06-feb-2009-19-40-lightning-talk-spreedly-nathaniel-talbott-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 19:40:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-19-40-lightning-talk-spreedly-nathaniel-talbott-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-19-40-lightning-talk-spreedly-nathaniel-talbott-large.mp4" length="53324313" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-19-40-lightning-talk-spreedly-nathaniel-talbott-large.mp4" fileSize="53324313" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/rBW3b6xCSaQ" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-19-40-lightning-talk-spreedly-nathaniel-talbott-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Lightning Talk: DNS Hackery</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/IFMoZw7UeEQ/06-feb-2009-19-52-lightning-talk-dns-hackery-anthony-eden-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 19:52:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-19-52-lightning-talk-dns-hackery-anthony-eden-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-19-52-lightning-talk-dns-hackery-anthony-eden-large.mp4" length="71678345" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-19-52-lightning-talk-dns-hackery-anthony-eden-large.mp4" fileSize="71678345" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/IFMoZw7UeEQ" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-19-52-lightning-talk-dns-hackery-anthony-eden-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Lightning Talk: Working with Rails &amp; The Man</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/8nRgD_ffvKE/06-feb-2009-20-17-lightning-talk-working-with-rails-the-man-matt-williams-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 20:17:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-20-17-lightning-talk-working-with-rails-the-man-matt-williams-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-20-17-lightning-talk-working-with-rails-the-man-matt-williams-large.mp4" length="129299518" type="video/mp4" />
+
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-20-17-lightning-talk-working-with-rails-the-man-matt-williams-large.mp4" fileSize="129299518" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/8nRgD_ffvKE" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-20-17-lightning-talk-working-with-rails-the-man-matt-williams-large.mp4</feedburner:origLink></item>
+      <item>
+        <title>Lightning Talk: Under Your Fingers</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/8qxl5cU4Zag/06-feb-2009-20-30-lightning-talk-under-your-fingers-corey-haines-large.mp4</link>
+        <pubdate>Fri, 06 Feb 2009 20:30:00 -0000</pubdate>
+
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/06-feb-2009-20-30-lightning-talk-under-your-fingers-corey-haines-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/06-feb-2009-20-30-lightning-talk-under-your-fingers-corey-haines-large.mp4" length="41163274" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/06-feb-2009-20-30-lightning-talk-under-your-fingers-corey-haines-large.mp4" fileSize="41163274" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/8qxl5cU4Zag" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/06-feb-2009-20-30-lightning-talk-under-your-fingers-corey-haines-large.mp4</feedburner:origLink></item>
+      <item>
+        <title>How to make a Successful Rails App</title>
+
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/2vZEnz2_0Sg/07-feb-2009-09-00-how-to-make-a-successful-rails-app-steven-bristol-large.mp4</link>
+        <pubdate>Sat, 07 Feb 2009 09:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/07-feb-2009-09-00-how-to-make-a-successful-rails-app-steven-bristol-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/07-feb-2009-09-00-how-to-make-a-successful-rails-app-steven-bristol-large.mp4" length="234607825" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/07-feb-2009-09-00-how-to-make-a-successful-rails-app-steven-bristol-large.mp4" fileSize="234607825" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/2vZEnz2_0Sg" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/07-feb-2009-09-00-how-to-make-a-successful-rails-app-steven-bristol-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>BrowserCMS</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/u1ro3ZoXj-k/07-feb-2009-10-00-browsercms-patrick-peak-and-paul-barry-large.mp4</link>
+        <pubdate>Sat, 07 Feb 2009 10:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/07-feb-2009-10-00-browsercms-patrick-peak-and-paul-barry-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/07-feb-2009-10-00-browsercms-patrick-peak-and-paul-barry-large.mp4" length="320808105" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/07-feb-2009-10-00-browsercms-patrick-peak-and-paul-barry-large.mp4" fileSize="320808105" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/u1ro3ZoXj-k" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/07-feb-2009-10-00-browsercms-patrick-peak-and-paul-barry-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Sponsor Message: Engine Yard</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/G42KI43q85g/07-feb-2009-11-00-sponsor-message-engine-yard-yehuda-katz-large.mp4</link>
+        <pubdate>Sat, 07 Feb 2009 11:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/07-feb-2009-11-00-sponsor-message-engine-yard-yehuda-katz-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/07-feb-2009-11-00-sponsor-message-engine-yard-yehuda-katz-large.mp4" length="103298627" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/07-feb-2009-11-00-sponsor-message-engine-yard-yehuda-katz-large.mp4" fileSize="103298627" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/G42KI43q85g" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/07-feb-2009-11-00-sponsor-message-engine-yard-yehuda-katz-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>TATFT: The Layman's Guide</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/Yzrx74fj7ic/07-feb-2009-13-30-tatft-the-laymans-guide-bryan-liles-large.mp4</link>
+        <pubdate>Sat, 07 Feb 2009 13:30:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/07-feb-2009-13-30-tatft-the-laymans-guide-bryan-liles-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/07-feb-2009-13-30-tatft-the-laymans-guide-bryan-liles-large.mp4" length="195440492" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/07-feb-2009-13-30-tatft-the-laymans-guide-bryan-liles-large.mp4" fileSize="195440492" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/Yzrx74fj7ic" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/07-feb-2009-13-30-tatft-the-laymans-guide-bryan-liles-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>OAuth and APIs</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/RGn4qJlb1cE/07-feb-2009-14-30-oauth-and-apis-tim-rosenblatt-large.mp4</link>
+        <pubdate>Sat, 07 Feb 2009 14:30:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/07-feb-2009-14-30-oauth-and-apis-tim-rosenblatt-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/07-feb-2009-14-30-oauth-and-apis-tim-rosenblatt-large.mp4" length="313618478" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/07-feb-2009-14-30-oauth-and-apis-tim-rosenblatt-large.mp4" fileSize="313618478" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/RGn4qJlb1cE" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/07-feb-2009-14-30-oauth-and-apis-tim-rosenblatt-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Relaxing with CouchDB</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/s7PictAULNo/07-feb-2009-16-00-relaxing-with-couchdb-will-leinweber-large.mp4</link>
+        <pubdate>Sat, 07 Feb 2009 16:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/07-feb-2009-16-00-relaxing-with-couchdb-will-leinweber-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/07-feb-2009-16-00-relaxing-with-couchdb-will-leinweber-large.mp4" length="80356910" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/07-feb-2009-16-00-relaxing-with-couchdb-will-leinweber-large.mp4" fileSize="80356910" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/s7PictAULNo" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/07-feb-2009-16-00-relaxing-with-couchdb-will-leinweber-large.mp4</feedburner:origLink></item>
+
+      <item>
+        <title>Keynote</title>
+        <link>http://feedproxy.google.com/~r/AAC2009-Confreaks/~3/IUW5GUuJ4R0/07-feb-2009-17-00-keynote-dan-benjamin-large.mp4</link>
+        <pubdate>Sat, 07 Feb 2009 17:00:00 -0000</pubdate>
+        <guid isPermaLink="false">http://aac2009.confreaks.com/videos/07-feb-2009-17-00-keynote-dan-benjamin-large.mp4</guid>
+        <enclosure url="http://aac2009.confreaks.com/videos/07-feb-2009-17-00-keynote-dan-benjamin-large.mp4" length="164950258" type="video/mp4" />
+      <author>contact@confreaks.com</author><media:content url="http://aac2009.confreaks.com/videos/07-feb-2009-17-00-keynote-dan-benjamin-large.mp4" fileSize="164950258" type="video/mp4" /><itunes:explicit>yes</itunes:explicit><itunes:author>contact@confreaks.com</itunes:author><itunes:keywords>ruby,rails,confreaks,conference,software,web,development,engineering</itunes:keywords><description>&lt;img src="http://feeds2.feedburner.com/~r/AAC2009-Confreaks/~4/IUW5GUuJ4R0" height="1" width="1"/&gt;</description><feedburner:origLink>http://aac2009.confreaks.com/videos/07-feb-2009-17-00-keynote-dan-benjamin-large.mp4</feedburner:origLink></item>
+
+  <media:rating>adult</media:rating></channel>
+</rss>
