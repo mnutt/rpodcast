@@ -1,5 +1,4 @@
 module RPodcast
-  # Note: we'll treat MRSS like it's an enclosure and scrape media:content stuff into this class.
   class Enclosure
     attr_accessor :url, :content_type, :size, :format
 
