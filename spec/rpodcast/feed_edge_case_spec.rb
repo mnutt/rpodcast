@@ -385,7 +385,7 @@ describe RPodcast::Feed, "BoingBoing" do
   end
 
   it 'should have episodes' do
-    @podcast.episodes.size.should == 28
+    @podcast.episodes.size.should == 30
   end
 
   it 'should have an episode with a title that has decoded html entities' do
@@ -430,67 +430,83 @@ end
 describe RPodcast::Feed, "ActsAsConference2009" do
 
   before do
-    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'boingboing.xml')).read
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'actsasconference.xml')).read
     @podcast = RPodcast::Feed.new(@content)
     @podcast.parse
   end
 
   it 'should extract the title' do
-    @podcast.title.should == "Boing Boing TV"
+    @podcast.title.should == "acts_as_conference 2009 - Confreaks"
   end
 
   it 'should extract the site link' do
-    @podcast.link.should == "http://tv.boingboing.net/"
+    @podcast.link.should == "http://aac2009.confreaks.com/"
   end
 
   it 'should extract the logo link' do
-    @podcast.image.should == "http://tv.boingboing.net/mtimages/bb-itunes-300.jpg"
+    @podcast.image.should == "http://aac2009.confreaks.com/images/aac09logo.png"
   end
  
   it 'should extract the description' do
-    @podcast.summary.should =~ /^From the editors of Boing Boing/
+    @podcast.summary.strip.should =~ /^acts_as_conference is an annual two day event/
   end
 
   it 'should extract the keywords' do
-    @podcast.keywords.should == ["boingboing", "Boing", "technology", "eclectic", 
-                                 "Xeni", "Jardin", "Mark", "Frauenfelder", "Cory", 
-                                 "Doctorow", "David", "Pescovitz"]
+    @podcast.keywords.should == ["ruby", "rails", "confreaks", "conference", 
+                                 "software", "web", "development", "engineering"]
   end
 
   it 'should extract the copyright' do
-    @podcast.copyright.should == "Copyright 2008"
+    @podcast.copyright.should == nil
   end
 
   it 'should extract the language' do
-    @podcast.language.should == "en"
+    @podcast.language.should == "en-us"
   end
   
   it 'should extract the generator' do
-    @podcast.generator.should == "http://www.sixapart.com/movabletype/"
+    @podcast.generator.should == "Confreaks custom podcast generator 1.0"
   end
 
   it 'should have episodes' do
-    @podcast.episodes.size.should == 28
+    @podcast.episodes.size.should == 20
   end
 
   it 'should have an episode with a title that has decoded html entities' do
-    @podcast.episodes[1].title.should == "Unicorn Chaser: Joel Johnson of Boing Boing Gadgets in\n      \"UHHHHHH.\""
+    @podcast.episodes[1].title.should == "Live Video Q&A"
   end
 
   it 'should have an episode with a summary' do
-    @podcast.episodes[1].summary.should =~ /after Joel was nearly bitten by a snake/
+    @podcast.episodes[1].summary.should =~ /<img src=\"http:\/\/feeds2.feedburner.com\/~r\/AAC2009-Confreaks\/~4\/tTNz8NyuSrE\" height=\"1\" width=\"1\"\/>/
   end
 
   it 'should have an episode with an enclosure with a URL' do
-    @podcast.episodes[1].enclosure.url.should == "http://feeds.boingboing.net/~r/boingboing/tv/~5/468487598/unicorn-chaser-uhhhh-joelboing-boing-gadgets.mp4"
+    @podcast.episodes[1].enclosure.url.should == "http://aac2009.confreaks.com/videos/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4"
   end
 
   it 'should have an episode with no size' do
-    @podcast.episodes[1].enclosure.size.should == 0
+    @podcast.episodes[1].enclosure.size.should == 564145577
   end
   
   it 'should have an episode with no duration' do
     @podcast.episodes[1].duration.should == 0
+  end
+
+  it 'should have an episode with MRSS' do
+    @podcast.episodes[1].media_contents.size.should be(1)
+    @podcast.episodes[1].media_contents[0].class.should be(RPodcast::MediaContent)
+  end
+  
+  it 'should have an episode with MRSS with a url' do
+    @podcast.episodes[1].media_contents[0].url.should == "http://aac2009.confreaks.com/videos/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4"
+  end
+
+  it 'should have an episode with MRSS with a size' do
+    @podcast.episodes[1].media_contents[0].size.should == 564145577
+  end
+
+  it 'should have an episode with MRSS with a format' do
+    @podcast.episodes[1].media_contents[0].format.should == 'mp4'
   end
 end
 

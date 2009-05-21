@@ -28,26 +28,48 @@ module RPodcast
     end
 
     def has_enclosure?
-      @content =~ /\<enclosure/ || @content =~ /\<media\:content/
+      @content =~ /\<enclosure/
+    end
+    
+    def has_media_content?
+      @content =~ /\<media\:content/
     end
 
     def parse
       raise InvalidXMLError  unless valid?
-      raise NoEnclosureError unless has_enclosure?
+      raise NoEnclosureError unless has_enclosure? || has_media_content?
 
       h = Hpricot.XML(@content)
 
       FEED_ATTRIBUTES.each do |attribute|
-        next unless self.respond_to?("parse_#{attribute}")
+        next unless respond_to?("parse_#{attribute}")
         @attributes[attribute] = self.send("parse_#{attribute}", h) rescue nil
       end
 
-      @attributes[:bitrate]  = self.episodes.first.bitrate rescue 0
-      @attributes[:format]   = self.episodes.first.enclosure.format rescue :unknown
-      @attributes[:audio?]   = !!(self.episodes.first.content_type =~ /^audio/) rescue false
-      @attributes[:video?]   = !!(self.episodes.first.content_type =~ /^video/) rescue false
-      @attributes[:hd?]      = self.video? ? self.bitrate > 1000 : self.bitrate > 180 rescue false
-      @attributes[:torrent?] = self.episodes.first.enclosure.format.to_s == "torrent" rescue false
+      @attributes[:bitrate]  = episodes.first.bitrate rescue 0
+      @attributes[:audio?]   = !!(episodes.first.content_type =~ /^audio/) rescue false
+      @attributes[:video?]   = !!(episodes.first.content_type =~ /^video/) rescue false
+      @attributes[:hd?]      = video? ? bitrate > 1000 : bitrate > 180 rescue false
+    end
+
+    def parse_format(h)
+      if episodes.first && episodes.first.enlcosure
+        episode.first.enclosure.format
+      elsif episodes.first && episodes.first.media_contents.size > 0
+        episodes.first.media_contents.first.format
+      else
+        :unknown
+      end
+    end
+
+    def parse_torrent?(h)
+      if episodes.first && episodes.first.enlcosure
+        episodes.first.enclosure.format.to_s == "torrent"
+      elsif episodes.first && episodes.first.media_contents.size > 0
+        episodes.first.media_contents.first.format.to_s == "torrent"
+      else
+        false
+      end
     end
 
     def parse_creative_commons?(h)
@@ -122,7 +144,13 @@ module RPodcast
     end
 
     def parse_episodes(h)
-      (h / 'item').map {|e| Episode.new(e) rescue nil }.compact
+      (h / 'item').map {|e| 
+        begin
+          Episode.new(e)
+        rescue => e
+          puts "\nthe episode error was #{e.inspect}\n"
+          nil
+        end }.compact
     end
 
     protected
