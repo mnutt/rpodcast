@@ -10,7 +10,7 @@ module RPodcast
       @attributes = Hash.new
       @attributes[:guid] = el.at('guid').inner_html rescue nil
       @attributes[:title] = (el.at('title') || el.at('media:title')).inner_html.gsub(/\<\!\[CDATA\[(.*)\]\]\>/, '\1') rescue nil
-      @attributes[:summary] = (el.at('description') || el.at('itunes:summary') || el.at('media:description')).inner_html rescue nil
+      @attributes[:summary] = (el.at('description') || el.at('itunes:summary') || el.at('media:description')).inner_html.gsub(/\<\!\[CDATA\[(.*)\]\]\>/, '\1') rescue nil
       @attributes[:published_at] = Time.parse(el.at('pubDate').inner_html) rescue nil
     
       # We'll scan for the possibility of included MRSS hashes, ie hashes[:md5] #=> 'as23ada123...'
