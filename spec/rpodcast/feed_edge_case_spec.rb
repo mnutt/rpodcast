@@ -113,6 +113,7 @@ describe RPodcast::Feed, "diggnation" do
 
     it 'should have a bitrate' do
       @podcast.episodes.first.bitrate.to_i.should == 1311
+      @podcast.episodes.first.enclosure.bitrate.to_i.should == 1311
     end
 
     it 'should have a url' do
@@ -151,6 +152,7 @@ describe RPodcast::Feed, "diggnation (w/only MRSS)" do
 
     it 'should have a bitrate' do
       @podcast.episodes.first.bitrate.to_i.should == 1311
+      @podcast.episodes.first.enclosure.bitrate.to_i.should == 0
     end
 
     it 'should have a hash' do
@@ -212,6 +214,7 @@ describe RPodcast::Feed, "powdertravel" do
 
     it 'should not have a bitrate' do # they have incorrect sizes
       @podcast.episodes.first.bitrate.to_i.should == 0
+      @podcast.episodes.first.enclosure.bitrate.to_i.should == 0
     end
 
     it 'should have a size' do # which is incorrect
@@ -276,6 +279,11 @@ describe RPodcast::Feed, "macbreak" do
 
     it 'should have a bitrate' do
       @podcast.episodes.first.bitrate.should == 1646.6225
+      @podcast.episodes.first.enclosure.bitrate.should == 1646.6225
+    end
+
+    it 'should have a size' do
+      @podcast.episodes.first.enclosure.size.should == 32932450
     end
 
     it 'should have a url' do
@@ -501,12 +509,20 @@ describe RPodcast::Feed, "ActsAsConference2009" do
     @podcast.episodes[1].media_contents[0].url.should == "http://aac2009.confreaks.com/videos/06-feb-2009-10-00-live-video-qa-david-heinemeier-hansson-large.mp4"
   end
 
+  it 'should have an episode with MRSS with a duration' do
+    @podcast.episodes[1].media_contents[0].duration.should == nil
+  end
+
   it 'should have an episode with MRSS with a size' do
     @podcast.episodes[1].media_contents[0].size.should == 564145577
   end
 
   it 'should have an episode with MRSS with a format' do
     @podcast.episodes[1].media_contents[0].format.should == 'mp4'
+  end
+
+  it 'should have an episode with MRSS with a bitrate' do
+    @podcast.episodes[1].media_contents[0].bitrate.should == 0
   end
 end
 

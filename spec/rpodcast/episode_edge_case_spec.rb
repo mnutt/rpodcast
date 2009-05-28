@@ -23,6 +23,11 @@ describe RPodcast::Episode, "All CNET HD Video Podcasts" do
   it 'should extract the duration' do
     @episode.duration.should == 19920
   end
+
+  it 'should extract the bitrate' do
+    @episode.bitrate.should == 0.0
+    @episode.enclosure.bitrate.should == 0.0
+  end
   
   it 'should extract the published_at value' do
     @episode.published_at.should == Time.parse("Tue, 19 May 2009 04:01:34 PDT")
@@ -53,6 +58,11 @@ describe RPodcast::Feed, "macbreak" do
     @episode.duration.should == 325
   end
   
+  it 'should extract the bitrate' do
+    @episode.bitrate.to_i.should == 1933
+    @episode.enclosure.bitrate.to_i.should == 1933
+  end
+    
   it 'should extract the published_at value' do
     @episode.published_at.should == Time.parse("Mon, 05 Feb 2007 00:00:00 GMT")
   end

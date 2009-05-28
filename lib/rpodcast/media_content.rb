@@ -1,6 +1,7 @@
 module RPodcast
   class MediaContent
-    attr_accessor :url, :content_type, :size, :format
+    attr_accessor :url, :content_type, :size, :format, :episode, 
+                  :bitrate, :duration
 
     @@content_types = {
       "video/avi"       => :avi,
@@ -15,11 +16,15 @@ module RPodcast
       "video/x-ms-wmv"  => :wmv,
     }.freeze
 
-    def initialize(element)
+    def initialize(element, episode)
+      @episode      = episode
+      @duration     = element['duration'] rescue nil
       @url          = element['url'] rescue nil
       @content_type = element['type'] rescue nil
       @size         = element['fileSize'].to_i rescue nil
       @format       = self.extension || @@content_types[self.content_type] || :unknown
+      @bitrate      = (((@size || 0) * 8) / 1000.0) / (@duration || @episode.duration).to_f
+      @bitrate      = 0 unless @bitrate.finite?
     end
 
     def extension

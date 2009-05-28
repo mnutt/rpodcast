@@ -39,8 +39,8 @@ module RPodcast
       # episode's raw XML snippet
       @raw_xml = el.to_html
 
-      @enclosure = RPodcast::Enclosure.new(el.at('enclosure'))
-      @media_contents = (el / 'media:content').to_a.map {|mc| RPodcast::MediaContent.new(mc)}
+      @enclosure = RPodcast::Enclosure.new(el.at('enclosure'), self)
+      @media_contents = (el / 'media:content').to_a.map {|mc| RPodcast::MediaContent.new(mc, self)}
 
       @attributes[:bitrate] = (((@enclosure.size || (@media_contents[0].size rescue 0)) * 8) / 1000.0) / @attributes[:duration]
       @attributes[:bitrate] = 0 unless @attributes[:bitrate].finite?
