@@ -21,7 +21,7 @@ describe RPodcast::Episode, "All CNET HD Video Podcasts" do
   end
 
   it 'should extract the duration' do
-    @episode.duration.should == 19920
+    @episode.duration.should == 332
   end
 
   it 'should extract the bitrate' do
@@ -90,12 +90,12 @@ describe RPodcast::Feed, "Adagio TeaV on blip.tv" do
   end
 
   it 'should extract the duration' do
-    @episode.duration.should == 16440
+    @episode.duration.should == 274
   end
   
   it 'should extract the bitrate' do
-    @episode.bitrate.to_i.should == 26
-    @episode.enclosure.bitrate.to_i.should == 26
+    @episode.bitrate.to_i.should == 1581
+    @episode.enclosure.bitrate.to_i.should == 1581
   end
     
   it 'should extract the published_at value' do

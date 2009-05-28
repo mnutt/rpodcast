@@ -346,7 +346,7 @@ describe RPodcast::Feed, "Sam Downie's Tech:Casts" do
   end
   
   it 'should have an episode with a duration' do
-    @podcast.episodes[1].duration.should == 91500
+    @podcast.episodes[1].duration.should == 1525
   end
 end
 
@@ -592,6 +592,6 @@ describe RPodcast::Feed, "All CNET HD Video Podcasts" do
   end
   
   it 'should have an episode with a duration' do
-    @podcast.episodes[1].duration.should == 14040
+    @podcast.episodes[1].duration.should == 234
   end
 end

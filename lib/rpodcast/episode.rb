@@ -19,14 +19,18 @@ module RPodcast
       
       begin
         # Time may be under an hour
-        time = (el.at('itunes:duration') || el.at('runtime') || el.at('blip:runtime')).inner_html
-        time = "00:#{time}" if time.size < 6
-        time_multiplier = [24 * 60, 60, 1]
-        @attributes[:duration] = time.split(":").map { |t| 
-          seconds = t.to_i * time_multiplier[0]
-          time_multiplier.shift
-          seconds
-        }.inject(0) {|m,n| m+n}
+        time = (el.at('itunes:duration') || el.at('blip:runtime')).inner_html
+        if time.include?(":")
+          time = "00:#{time}" if time.size < 6
+          time_multiplier = [24 * 60, 60, 1]
+          @attributes[:duration] = time.split(":").map { |t| 
+            seconds = t.to_i * time_multiplier[0]
+            time_multiplier.shift
+            seconds
+          }.inject(0) {|m,n| m+n}
+        else # assume it is already seconds
+          @attributes[:duration] = time.to_i
+        end
       rescue
         begin
           # Checking for MRSS
