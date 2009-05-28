@@ -68,3 +68,38 @@ describe RPodcast::Feed, "macbreak" do
   end
   
 end
+
+describe RPodcast::Feed, "Adagio TeaV on blip.tv" do
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'adagio_bliptv.xml')).read
+    @feed = RPodcast::Feed.new(@content)
+    @feed.parse
+    @episode = @feed.episodes[0]
+  end
+
+  it 'should have raw xml' do
+    @episode.raw_xml.should =~ /^<item/
+  end
+
+  it 'should extract the title' do
+    @episode.title.should == "Episode 21 - Coffee Road Special Tea"
+  end
+ 
+  it 'should extract the description with CDATA stripped out' do
+    @episode.summary.should =~ /^<embed src="http:\/\/blip.tv\/play\/g6JEgYSieZLSOw"/
+  end
+
+  it 'should extract the duration' do
+    @episode.duration.should == 16440
+  end
+  
+  it 'should extract the bitrate' do
+    @episode.bitrate.to_i.should == 26
+    @episode.enclosure.bitrate.to_i.should == 26
+  end
+    
+  it 'should extract the published_at value' do
+    @episode.published_at.should == Time.parse("Mon, 25 May 2009 10:44:12 +0000")
+  end
+  
+end

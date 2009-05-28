@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:blip="http://blip.tv/dtd/blip/1.0"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:amp="http://www.adobe.com/amp/1.0"
+	xmlns:dcterms="http://purl.org/dc/terms"
+	xmlns:gm="http://www.google.com/schemas/gm/1.1"
+	xmlns:mediaad="http://blip.tv/dtd/mediaad/1.0"
+>
+<channel>
+<title>Adagio TeaV</title>
+<link>http://www.adagio.com</link>
+
+
+
+
+
+
+
+
+
+
+	<itunes:image href="http://a.images.blip.tv/Adagioteas-300x300_show_image640.jpg" />
+	<amp:logo>http://a.images.blip.tv/Adagioteas-300x300_show_image640.jpg</amp:logo>
+
+
+
+
+
+
+<description>Zack Luye offers his take on a new Adagio Teas customer-created signature tea blend each week. New shows come out Mondays.</description>
+<itunes:summary>Zack Luye offers his take on a new Adagio Teas customer-created signature tea blend each week. New shows come out Mondays.</itunes:summary>
+
+
+<itunes:author>Adagio Teas</itunes:author>
+
+<itunes:category text="Arts:Food" />
+
+<language>en</language>
+<generator>http://blip.tv</generator>
+<lastBuildDate>Mon, 25 May 2009 10:44:12 +0000</lastBuildDate>
+<pubDate>Mon, 25 May 2009 10:44:12 +0000</pubDate>
+
+
+
+<item>
+  <guid isPermaLink="false">FC3C1F70-4918-11DE-8403-AD3773475546</guid>
+  <link>http://blip.tv/file/2156363</link>
+  <title>Episode 21 - Coffee Road Special Tea</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2167061</blip:posts_id>
+  <blip:item_id>2156363</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-25T10:44:12Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>274</blip:runtime>
+  <blip:embedLookup>g6JEgYSieZLSOw</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JEgYSieZLSOw</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2167061&amp;skin=rss</wfw:commentRss>
+
+  <blip:thumbnail_src>Adagioteas-Episode21CoffeeRoadSpecialTea103.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Coffee Road Special Tea by Mark Alexander]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode21CoffeeRoadSpecialTea103-310.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JEgYSieZLSOw" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Coffee Road Special Tea by Mark Alexander
+
+]]></description>
+  <comments>http://blip.tv/file/2156363</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <pubDate>Mon, 25 May 2009 10:44:12 +0000</pubDate>
+  <enclosure length="54167517" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-21237.mov"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="faad" blip:role="Source" blip:vcodec="ffh264" expression="full" fileSize="54167517" height="360" isDefault="true" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-21237.mov" width="640"></media:content>
+
+    <media:content blip:acodec="mp3" blip:role="web" blip:vcodec="ffvp6f" expression="full" fileSize="17806828" height="360" isDefault="false" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-21969.flv" width="640"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="55847824" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-21960.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2156363"><![CDATA[<embed src="http://blip.tv/play/g6JEgYSieZLSOw" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 21 - Coffee Road Special Tea</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode21CoffeeRoadSpecialTea103.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">74326758-43A3-11DE-8A66-B79A3E0348F4</guid>
+  <link>http://blip.tv/file/2126920</link>
+  <title>Episode 20 - Pirate's Brew</title>
+  <blip:user>adagioteas</blip:user>
+
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2137526</blip:posts_id>
+
+  <blip:item_id>2126920</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-18T12:00:17Z</blip:datestamp>
+  <blip:language>English</blip:language>
+
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>281</blip:runtime>
+  <blip:embedLookup>g6JEgYK8GpLSOw</blip:embedLookup>
+
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JEgYK8GpLSOw</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2137526&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode20PiratesBrew994.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Pirate's Brew by Triston Hopkins]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode20PiratesBrew994-157.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JEgYK8GpLSOw" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Pirate's Brew by Triston Hopkins
+
+]]></description>
+  <comments>http://blip.tv/file/2126920</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+  <category>pirate</category>
+  <pubDate>Mon, 18 May 2009 12:00:17 +0000</pubDate>
+
+  <enclosure length="767302043" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-ep20331.mov"/>
+  <itunes:keywords>tea, pirate</itunes:keywords>
+  <media:keywords>tea, pirate</media:keywords>
+  <media:group>
+    <media:content blip:acodec="faad" blip:role="Source" blip:vcodec="ffh264" expression="full" fileSize="767302043" height="450" isDefault="true" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-ep20331.mov" width="800"></media:content>
+    <media:content blip:acodec="mp3" blip:role="web" blip:vcodec="ffvp6f" expression="full" fileSize="18320136" height="450" isDefault="false" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-ep20241.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="57167895" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-ep20683.m4v" width="640"></media:content>
+  </media:group>
+
+  <media:player url="http://blip.tv/file/2126920"><![CDATA[<embed src="http://blip.tv/play/g6JEgYK8GpLSOw" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 20 - Pirate's Brew</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode20PiratesBrew994.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+
+  <guid isPermaLink="false">B0B6E8A6-3E09-11DE-8A0A-8B70ADBCB475</guid>
+  <link>http://blip.tv/file/2097173</link>
+  <title>Episode 19 - Tea of Brotherly Love</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2107651</blip:posts_id>
+  <blip:item_id>2097173</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-11T08:57:00Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>243</blip:runtime>
+  <blip:embedLookup>g6JEgYDSZ5LSOw</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JEgYDSZ5LSOw</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2107651&amp;skin=rss</wfw:commentRss>
+
+  <blip:thumbnail_src>Adagioteas-Episode19TeaOfBrotherlyLove803.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Tea of Brotherly Love by Mark Alexander]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode19TeaOfBrotherlyLove803-697.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JEgYDSZ5LSOw" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Tea of Brotherly Love by Mark Alexander
+
+]]></description>
+  <comments>http://blip.tv/file/2097173</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <pubDate>Mon, 11 May 2009 08:57:00 +0000</pubDate>
+  <enclosure length="452231705" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-19251.mov"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="faad" blip:role="Source" blip:vcodec="ffh264" expression="full" fileSize="452231705" height="450" isDefault="true" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-19251.mov" width="800"></media:content>
+
+    <media:content blip:acodec="mp3" blip:role="web" blip:vcodec="ffvp6f" expression="full" fileSize="16260514" height="450" isDefault="false" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-19640.flv" width="800"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2097173"><![CDATA[<embed src="http://blip.tv/play/g6JEgYDSZ5LSOw" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 19 - Tea of Brotherly Love</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode19TeaOfBrotherlyLove803.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">0D51B5EA-3875-11DE-823E-BF22D4954CE3</guid>
+  <link>http://blip.tv/file/2068472</link>
+  <title>Episode 18 - Wolverine</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2078904</blip:posts_id>
+  <blip:item_id>2068472</blip:item_id>
+
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-05-04T06:30:25Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>292</blip:runtime>
+  <blip:embedLookup>g6JE_vIcktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE_vIcktI7</blip:embedUrl>
+
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2078904&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-ep18512-184.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Wolverine Tea by Mical Turner]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-ep18512-184-230.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE_vIcktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Wolverine Tea by Mical Turner
+
+]]></description>
+
+  <comments>http://blip.tv/file/2068472</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+  <category>wolverine</category>
+  <pubDate>Mon, 04 May 2009 06:30:25 +0000</pubDate>
+
+  <enclosure length="432285825" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-ep18512.mov"/>
+  <itunes:keywords>tea, wolverine</itunes:keywords>
+  <media:keywords>tea, wolverine</media:keywords>
+  <media:group>
+    <media:content blip:acodec="ffadpcmimaqt" blip:role="Source" blip:vcodec="ffh264" expression="full" fileSize="432285825" height="450" isDefault="true" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-ep18512.mov" width="800"></media:content>
+    <media:content blip:acodec="mp3" blip:role="web" blip:vcodec="ffvp6f" expression="full" fileSize="19567683" height="450" isDefault="false" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-ep18791.flv" width="800"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2068472"><![CDATA[<embed src="http://blip.tv/play/g6JE_vIcktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+
+  <media:title>Episode 18 - Wolverine</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-ep18512-184.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">E7081392-331B-11DE-A942-F6E177E9E348</guid>
+
+  <link>http://blip.tv/file/2041306</link>
+  <title>Episode 17- Twilight - Edible Edward</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2051633</blip:posts_id>
+  <blip:item_id>2041306</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-04-27T11:09:40Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>294</blip:runtime>
+  <blip:embedLookup>g6JE_Z0VktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE_Z0VktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2051633&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode17TwilightEdibleEdward268.jpg</blip:thumbnail_src>
+
+  <blip:puredescription><![CDATA[Twilight - Edible Edward by Sarah Almon]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode17TwilightEdibleEdward268-854.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE_Z0VktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Twilight - Edible Edward by Sarah Almon
+
+]]></description>
+  <comments>http://blip.tv/file/2041306</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <category>twilight</category>
+  <category>edward</category>
+  <pubDate>Mon, 27 Apr 2009 11:09:40 +0000</pubDate>
+  <enclosure length="463812331" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-17485.mov"/>
+  <itunes:keywords>tea, twilight, edward</itunes:keywords>
+
+  <media:keywords>tea, twilight, edward</media:keywords>
+  <media:group>
+    <media:content blip:acodec="ffadpcmimaqt" blip:role="Source" blip:vcodec="ffh264" expression="full" fileSize="463812331" height="450" isDefault="true" type="video/quicktime" url="http://blip.tv/file/get/Adagioteas-17485.mov" width="800"></media:content>
+    <media:content blip:acodec="mp3" blip:role="web" blip:vcodec="ffvp6f" expression="full" fileSize="19896264" height="450" isDefault="false" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-17569.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="60034425" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-17177.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/2041306"><![CDATA[<embed src="http://blip.tv/play/g6JE_Z0VktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 17- Twilight - Edible Edward</media:title>
+
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode17TwilightEdibleEdward268.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">D9374088-2D87-11DE-B413-EF46D3117AD9</guid>
+  <link>http://blip.tv/file/2013519</link>
+
+  <title>Episode 16 - Birthday Tea</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>2023704</blip:posts_id>
+  <blip:item_id>2013519</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+
+  <blip:datestamp>2009-04-20T08:47:15Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+
+  <blip:runtime>293</blip:runtime>
+  <blip:embedLookup>g6JE+8J8ktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE+8J8ktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post2023704&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode16BirthdayTea182.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Birthday Tea by Christine Rillo]]></blip:puredescription>
+
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode16BirthdayTea182-586.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE+8J8ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Birthday Tea by Christine Rillo
+
+]]></description>
+  <comments>http://blip.tv/file/2013519</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+
+  <pubDate>Mon, 20 Apr 2009 08:47:15 +0000</pubDate>
+  <enclosure length="49222787" type="video/flv" url="http://blip.tv/file/get/Adagioteas-16488.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="49222787" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-16488.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="59950438" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-16468.m4v" width="640"></media:content>
+
+  </media:group>
+  <media:player url="http://blip.tv/file/2013519"><![CDATA[<embed src="http://blip.tv/play/g6JE+8J8ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 16 - Birthday Tea</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode16BirthdayTea182.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">15225C24-2859-11DE-A102-E7117D831BCA</guid>
+  <link>http://blip.tv/file/1988441</link>
+  <title>Episode 15 - Chocolate Chai</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1998493</blip:posts_id>
+  <blip:item_id>1988441</blip:item_id>
+
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-04-13T18:29:53Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>196</blip:runtime>
+  <blip:embedLookup>g6JE+f4BktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE+f4BktI7</blip:embedUrl>
+
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1998493&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode15ChocolateChai910.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Chocolate Chai by Inguna Trepsa]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode15ChocolateChai910-428.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE+f4BktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Chocolate Chai by Inguna Trepsa
+
+]]></description>
+
+  <comments>http://blip.tv/file/1988441</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+  <pubDate>Mon, 13 Apr 2009 18:29:53 +0000</pubDate>
+  <enclosure length="32793559" type="video/flv" url="http://blip.tv/file/get/Adagioteas-15flashfixed450.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="32793559" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-15flashfixed450.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="39835058" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-15flashfixed572.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1988441"><![CDATA[<embed src="http://blip.tv/play/g6JE+f4BktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 15 - Chocolate Chai</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode15ChocolateChai910.jpg"/>
+
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">18B6AB04-2248-11DE-A247-C5031147EFA7</guid>
+  <link>http://blip.tv/file/1960351</link>
+  <title>Episode 14 - Bon Bini Blend</title>
+
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+
+  <blip:posts_id>1970060</blip:posts_id>
+  <blip:item_id>1960351</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-04-06T01:13:11Z</blip:datestamp>
+
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>265</blip:runtime>
+
+  <blip:embedLookup>g6JE+J9wktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE+J9wktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1970060&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode14BonBiniBlend196.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Bon Bini Blend by Pam Smith]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode14BonBiniBlend196-244.jpg</blip:smallThumbnail>
+
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE+J9wktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Bon Bini Blend by Pam Smith
+
+]]></description>
+  <comments>http://blip.tv/file/1960351</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+  <pubDate>Mon, 06 Apr 2009 01:13:11 +0000</pubDate>
+
+  <enclosure length="44297292" type="video/flv" url="http://blip.tv/file/get/Adagioteas-ep14IlyaDrownsInTea427.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="44297292" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-ep14IlyaDrownsInTea427.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="53925956" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-ep14IlyaDrownsInTea266.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1960351"><![CDATA[<embed src="http://blip.tv/play/g6JE+J9wktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+
+  <media:title>Episode 14 - Bon Bini Blend</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode14BonBiniBlend196.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">CB56443E-1CE1-11DE-A579-AFBCF7D12EB9</guid>
+
+  <link>http://blip.tv/file/1933918</link>
+  <title>Episode 13- Battlestar Galactica</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1943550</blip:posts_id>
+  <blip:item_id>1933918</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-03-30T04:18:17Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>274</blip:runtime>
+  <blip:embedLookup>g6JE9tBiktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE9tBiktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1943550&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode13BattlestarGalactica581.jpg</blip:thumbnail_src>
+
+  <blip:puredescription><![CDATA[Battlestar Galactica by Patrick Thompson]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode13BattlestarGalactica581-460.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE9tBiktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Battlestar Galactica by Patrick Thompson
+
+]]></description>
+  <comments>http://blip.tv/file/1933918</comments>
+  <category>Food &amp; Drink</category>
+
+  <pubDate>Mon, 30 Mar 2009 04:18:17 +0000</pubDate>
+  <enclosure length="50618566" type="video/flv" url="http://blip.tv/file/get/Adagioteas-13624.flv"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="50618566" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-13624.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="55952508" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-13519.m4v" width="640"></media:content>
+  </media:group>
+
+  <media:player url="http://blip.tv/file/1933918"><![CDATA[<embed src="http://blip.tv/play/g6JE9tBiktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 13- Battlestar Galactica</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode13BattlestarGalactica581.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+
+  <guid isPermaLink="false">F7A131E4-176D-11DE-AF60-CFAD8F73F857</guid>
+  <link>http://blip.tv/file/1907751</link>
+  <title>Episode 12- Emerald Spring</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1917354</blip:posts_id>
+  <blip:item_id>1907751</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-03-23T05:46:34Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>222</blip:runtime>
+  <blip:embedLookup>g6JE9YQOktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE9YQOktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1917354&amp;skin=rss</wfw:commentRss>
+
+  <blip:thumbnail_src>Adagioteas-Episode12EmeraldSpring693.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Emerald Spring by Heather Smith]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode12EmeraldSpring693-417.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE9YQOktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Emerald Spring by Heather Smith
+
+]]></description>
+  <comments>http://blip.tv/file/1907751</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <pubDate>Mon, 23 Mar 2009 05:46:34 +0000</pubDate>
+  <enclosure length="40765636" type="video/flv" url="http://blip.tv/file/get/Adagioteas-ep12991.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="40765636" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-ep12991.flv" width="800"></media:content>
+
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="45012127" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-ep12371.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1907751"><![CDATA[<embed src="http://blip.tv/play/g6JE9YQOktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 12- Emerald Spring</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode12EmeraldSpring693.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">09A69ECA-1240-11DE-9361-AD9B472DD0A1</guid>
+  <link>http://blip.tv/file/1883644</link>
+  <title>Episode 11- St. Patrick's Day</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1893220</blip:posts_id>
+  <blip:item_id>1883644</blip:item_id>
+
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-03-16T15:35:11Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>260</blip:runtime>
+  <blip:embedLookup>g6JE88dIktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE88dIktI7</blip:embedUrl>
+
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1893220&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode11StPatricksDay363.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[St. Patrick's Day by Nick Moore]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode11StPatricksDay363-513.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE88dIktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+St. Patrick's Day by Nick Moore
+
+]]></description>
+
+  <comments>http://blip.tv/file/1883644</comments>
+  <category>Default Category</category>
+  <category>tea</category>
+  <pubDate>Mon, 16 Mar 2009 15:35:11 +0000</pubDate>
+  <enclosure length="47045907" type="video/flv" url="http://blip.tv/file/get/Adagioteas-11923.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="47045907" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-11923.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="53036600" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-11774.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1883644"><![CDATA[<embed src="http://blip.tv/play/g6JE88dIktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 11- St. Patrick's Day</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode11StPatricksDay363.jpg"/>
+
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">5B1F5DB6-0C44-11DE-A812-F9E689154DB5</guid>
+  <link>http://blip.tv/file/1856008</link>
+  <title>Episode 10 - Japan AI Tea</title>
+
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+
+  <blip:posts_id>1865531</blip:posts_id>
+  <blip:item_id>1856008</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-03-09T00:50:59Z</blip:datestamp>
+
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>302</blip:runtime>
+
+  <blip:embedLookup>g6JE8e8fktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE8e8fktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1865531&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode10JapanAITea446.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Japan AI Tea by Go Comi]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode10JapanAITea446-438.jpg</blip:smallThumbnail>
+
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE8e8fktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Japan AI Tea by Go Comi
+
+]]></description>
+  <comments>http://blip.tv/file/1856008</comments>
+  <category>Default Category</category>
+  <category>tea</category>
+  <pubDate>Mon, 09 Mar 2009 00:50:59 +0000</pubDate>
+
+  <enclosure length="54781821" type="video/flv" url="http://blip.tv/file/get/Adagioteas-ep10561.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="54781821" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-ep10561.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="61654308" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-ep10204.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1856008"><![CDATA[<embed src="http://blip.tv/play/g6JE8e8fktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+
+  <media:title>Episode 10 - Japan AI Tea</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode10JapanAITea446.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">8F689F08-06FC-11DE-B711-C16CD697392E</guid>
+
+  <link>http://blip.tv/file/1830664</link>
+  <title>Episode 9 - McMintolicious</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1840152</blip:posts_id>
+  <blip:item_id>1830664</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-03-02T07:34:27Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>358</blip:runtime>
+  <blip:embedLookup>g6JE8Kh8ktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE8Kh8ktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1840152&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode9McMintolicious276.jpg</blip:thumbnail_src>
+
+  <blip:puredescription><![CDATA[McMintolicious by Steven McNally]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode9McMintolicious276-698.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE8Kh8ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+McMintolicious by Steven McNally
+
+]]></description>
+  <comments>http://blip.tv/file/1830664</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <pubDate>Mon, 02 Mar 2009 07:34:27 +0000</pubDate>
+  <enclosure length="65426990" type="video/flv" url="http://blip.tv/file/get/Adagioteas-Ep9303.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="65426990" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-Ep9303.flv" width="800"></media:content>
+
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="72898516" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-Ep9609.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1830664"><![CDATA[<embed src="http://blip.tv/play/g6JE8Kh8ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 9 - McMintolicious</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode9McMintolicious276.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+<item>
+  <guid isPermaLink="false">A11ABF4A-0177-11DE-AB2A-EC0F93D22E68</guid>
+  <link>http://blip.tv/file/1803804</link>
+  <title>Episode 8 - Doctor's Tenth</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1813257</blip:posts_id>
+  <blip:item_id>1803804</blip:item_id>
+
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-02-23T07:00:18Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>413</blip:runtime>
+  <blip:embedLookup>g6JE7tZtktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE7tZtktI7</blip:embedUrl>
+
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1813257&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-8833-797.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Doctor's Tenth by Jenn Moffatt]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-8833-797-734.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE7tZtktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Doctor's Tenth by Jenn Moffatt
+
+]]></description>
+
+  <comments>http://blip.tv/file/1803804</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+  <pubDate>Mon, 23 Feb 2009 07:00:18 +0000</pubDate>
+  <enclosure length="77626926" type="video/flv" url="http://blip.tv/file/get/Adagioteas-8833.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="77626926" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-8833.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="84240349" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-8333.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1803804"><![CDATA[<embed src="http://blip.tv/play/g6JE7tZtktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 8 - Doctor's Tenth</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-8833-797.jpg"/>
+
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">4ADF6CEC-FBF1-11DD-92B5-9550335A90DA</guid>
+  <link>http://blip.tv/file/1778568</link>
+  <title>Episode 7 - Mint Chocolate Chip</title>
+
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+
+  <blip:posts_id>1787681</blip:posts_id>
+  <blip:item_id>1778568</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-02-16T06:16:05Z</blip:datestamp>
+
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>381</blip:runtime>
+
+  <blip:embedLookup>g6JE7Y8FktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE7Y8FktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1787681&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode7439-594.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Mint Chocolate Chip by Eddie Meredith]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode7439-594-279.jpg</blip:smallThumbnail>
+
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE7Y8FktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Mint Chocolate Chip by Eddie Meredith
+
+]]></description>
+  <comments>http://blip.tv/file/1778568</comments>
+  <category>Food &amp; Drink</category>
+  <pubDate>Mon, 16 Feb 2009 06:16:05 +0000</pubDate>
+  <enclosure length="68412347" type="video/flv" url="http://blip.tv/file/get/Adagioteas-Episode7439.flv"/>
+
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="68412347" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-Episode7439.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="77814462" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-Episode7545.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1778568"><![CDATA[<embed src="http://blip.tv/play/g6JE7Y8FktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 7 - Mint Chocolate Chip</media:title>
+
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode7439-594.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">FBA67BC8-F66B-11DD-BCAF-A5DAF01FC0A7</guid>
+  <link>http://blip.tv/file/1752797</link>
+
+  <title>Episode 6 - Year of the Ox Tea 2009</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1761431</blip:posts_id>
+  <blip:item_id>1752797</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+
+  <blip:datestamp>2009-02-09T05:39:13Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+
+  <blip:runtime>323</blip:runtime>
+  <blip:embedLookup>g6JE68F7ktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE68F7ktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1761431&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode6YearOfTheOxTea2009321.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Year of the Ox Tea 2009 by Jonathan Goodman]]></blip:puredescription>
+
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode6YearOfTheOxTea2009321-284.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE68F7ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Year of the Ox Tea 2009 by Jonathan Goodman
+
+]]></description>
+  <comments>http://blip.tv/file/1752797</comments>
+  <category>Food &amp; Drink</category>
+  <pubDate>Mon, 09 Feb 2009 05:39:13 +0000</pubDate>
+
+  <enclosure length="62761311" type="video/flv" url="http://blip.tv/file/get/Adagioteas-Episode6Mahahahah520.flv"/>
+  <itunes:keywords></itunes:keywords>
+  <media:keywords></media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="62761311" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-Episode6Mahahahah520.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="65787957" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-Episode6Mahahahah778.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1752797"><![CDATA[<embed src="http://blip.tv/play/g6JE68F7ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 6 - Year of the Ox Tea 2009</media:title>
+
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode6YearOfTheOxTea2009321.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">1E6274C0-F0AC-11DD-8E90-9E0A5E1E8E43</guid>
+  <link>http://blip.tv/file/1726803</link>
+
+  <title>Episode 5 - Jamie &amp; Kevin's Valentine Blend</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1735412</blip:posts_id>
+  <blip:item_id>1726803</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-02-01T22:03:12Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>366</blip:runtime>
+  <blip:embedLookup>g6JE6fZYktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE6fZYktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1735412&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode5JamieKevinsValentineBlend423.jpg</blip:thumbnail_src>
+
+  <blip:puredescription><![CDATA[Valentine's Day Blend by Kevin Burg]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode5JamieKevinsValentineBlend423-12.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE6fZYktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Valentine's Day Blend by Kevin Burg
+
+]]></description>
+  <comments>http://blip.tv/file/1726803</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <pubDate>Sun, 01 Feb 2009 22:03:12 +0000</pubDate>
+  <enclosure length="68470301" type="video/flv" url="http://blip.tv/file/get/Adagioteas-Episode5423.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="68470301" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-Episode5423.flv" width="800"></media:content>
+
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="74254305" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-Episode5778.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1726803"><![CDATA[<embed src="http://blip.tv/play/g6JE6fZYktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 5 - Jamie &amp; Kevin's Valentine Blend</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode5JamieKevinsValentineBlend423.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">A9AC5182-EB83-11DD-9130-DBD9BE8B0DA2</guid>
+  <link>http://blip.tv/file/1703937</link>
+  <title>Episode 4 - Mr. Blue Sky</title>
+  <blip:user>adagioteas</blip:user>
+
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1712534</blip:posts_id>
+
+  <blip:item_id>1703937</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-01-26T08:31:01Z</blip:datestamp>
+  <blip:language>English</blip:language>
+
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>265</blip:runtime>
+  <blip:embedLookup>g6JE6MN6ktI7</blip:embedLookup>
+
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE6MN6ktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1712534&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode4MrBlueSky877.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Mr. Blue Sky by Juan Sanson]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode4MrBlueSky877-201.jpg</blip:smallThumbnail>
+  <blip:license>Creative Commons Attribution 2.0</blip:license>
+
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE6MN6ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Mr. Blue Sky by Juan Sanson
+
+]]></description>
+  <comments>http://blip.tv/file/1703937</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+  <pubDate>Mon, 26 Jan 2009 08:31:01 +0000</pubDate>
+  <enclosure length="48342006" type="video/flv" url="http://blip.tv/file/get/Adagioteas-Episode4MrBlueSky645.flv"/>
+
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="48342006" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-Episode4MrBlueSky645.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="53586389" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-Episode4MrBlueSky755.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1703937"><![CDATA[<embed src="http://blip.tv/play/g6JE6MN6ktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 4 - Mr. Blue Sky</media:title>
+
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode4MrBlueSky877.jpg"/>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/2.0/</creativeCommons:license>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">9798464E-E5FD-11DD-A662-FBBB0DF7BE2C</guid>
+  <link>http://blip.tv/file/1681176</link>
+
+  <title>Episode 3 - Apple of my Eye</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1689757</blip:posts_id>
+  <blip:item_id>1681176</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+
+  <blip:datestamp>2009-01-19T07:48:42Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+
+  <blip:runtime>199</blip:runtime>
+  <blip:embedLookup>g6JE55IBktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE55IBktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1689757&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode3AppleOfMyEye467.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Apple of my Eye by Laura Buzovi]]></blip:puredescription>
+
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode3AppleOfMyEye467-541.jpg</blip:smallThumbnail>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE55IBktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Apple of my Eye by Laura Buzovi
+
+]]></description>
+  <comments>http://blip.tv/file/1681176</comments>
+  <category>Food &amp; Drink</category>
+  <category>tea</category>
+
+  <pubDate>Mon, 19 Jan 2009 07:48:42 +0000</pubDate>
+  <enclosure length="45971769" type="video/flv" url="http://blip.tv/file/get/Adagioteas-episode3335.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="45971769" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-episode3335.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="40173347" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-episode3732.m4v" width="640"></media:content>
+
+  </media:group>
+  <media:player url="http://blip.tv/file/1681176"><![CDATA[<embed src="http://blip.tv/play/g6JE55IBktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 3 - Apple of my Eye</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode3AppleOfMyEye467.jpg"/>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">D9B46738-E08A-11DD-971C-84AFD5927F9E</guid>
+
+  <link>http://blip.tv/file/1659392</link>
+  <title>Episode 2 - Dreamsicle Tea</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+  <blip:show>Adagio TeaV</blip:show>
+
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1667950</blip:posts_id>
+  <blip:item_id>1659392</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+  <blip:contentRating>TV-G</blip:contentRating>
+
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-01-12T09:24:45Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+  <blip:recommendable>0</blip:recommendable>
+
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>200</blip:runtime>
+  <blip:embedLookup>g6JE5edSktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE5edSktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1667950&amp;skin=rss</wfw:commentRss>
+  <blip:thumbnail_src>Adagioteas-Episode2DreamsicleTea712.jpg</blip:thumbnail_src>
+
+  <blip:puredescription><![CDATA[Dreamsicle Tea by Sherra Gray]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode2DreamsicleTea712-187.jpg</blip:smallThumbnail>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE5edSktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Dreamsicle Tea by Sherra Gray
+
+]]></description>
+  <comments>http://blip.tv/file/1659392</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <pubDate>Mon, 12 Jan 2009 09:24:45 +0000</pubDate>
+  <enclosure length="46681823" type="video/flv" url="http://blip.tv/file/get/Adagioteas-ep2BetterVersion705.flv"/>
+  <itunes:keywords>tea</itunes:keywords>
+  <media:keywords>tea</media:keywords>
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="46681823" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-ep2BetterVersion705.flv" width="800"></media:content>
+
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="40555874" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-ep2BetterVersion907.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1659392"><![CDATA[<embed src="http://blip.tv/play/g6JE5edSktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 2 - Dreamsicle Tea</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode2DreamsicleTea712.jpg"/>
+</item>
+
+
+
+
+
+<item>
+  <guid isPermaLink="false">05E28904-D891-11DD-9724-FCDDB8FB2ED0</guid>
+  <link>http://blip.tv/file/1629295</link>
+  <title>Episode 1 - Afternoon Hike</title>
+  <blip:user>adagioteas</blip:user>
+  <blip:userid>305367</blip:userid>
+  <blip:safeusername>adagio</blip:safeusername>
+
+  <blip:show>Adagio TeaV</blip:show>
+  <blip:showpage>http://www.adagio.com</blip:showpage>
+  <blip:picture>http://blip.tv/skin/blipnew/placeholder_user.gif</blip:picture>
+  <blip:posts_id>1637808</blip:posts_id>
+  <blip:item_id>1629295</blip:item_id>
+  <blip:item_type>file</blip:item_type>
+
+  <blip:contentRating>TV-G</blip:contentRating>
+  <blip:rating>0.0</blip:rating>
+  <blip:datestamp>2009-01-02T05:48:47Z</blip:datestamp>
+  <blip:language>English</blip:language>
+  <blip:adChannel>food</blip:adChannel>
+  <blip:recommendations>0</blip:recommendations>
+
+  <blip:recommendable>0</blip:recommendable>
+  <blip:adminRating>1</blip:adminRating>
+  <blip:runtime>183</blip:runtime>
+  <blip:embedLookup>g6JE4_wUktI7</blip:embedLookup>
+  <blip:embedUrl type="application/x-shockwave-flash">http://blip.tv/play/g6JE4_wUktI7</blip:embedUrl>
+  <wfw:commentRss>http://blip.tv/comments/?attached_to=post1637808&amp;skin=rss</wfw:commentRss>
+
+  <blip:thumbnail_src>Adagioteas-Episode1AfternoonHike534.jpg</blip:thumbnail_src>
+  <blip:puredescription><![CDATA[Premiere episode of Adagio TeaV.]]></blip:puredescription>
+  <blip:smallThumbnail>http://e.static.blip.tv/Adagioteas-Episode1AfternoonHike534-827.jpg</blip:smallThumbnail>
+  <blip:license>No license (All rights reserved)</blip:license>
+  <description><![CDATA[
+
+
+<embed src="http://blip.tv/play/g6JE4_wUktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<br />
+
+Premiere episode of Adagio TeaV.
+
+]]></description>
+  <comments>http://blip.tv/file/1629295</comments>
+  <category>Food &amp; Drink</category>
+
+  <category>tea</category>
+  <category>adagio</category>
+  <pubDate>Fri, 02 Jan 2009 05:48:47 +0000</pubDate>
+  <enclosure length="42245579" type="video/flv" url="http://blip.tv/file/get/Adagioteas-Episode1AfternoonHike446.flv"/>
+  <itunes:keywords>tea, adagio</itunes:keywords>
+  <media:keywords>tea, adagio</media:keywords>
+
+  <media:group>
+    <media:content blip:acodec="mp3" blip:role="Source" blip:vcodec="ffvp6f" expression="full" fileSize="42245579" height="450" isDefault="true" type="video/x-flv" url="http://blip.tv/file/get/Adagioteas-Episode1AfternoonHike446.flv" width="800"></media:content>
+    <media:content blip:acodec="faad" blip:role="web" blip:vcodec="ffh264" expression="full" fileSize="36988487" height="360" isDefault="false" type="video/x-m4v" url="http://blip.tv/file/get/Adagioteas-Episode1AfternoonHike250.m4v" width="640"></media:content>
+  </media:group>
+  <media:player url="http://blip.tv/file/1629295"><![CDATA[<embed src="http://blip.tv/play/g6JE4_wUktI7" type="application/x-shockwave-flash" width="800" height="480" allowscriptaccess="always" allowfullscreen="true"></embed> ]]></media:player>
+  <media:title>Episode 1 - Afternoon Hike</media:title>
+  <media:thumbnail url="http://e.static.blip.tv/Adagioteas-Episode1AfternoonHike534.jpg"/>
+</item>
+
+
+
+
+
+
+</channel>
+</rss>

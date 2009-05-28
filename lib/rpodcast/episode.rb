@@ -19,7 +19,7 @@ module RPodcast
       
       begin
         # Time may be under an hour
-        time = el.at('itunes:duration').inner_html
+        time = (el.at('itunes:duration') || el.at('runtime') || el.at('blip:runtime')).inner_html
         time = "00:#{time}" if time.size < 6
         time_multiplier = [24 * 60, 60, 1]
         @attributes[:duration] = time.split(":").map { |t| 
