@@ -11,4 +11,8 @@ describe RPodcast::Episode do
   it 'should have raw xml' do
     @episode.raw_xml.should =~ /^<item/
   end
+
+  it 'should have a subtitle' do
+    @episode.subtitle.should == 'A short primer on table spices'
+  end
 end

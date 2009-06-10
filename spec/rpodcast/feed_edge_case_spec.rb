@@ -12,6 +12,10 @@ describe RPodcast::Feed, "1upshow" do
     @podcast.title.should == "The 1UP Show"
   end
 
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "1UP editors report on the videogame industry and the community that surrounds it. PS3, Wii, Xbox 360, PC, PS2, Xbox, GameCube, PSP, GBA, DS, Wireless. 1UP.com, Electronic Gaming Monthly, Official U.S. PlayStation Magazine, Games For Windows"
+  end
+
   it 'should extract the site link' do
     @podcast.link.should == "http://the1upshow.1up.com/"
   end
@@ -72,6 +76,10 @@ describe RPodcast::Feed, "diggnation" do
   it 'should extract the title' do
     @podcast.title.should == "Diggnation (Large WMV)"
   end
+  
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "Diggnation is a weekly tech/web culture show based on the top digg.com social bookmarking news stories."
+  end
 
   it 'should extract the site link' do
     @podcast.link.should == "http://revision3.com/diggnation"
@@ -106,6 +114,10 @@ describe RPodcast::Feed, "diggnation" do
     it 'should have a title' do
       @podcast.episodes.first.title.should =~ /Diggnation - Prager/
     end
+    
+    it 'should extract the subtitle' do
+      @podcast.episodes.first.subtitle.strip.should == "Creative Business Card Designs, Early Dark Knight Concept Art Shows a Much Creepier Joker, This Guy Actually Bought the I Am Rich App for $999.99, Ikea to Start Selling Solar Panels, Slow Motion Lightning Video is Mindblowing. LIVE SHOW ON TUESDAY AUG 26"
+    end
 
     it 'should have a duration' do
       @podcast.episodes.first.duration.should == 2679
@@ -136,10 +148,18 @@ describe RPodcast::Feed, "diggnation (w/only MRSS)" do
     @podcast.title.should == "Diggnation (Large WMV)"
   end
 
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "Diggnation is a weekly tech/web culture show based on the top digg.com social bookmarking news stories."
+  end
+
   describe "first episode" do
 
     it 'should have a title' do
       @podcast.episodes.first.title.should =~ /Diggnation - Prager/
+    end
+    
+    it 'should have a subtitle' do
+      @podcast.episodes.first.subtitle.should =~ /Creative Business Card Designs,/
     end
     
     it 'should have a summary' do
@@ -172,6 +192,10 @@ describe RPodcast::Feed, "powdertravel" do
 
   it 'should extract the title' do
     @podcast.title.should == "-Ski & Snowboard Travel Show- (video) powdertravel.com"
+  end
+
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "Ski & Snowboard Travel Show - powdertravel.com"
   end
 
   it 'should extract the site link' do
@@ -208,6 +232,10 @@ describe RPodcast::Feed, "powdertravel" do
       @podcast.episodes.first.title.should =~ /Davos Review/
     end
 
+    it 'should have a subtitle' do
+      @podcast.episodes.first.subtitle.should == "Davos Review / Ski &amp; Snowboard Travel Show episode Forty Five"
+    end
+
     it 'should have a duration' do
       @podcast.episodes.first.duration.should == 308
     end
@@ -237,6 +265,10 @@ describe RPodcast::Feed, "macbreak" do
 
   it 'should extract the title' do
     @podcast.title.should == "MacBreak (HD video)"
+  end
+
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "The first hi-def IPTV show all about the Mac"
   end
 
   it 'should extract the site link' do
@@ -273,6 +305,10 @@ describe RPodcast::Feed, "macbreak" do
       @podcast.episodes.first.title.should =~ /MacBreak 166/
     end
 
+    it 'should have a subtitle' do
+      @podcast.episodes.first.subtitle.should =~ /Alex explains the advantages of using Tubemogul to upload and track your online media./
+    end
+
     it 'should have a duration' do
       @podcast.episodes.first.duration.should == 160
     end
@@ -305,6 +341,10 @@ describe RPodcast::Feed, "Sam Downie's Tech:Casts" do
     @podcast.title.should == "Sam Downie's Tech:Casts"
   end
 
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "Unique Technology interviews from the UK - Give it a listen!"
+  end
+
   it 'should extract the site link' do
     @podcast.link.should == "http://techcasts.podOmatic.com"
   end
@@ -331,6 +371,10 @@ describe RPodcast::Feed, "Sam Downie's Tech:Casts" do
 
   it 'should have an episode with a title that has decoded html entities' do
     @podcast.episodes[1].title.should == "Guide to Macworld Conference & Expo 2008"
+  end
+
+  it 'should have an episode with no subtitle' do
+    @podcast.episodes[1].subtitle.should == nil
   end
 
   it 'should have an episode with a summary' do
@@ -360,6 +404,10 @@ describe RPodcast::Feed, "BoingBoing" do
 
   it 'should extract the title' do
     @podcast.title.should == "Boing Boing TV"
+  end
+
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "Boing Boing TV"
   end
 
   it 'should extract the site link' do
@@ -400,6 +448,10 @@ describe RPodcast::Feed, "BoingBoing" do
     @podcast.episodes[1].title.should == "Unicorn Chaser: Joel Johnson of Boing Boing Gadgets in\n      \"UHHHHHH.\""
   end
 
+  it 'should have an episode with a subtitle' do
+    @podcast.episodes[1].subtitle.should =~ /Boing Boing Gadgets editor Joel Johnson/
+  end
+
   it 'should have an episode with a summary' do
     @podcast.episodes[1].summary.should =~ /after Joel was nearly bitten by a snake/
   end
@@ -433,6 +485,10 @@ describe RPodcast::Feed, "Investment Real Estate" do
   it 'should extract the title' do
     @podcast.title.should == "Investment Real Estate Podcast"
   end
+
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == ""
+  end
 end
 
 describe RPodcast::Feed, "ActsAsConference2009" do
@@ -445,6 +501,10 @@ describe RPodcast::Feed, "ActsAsConference2009" do
 
   it 'should extract the title' do
     @podcast.title.should == "acts_as_conference 2009 - Confreaks"
+  end
+
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "This annual two day event is dedicated to Ruby on Rails and the happy developers that use it (or wish to use it) in their daily lives."
   end
 
   it 'should extract the site link' do
@@ -484,6 +544,10 @@ describe RPodcast::Feed, "ActsAsConference2009" do
     @podcast.episodes[1].title.should == "Live Video Q&A"
   end
 
+  it 'should have an episode with no subtitle' do
+    @podcast.episodes[1].subtitle.should == nil
+  end
+  
   it 'should have an episode with a summary' do
     @podcast.episodes[1].summary.should =~ /<img src=\"http:\/\/feeds2.feedburner.com\/~r\/AAC2009-Confreaks\/~4\/tTNz8NyuSrE\" height=\"1\" width=\"1\"\/>/
   end
@@ -540,6 +604,10 @@ describe RPodcast::Feed, "All CNET HD Video Podcasts" do
     @podcast.title.should == "All CNET HD Video Podcasts"
   end
 
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "Get your fix of all HD video podcast feeds currently offered through podcast.cnet.com in one place."
+  end
+
   it 'should extract the site link' do
     @podcast.link.should == "http://cnettv.cnet.com/"
   end
@@ -577,6 +645,10 @@ describe RPodcast::Feed, "All CNET HD Video Podcasts" do
 
   it 'should have an episode with a title that has CDATA stripped out' do
     @podcast.episodes[1].title.should == "Crazy-mail special"
+  end
+
+  it 'should have an episode with a subtitle that has CDATA stripped out' do
+    @podcast.episodes[1].subtitle.should == "This week on Mailbag, we’re throwing out the podcast feed questions and helpful advice, and just reading the crazy mail. It’s epic."
   end
 
   it 'should have an episode with a summary' do

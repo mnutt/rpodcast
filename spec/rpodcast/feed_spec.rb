@@ -11,6 +11,10 @@ describe RPodcast::Feed, "instantiating a new feed" do
   it 'should extract the title' do
     @podcast.title.should == "All About Everything"
   end
+  
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "A show about everything"
+  end
 
   it 'should extract the site link' do
     @podcast.link.should == "http://www.example.com/podcasts/everything/index.html"

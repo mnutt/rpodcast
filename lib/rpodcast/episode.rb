@@ -2,7 +2,7 @@ require 'cgi'
 
 module RPodcast
   class Episode
-    EPISODE_ATTRIBUTES = [:guid, :title, :summary, :published_at, :enclosure, :media_contents, :duration, :bitrate, :hashes]
+    EPISODE_ATTRIBUTES = [:guid, :title, :subtitle, :summary, :published_at, :enclosure, :media_contents, :duration, :bitrate, :hashes]
 
     attr_accessor :attributes, :enclosure, :media_contents, :raw_xml
     
@@ -10,6 +10,7 @@ module RPodcast
       @attributes = Hash.new
       @attributes[:guid] = el.at('guid').inner_html rescue nil
       @attributes[:title] = (el.at('title') || el.at('media:title')).inner_html.gsub(/\<\!\[CDATA\[(.*)\]\]\>/m, '\1') rescue nil
+      @attributes[:subtitle] = el.at('itunes:subtitle').inner_html.gsub(/\<\!\[CDATA\[(.*)\]\]\>/m, '\1') rescue nil
       @attributes[:summary] = (el.at('description') || el.at('itunes:summary') || el.at('media:description')).inner_html.gsub(/\<\!\[CDATA\[(.*)\]\]\>/m, '\1') rescue nil
       @attributes[:published_at] = Time.parse(el.at('pubDate').inner_html) rescue nil
     

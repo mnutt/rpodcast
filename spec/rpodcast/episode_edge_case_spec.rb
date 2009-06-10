@@ -15,6 +15,10 @@ describe RPodcast::Episode, "All CNET HD Video Podcasts" do
   it 'should extract the title with CDATA stripped out' do
     @episode.title.should == "Nintendo DSi vs. PSP-3000"
   end
+
+  it 'should extract the subtitle with CDATA stripped out' do
+    @episode.subtitle.should == "It's a rematch for portable gaming supremacy! Nintendo and Sony have both made updates, but will Nintendo's brand-new DSi be able to take down the PSP once again?"
+  end
  
   it 'should extract the description' do
     @episode.summary.should =~ /^It's a rematch for portable gaming supremacy! Nintendo and Sony have both made updates, but will Nintendo's brand-new DSi be able to take down the PSP once again?/
@@ -85,6 +89,10 @@ describe RPodcast::Feed, "Adagio TeaV on blip.tv" do
     @episode.title.should == "Episode 21 - Coffee Road Special Tea"
   end
  
+  it 'should extract the title' do
+    @episode.subtitle.should == nil
+  end
+
   it 'should extract the description with CDATA stripped out' do
     @episode.summary.should =~ /^<embed src="http:\/\/blip.tv\/play\/g6JEgYSieZLSOw"/
   end

@@ -11,10 +11,11 @@ module RPodcast
   class BannedFeedError < PodcastError; end
 
   class Feed
-    FEED_ATTRIBUTES = [:title, :link, :image, :summary, :language, :owner_email, 
-                       :owner_name, :keywords, :categories, :copyright, :episodes, 
-                       :bitrate, :format, :generator, :audio?, :video?, :explicit?, :hd?, 
-                       :torrent?, :creative_commons?]
+    FEED_ATTRIBUTES = [:title, :subtitle, :link, :image, :summary, :language, 
+                       :owner_email, :owner_name, :keywords, :categories, 
+                       :copyright, :episodes, :bitrate, :format, :generator, 
+                       :audio?, :video?, :explicit?, :hd?, :torrent?, 
+                       :creative_commons?]
     
     attr_accessor :feed, :attributes
 
@@ -78,6 +79,10 @@ module RPodcast
 
     def parse_title(h)
       (h % 'title').inner_text
+    end
+
+    def parse_subtitle(h)
+      (h % 'itunes:subtitle').inner_text
     end
 
     def parse_explicit?(h)
