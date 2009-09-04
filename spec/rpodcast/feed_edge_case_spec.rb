@@ -182,6 +182,74 @@ describe RPodcast::Feed, "diggnation (w/only MRSS)" do
 
 end
 
+describe RPodcast::Feed, "diggnation (funneled)" do
+
+  before do
+    @content = File.open(File.join(ROOT, 'spec', 'data', 'feeds', 'diggnation_funnel.xml')).read
+    @podcast = RPodcast::Feed.new(@content)
+    @podcast.parse
+  end
+
+  it 'should extract the title' do
+    @podcast.title.should == "Diggnation"
+  end
+
+  it 'should extract the subtitle' do
+    @podcast.subtitle.should == "Diggnation is a weekly tech/web culture show based on the top digg.com social bookmarking news stories."
+  end
+
+  it 'should have array of links from feedfunnel:origLinks' do
+    @podcast.links.should == %w(
+    http://revision3.com/diggnation/feed/mp3/
+    http://revision3.com/diggnation/feed/xvid-small/
+    http://revision3.com/diggnation/feed/xvid-large/
+    http://revision3.com/diggnation/feed/wmv-small/
+    http://revision3.com/diggnation/feed/wmv-large/
+    http://revision3.com/diggnation/feed/quicktime-small/
+    http://revision3.com/diggnation/feed/quicktime-large/
+    http://revision3.com/diggnation/feed/quicktime-high-definition/
+    http://revision3.com/diggnation/feed/mp4-hd30/)
+  end
+
+  describe "first episode" do
+
+    it 'should have a title' do
+      @podcast.episodes.first.title.should =~ /Poolside at Night in Arizona - Diggnation/
+    end
+    
+    it 'should have a subtitle' do
+      @podcast.episodes.first.subtitle.should =~ /Coming straight from the infamous Phoenix heat/
+    end
+    
+    it 'should have a summary' do
+      @podcast.episodes.first.summary.strip.should =~ /Coming straight from the infamous Phoenix heat/
+    end
+
+    it 'should have a duration' do
+      @podcast.episodes.first.duration.should == 0
+    end
+
+    it 'should have a bitrate' do
+      @podcast.episodes.first.bitrate.to_i.should == 0
+      @podcast.episodes.first.enclosure.bitrate.to_i.should == 0
+    end
+    
+    it 'should have a media:group' do
+      @podcast.episodes.first.media_contents.map { |mc| mc.url }.should == %w(
+      http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--large.h264.mp4
+      http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--small.wmv9.wmv
+      http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--small.xvid.avi
+      http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--large.xvid.avi
+      http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--large.wmv9.wmv
+      http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--hd.h264.mp4
+      http://www.podtrac.com/pts/redirect.mp3/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--large.lame.mp3
+      http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--hd720p30.h264.mp4
+      http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0218/diggnation--0218--phoenixhotel--small.h264.mp4)
+    end
+  end
+
+end
+
 describe RPodcast::Feed, "powdertravel" do
 
   before do

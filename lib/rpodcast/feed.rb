@@ -11,7 +11,7 @@ module RPodcast
   class BannedFeedError < PodcastError; end
 
   class Feed
-    FEED_ATTRIBUTES = [:title, :subtitle, :link, :image, :summary, :language, 
+    FEED_ATTRIBUTES = [:title, :subtitle, :link, :links, :image, :summary, :language, 
                        :owner_email, :owner_name, :keywords, :categories, 
                        :copyright, :episodes, :bitrate, :format, :generator, 
                        :audio?, :video?, :explicit?, :hd?, :torrent?, 
@@ -156,6 +156,10 @@ module RPodcast
           puts "\nthe episode error was #{e.inspect}\n"
           nil
         end }.compact
+    end
+    
+    def parse_links(h)
+      (h / 'feedfunnel:origLink').map { |l| l.inner_text }
     end
 
     protected
