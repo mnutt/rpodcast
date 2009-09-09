@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:amp="http://www.adobe.com/amp/1.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cnettv="http://cnettv.com/mrss/" version="2.0" xmlns:feedfunnel="http://limecast.com/feedfunnelrss" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/mp3/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/xvid-small/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/xvid-large/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/wmv-small/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/wmv-large/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/quicktime-small/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/quicktime-large/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/quicktime-high-definition/</feedfunnel:origLink>
-    <feedfunnel:origLink>http://revision3.com/diggnation/feed/mp4-hd30/</feedfunnel:origLink>
-    
+    <combinificator:group>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/mp4-hd30/">
+        <combinificator:enclosure duration="2316" size="568539428" url="http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--hd720p30.h264.mp4" type="video/mp4"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/quicktime-high-definition/">
+        <combinificator:enclosure duration="2316" size="476982528" url="http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--hd.h264.mp4" type="video/mp4"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/quicktime-large/">
+        <combinificator:enclosure duration="2316" size="385712306" url="http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.h264.mp4" type="video/mp4"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/quicktime-small/">
+        <combinificator:enclosure duration="2316" size="135318410" url="http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.h264.mp4" type="video/mp4"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/wmv-large/">
+        <combinificator:enclosure duration="2316" size="385987610" url="http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.wmv9.wmv" type="video/x-ms-wmv"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/wmv-small/">
+        <combinificator:enclosure duration="2316" size="147700570" url="http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.wmv9.wmv" type="video/x-ms-wmv"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/xvid-large/">
+        <combinificator:enclosure duration="2316" size="330597352" url="http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.xvid.avi" type="video/x-msvideo"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="false" url="http://revision3.com/diggnation/feed/xvid-small/">
+        <combinificator:enclosure duration="2316" size="214916040" url="http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.xvid.avi" type="video/x-msvideo"></combinificator:enclosure>
+      </combinificator:source>
+      <combinificator:source isPrimary="true" url="http://revision3.com/diggnation/feed/mp3/">
+        <combinificator:enclosure duration="2316" size="37923840" url="http://www.podtrac.com/pts/redirect.mp3/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.lame.mp3" type="audio/mpeg"></combinificator:enclosure>
+      </combinificator:source>
+    </combinificator:group>
+  
     <title>Diggnation</title>
     
     <link>http://revision3.com/diggnation</link>

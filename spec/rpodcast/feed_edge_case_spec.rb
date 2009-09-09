@@ -198,17 +198,68 @@ describe RPodcast::Feed, "diggnation (funneled)" do
     @podcast.subtitle.should == "Diggnation is a weekly tech/web culture show based on the top digg.com social bookmarking news stories."
   end
 
-  it 'should have array of links from feedfunnel:origLinks' do
-    @podcast.links.should == %w(
-    http://revision3.com/diggnation/feed/mp3/
-    http://revision3.com/diggnation/feed/xvid-small/
-    http://revision3.com/diggnation/feed/xvid-large/
-    http://revision3.com/diggnation/feed/wmv-small/
-    http://revision3.com/diggnation/feed/wmv-large/
-    http://revision3.com/diggnation/feed/quicktime-small/
-    http://revision3.com/diggnation/feed/quicktime-large/
-    http://revision3.com/diggnation/feed/quicktime-high-definition/
-    http://revision3.com/diggnation/feed/mp4-hd30/)
+  it 'should have array of urls from combinificator:sources' do
+    @podcast.combinificator_sources.map { |s| s.url }.should == [
+      "http://revision3.com/diggnation/feed/mp4-hd30/", 
+      "http://revision3.com/diggnation/feed/quicktime-high-definition/", 
+      "http://revision3.com/diggnation/feed/quicktime-large/", 
+      "http://revision3.com/diggnation/feed/quicktime-small/", 
+      "http://revision3.com/diggnation/feed/wmv-large/", 
+      "http://revision3.com/diggnation/feed/wmv-small/", 
+      "http://revision3.com/diggnation/feed/xvid-large/", 
+      "http://revision3.com/diggnation/feed/xvid-small/", 
+      "http://revision3.com/diggnation/feed/mp3/"
+    ]
+  end
+
+  it 'should have array of enclosure urls from combinificator:sources' do
+    @podcast.combinificator_sources.map { |s| s.enclosure.url }.should == [
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--hd720p30.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--hd.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.wmv9.wmv", 
+      "http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.wmv9.wmv", 
+      "http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.xvid.avi", 
+      "http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.xvid.avi", 
+      "http://www.podtrac.com/pts/redirect.mp3/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.lame.mp3"
+    ]
+  end
+
+  it 'should have array of sizes from combinificator:sources' do
+    @podcast.combinificator_sources.map { |s| s.enclosure.size }.should == [
+      568539428, 476982528, 385712306, 135318410, 385987610, 147700570, 330597352, 214916040, 37923840
+    ]
+  end
+
+  it 'should have array of durations from combinificator:sources' do
+    @podcast.combinificator_sources.map { |s| s.enclosure.duration.to_i }.should == [
+      2316, 2316, 2316, 2316, 2316, 2316, 2316, 2316, 2316
+    ]
+  end
+
+  it 'should have array of urls from combinificator:sources' do
+    @podcast.combinificator_sources.map { |s| s.enclosure.url }.should == [
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--hd720p30.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--hd.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.mp4/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.h264.mp4", 
+      "http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.wmv9.wmv", 
+      "http://www.podtrac.com/pts/redirect.wmv/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.wmv9.wmv", 
+      "http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.xvid.avi", 
+      "http://www.podtrac.com/pts/redirect.avi/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--small.xvid.avi", 
+      "http://www.podtrac.com/pts/redirect.mp3/bitcast-a.bitgravity.com/revision3/web/diggnation/0219/diggnation--0219--handmade--large.lame.mp3"
+    ]
+  end
+
+  it 'should have array of extensions from combinificator:sources' do
+    @podcast.combinificator_sources.map { |s| s.enclosure.extension }.should == [
+      "mp4", "mp4", "mp4", "mp4", "wmv", "wmv", "avi", "avi", "mp3"
+    ]
+  end
+
+  it 'should have an array of enclosure is_primary? booleans from combinificator:sources' do
+    @podcast.combinificator_sources.map { |s| s.is_primary? }.should == [false, false, false, false, false, false, false, false, true]
   end
 
   describe "first episode" do

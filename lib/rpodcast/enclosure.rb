@@ -23,7 +23,7 @@ module RPodcast
       @content_type = element['type'] rescue nil
       @size         = (element['size'] or element['length'] or element['fileSize']).to_i rescue nil
       @format       = self.extension || @@content_types[self.content_type] || :unknown
-      @bitrate      = (((@size || 0) * 8) / 1000.0) / (@duration || @episode.duration).to_f
+      @bitrate      = (((@size || 0) * 8) / 1000.0) / (@duration || @episode.duration).to_f rescue 0.0
       @bitrate      = 0 unless @bitrate.finite?
     end
 

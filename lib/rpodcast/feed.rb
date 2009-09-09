@@ -11,7 +11,7 @@ module RPodcast
   class BannedFeedError < PodcastError; end
 
   class Feed
-    FEED_ATTRIBUTES = [:title, :subtitle, :link, :links, :image, :summary, :language, 
+    FEED_ATTRIBUTES = [:title, :subtitle, :link, :combinificator_sources, :image, :summary, :language, 
                        :owner_email, :owner_name, :keywords, :categories, 
                        :copyright, :episodes, :bitrate, :format, :generator, 
                        :audio?, :video?, :explicit?, :hd?, :torrent?, 
@@ -158,8 +158,8 @@ module RPodcast
         end }.compact
     end
     
-    def parse_links(h)
-      (h / 'feedfunnel:origLink').map { |l| l.inner_text }
+    def parse_combinificator_sources(h)
+      h.search('combinificator:source').map { |s| CombinificatorSource.new(s) }
     end
 
     protected
